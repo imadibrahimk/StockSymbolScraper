@@ -1,0 +1,4790 @@
+1: Jagjanani Text. == ID: 532825
+2: Manbro Indust. == ID: 512595
+3: Aananda Lakshmi == ID: 539096
+4: Monotype India == ID: 505343
+5: Vintron Info. == ID: 517393
+6: Medinova Diagno. == ID: 526301
+7: Spice IslandsInd == ID: 526827
+8: Ksolves India == ID: KSOLVES
+9: Varyaa Creations == ID: 544168
+10: Guj. Toolroom == ID: 513337
+11: Associated == ID: 544183
+12: Nestle India == ID: NESTLEIND
+13: SBEC Systems == ID: 517360
+14: Swadeshi Polytex == ID: 503816
+15: Tuticorin Alkali == ID: 506808
+16: Kothari Indl == ID: 509732
+17: Athena Global == ID: 517429
+18: Infronics Sys. == ID: 537985
+19: Ambitious Plasto == ID: 526439
+20: Maha Rashtra Apx == ID: MAHAPEXLTD
+21: Franklin Indust. == ID: 540190
+22: Sathlokhar == ID: SSEGL
+23: Press. Senstive == ID: 526773
+24: Triveni Glass == ID: 502281
+25: P & G Hygiene == ID: PGHH
+26: RRPSemiconductor == ID: 504346
+27: Spectrum Foods == ID: 531982
+28: Tips Music == ID: TIPSMUSIC
+29: Waaree Renewab. == ID: 534618
+30: Gayatri Sugars == ID: 532183
+31: Remedium Life == ID: 539561
+32: Modern Engineer. == ID: 539762
+33: Bridge Securitie == ID: 530249
+34: Blue Pebble == ID: BLUEPEBBLE
+35: Colgate-Palmoliv == ID: COLPAL
+36: Positron == ID: POSITRON
+37: Technvision Ven. == ID: 501421
+38: Vuenow Infratech == ID: 531997
+39: Rajkamal Synth. == ID: 514028
+40: Flora Textiles == ID: 530705
+41: Mishtann Foods == ID: 539594
+42: Shubhshree == ID: SHUBHSHREE
+43: One Global Serv == ID: 514330
+44: Network People == ID: NPST
+45: 21st Cent. Mgmt. == ID: 21STCENMGM
+46: Lloyds Metals == ID: LLOYDSME
+47: Jhandewala Foods == ID: 540850
+48: Crestchem == ID: 526269
+49: Akiko == ID: AKIKO
+50: Esab India == ID: ESABINDIA
+51: Teerth == ID: TGL
+52: Shilchar Tech. == ID: 531201
+53: Envirotech == ID: ENVIRO
+54: P. H. Capital == ID: 500143
+55: Life Insurance == ID: LICI
+56: Danish Power == ID: DANISH
+57: Prizor Viztech == ID: PRIZOR
+58: Naturewings Hol. == ID: 544245
+59: Sanofi India == ID: SANOFI
+60: IB Infotech == ID: 519463
+61: Rockingdeals Cir == ID: ROCKINGDCE
+62: Olatech Solution == ID: 543578
+63: Bhudevi Infra == ID: 526488
+64: Sh. Rajas. Synt. == ID: 503837
+65: Yuranus Infrast. == ID: 536846
+66: Share == ID: 544251
+67: VJTF Eduservices == ID: 509026
+68: Trom == ID: TROM
+69: Vipul Ltd == ID: VIPULLTD
+70: Nexus Surgical == ID: 538874
+71: Jyoti Resins == ID: 514448
+72: Veritaas == ID: VERITAAS
+73: Sanathnagar Ent. == ID: 509423
+74: Cochin Malabar == ID: 508571
+75: Sahasra Electro. == ID: SAHASRA
+76: Cropster Agro == ID: 523105
+77: NINtec Systems == ID: NINSYS
+78: TCS == ID: TCS
+79: Basilic Fly Stud == ID: BASILIC
+80: My Mudra Fin. == ID: MYMUDRA
+81: Coal India == ID: COALINDIA
+82: Z-Tech == ID: ZTECH
+83: Jai Balaji Inds. == ID: JAIBALAJI
+84: BNR Udyog == ID: 530809
+85: Promact Impex == ID: 526494
+86: Kiduja India == ID: 507946
+87: Wanbury == ID: WANBURY
+88: Trust Fintech == ID: TRUST
+89: Everlon Fin. == ID: 514358
+90: Nephro Care == ID: NEPHROCARE
+91: Slone == ID: SLONE
+92: Sanjiv.Parant. == ID: 531569
+93: Dindigul Farm == ID: 544201
+94: Gillette India == ID: GILLETTE
+95: E Factor Experie == ID: EFACTOR
+96: Sumuka Agro == ID: 532070
+97: Jeena Sikho == ID: JSLL
+98: Quest == ID: QUESTLAB
+99: Key Corp == ID: 507948
+100: Accelya Solution == ID: ACCELYA
+101: Wealth First Por == ID: WEALTH
+102: Brace Port == ID: BRACEPORT
+103: Castrol India == ID: CASTROLIND
+104: Forbes Precision == ID: 544186
+105: Prime Industries == ID: 519299
+106: Macfos == ID: 543787
+107: Lakshya Powertec == ID: LAKSHYA
+108: Suratwwala Busi. == ID: SBGLP
+109: Comfort Comtrade == ID: 534691
+110: TAC Infosec == ID: TAC
+111: Global Education == ID: GLOBAL
+112: Winsol == ID: WINSOL
+113: OSEL Devices == ID: OSELDEVICE
+114: Shine Fashions == ID: 543244
+115: I R C T C == ID: IRCTC
+116: Sigma Solve == ID: SIGMA
+117: Gem Enviro == ID: 544199
+118: Tunwal E-Motors == ID: TUNWAL
+119: Owais Metal == ID: OWAIS
+120: Monarch Networth == ID: MONARCH
+121: Swaraj Engines == ID: SWARAJENG
+122: Kronox Lab == ID: KRONOX
+123: Ingersoll-Rand == ID: INGERRAND
+124: Glaxosmi. Pharma == ID: GLAXO
+125: Hyundai Motor I == ID: HYUNDAI
+126: AccelerateBS Ind == ID: 543938
+127: Anand Rathi Wea. == ID: ANANDRATHI
+128: Rulka == ID: RULKA
+129: Petro Carbon == ID: PCCL
+130: Dhariwalcorp == ID: DHARIWAL
+131: DCM == ID: DCM
+132: WOL 3D == ID: WOL3D
+133: Gretex Corporate == ID: 543324
+134: Harshdeep == ID: 544105
+135: Indian Energy Ex == ID: IEX
+136: Cams Services == ID: CAMS
+137: Pulsar Intl. == ID: 512591
+138: Garuda Cons == ID: GARUDA
+139: Alacrity Sec. == ID: 535916
+140: Britannia Inds. == ID: BRITANNIA
+141: South. Magnesium == ID: 513498
+142: Concord Control == ID: 543619
+143: Sanstar == ID: SANSTAR
+144: HB Stockholdings == ID: HBSL
+145: Systematix Corp. == ID: 526506
+146: Techknowgreen == ID: 543991
+147: Advani Hotels. == ID: ADVANIHOTR
+148: Goenka Business == ID: 538787
+149: Motherson Wiring == ID: MSUMI
+150: Tata Tele. Mah. == ID: TTML
+151: Insolation Ener == ID: 543620
+152: Avantel == ID: AVANTEL
+153: Panorama Studios == ID: 539469
+154: Sahana Systems == ID: SAHANA
+155: CG Power & Ind == ID: CGPOWER
+156: Som Datt Finance == ID: 511571
+157: Kesar Enterprise == ID: 507180
+158: JNK == ID: JNKINDIA
+159: Automotive Stamp == ID: ASAL
+160: Storage Tech == ID: 544171
+161: Hindustan Zinc == ID: HINDZINC
+162: Prithvi Exchange == ID: 531688
+163: Zen Technologies == ID: ZENTEC
+164: Brisk Technovisi == ID: 544101
+165: Abbott India == ID: ABBOTINDIA
+166: Dreamfolks Servi == ID: DREAMFOLKS
+167: Jagsonpal Fin. == ID: 530601
+168: Krishca Strapp. == ID: KRISHCA
+169: Effwa Infra == ID: EFFWA
+170: Cyber Media Ind == ID: CYBERMEDIA
+171: Finelistings == ID: 544173
+172: ADC India == ID: 523411
+173: Arkade == ID: ARKADE
+174: Saraswati == ID: SSDL
+175: Page Industries == ID: PAGEIND
+176: Ganesh Housing == ID: GANESHHOUC
+177: Guj. Themis Bio. == ID: 506879
+178: Vasa Denticity == ID: DENTALKART
+179: P & G Health Ltd == ID: PGHL
+180: Rapid Multimodal == ID: 544237
+181: Hawkins Cookers == ID: 508486
+182: R S Software (I) == ID: RSSOFTWARE
+183: Shukra Pharma. == ID: 524632
+184: Dynacons Sys. == ID: DSSL
+185: Mazagon Dock == ID: MAZDOCK
+186: Digikore Studios == ID: DIGIKORE
+187: Apar Inds. == ID: APARINDS
+188: Taparia Tools == ID: 505685
+189: Waaree Energies == ID: WAAREEENER
+190: Pulz Electronics == ID: PULZ
+191: PNGS Gargi FJ == ID: 543709
+192: Easy Trip Plann. == ID: EASEMYTRIP
+193: Prudent Corp. == ID: PRUDENT
+194: Nicco Parks == ID: 526721
+195: Electro Force == ID: EFORCE
+196: Marico == ID: MARICO
+197: Inox India == ID: INOXINDIA
+198: TBO Tek == ID: TBOTEK
+199: Ecos (India) == ID: ECOSMOBLTY
+200: Uni Abex Alloy == ID: 504605
+201: Escorp Asset Mgt == ID: 540455
+202: Tata Elxsi == ID: TATAELXSI
+203: Beacon == ID: BEACON
+204: Macobs == ID: MACOBSTECH
+205: Action Const.Eq. == ID: ACE
+206: Akzo Nobel == ID: AKZOINDIA
+207: Vdeal == ID: VDEAL
+208: Artificial Elect == ID: 526443
+209: KRN Heat Exchan == ID: KRN
+210: DDev Plastiks == ID: 543547
+211: Share India Sec. == ID: SHAREINDIA
+212: Bulkcorp == ID: BULKCORP
+213: Boss Packaging == ID: BOSS
+214: CRISIL == ID: CRISIL
+215: Kothari Petroche == ID: KOTHARIPET
+216: Fonebox == ID: FONEBOX
+217: Mefcom Capital == ID: 531176
+218: Netlink Solns(I) == ID: 509040
+219: K.P. Energy == ID: 539686
+220: Axtel Industries == ID: 523850
+221: Benares Hotels == ID: 509438
+222: Kore Digital == ID: KDL
+223: Infollion Resea. == ID: INFOLLION
+224: Brady & Morris == ID: 505690
+225: GP Eco == ID: GPECO
+226: Manav Infra == ID: MANAV
+227: Danlaw Tech. == ID: 532329
+228: C D S L == ID: CDSL
+229: Electrotherm(I) == ID: ELECTHERM
+230: Addictive Learn == ID: LAWSIKHO
+231: Integ. Industrie == ID: 531889
+232: Infosys == ID: INFY
+233: Steelcast == ID: STEELCAS
+234: Jay Bee Laminati == ID: JAYBEE
+235: Oracle Fin.Serv. == ID: OFSS
+236: V.L.Infraproject == ID: VLINFRA
+237: Taylormade Renew == ID: 541228
+238: Sahaj Solar == ID: SAHAJSOLAR
+239: Authum Invest == ID: AIIL
+240: Sharda Motor == ID: SHARDAMOTR
+241: Kesar India == ID: 543542
+242: ROX Hi-Tech == ID: ROXHITECH
+243: Focus Lighting == ID: FOCUS
+244: Revathi Equip == ID: REVATHIEQU
+245: Piotex == ID: 544178
+246: Hind.Aeronautics == ID: HAL
+247: Angel One == ID: ANGELONE
+248: Fineotex Chem == ID: FCL
+249: Spright Agro == ID: 531205
+250: Sh. Ganesh Elas. == ID: 530797
+251: Vadilal Enterp. == ID: 519152
+252: Faalcon Concepts == ID: FAALCON
+253: Ganesh Green == ID: GGBL
+254: Netweb Technol. == ID: NETWEB
+255: Dhanalaxmi Roto == ID: 521216
+256: KPIT Technologi. == ID: KPITTECH
+257: Indrapr.Medical == ID: INDRAMEDCO
+258: Triveni Turbine == ID: TRITURBINE
+259: Tanla Platforms == ID: TANLA
+260: Rappid Valves == ID: RAPPID
+261: P N Gadgil Jewe. == ID: PNGJL
+262: Unique Organics == ID: 530997
+263: Axita Cotton == ID: AXITA
+264: HDFC AMC == ID: HDFCAMC
+265: Hoac Foods == ID: HOACFOODS
+266: TRF == ID: TRF
+267: Oriana Power Ltd == ID: ORIANA
+268: Enser == ID: ENSER
+269: Asian Paints == ID: ASIANPAINT
+270: ITC == ID: ITC
+271: Thinking == ID: THESL
+272: Advait Infratech == ID: 543230
+273: Supreme Power == ID: SUPREMEPWR
+274: Schneider Elect. == ID: SCHNEIDER
+275: Radiowalla == ID: RADIOWALLA
+276: Aesthetik == ID: AESTHETIK
+277: Elixir Capital == ID: 531278
+278: DCG Cables == ID: DCG
+279: Afcom == ID: 544224
+280: Deccan Transcon == ID: DECCANTRAN
+281: Mahanagar Gas == ID: MGL
+282: Vraj Iron == ID: VRAJ
+283: Aeron Composites == ID: AERON
+284: Amic Forging == ID: 544037
+285: Aspire & Innovat == ID: ASPIRE
+286: Evans Electric == ID: 542668
+287: Cello World == ID: CELLO
+288: Nippon Life Ind. == ID: NAM-INDIA
+289: Premium Plast == ID: PREMIUM
+290: Aluwind == ID: ALUWIND
+291: Span Divergent == ID: 524727
+292: Prism Finance == ID: 531735
+293: HBL Power System == ID: HBLPOWER
+294: K2 Infragen == ID: K2INFRA
+295: Thomas Scott == ID: THOMASCOTT
+296: MPS == ID: MPSLTD
+297: Abhinav Leasing == ID: 538952
+298: Bondada Engineer == ID: 543971
+299: Sayaji Hot. Pune == ID: 544090
+300: Sona Machinery == ID: SONAMAC
+301: Sonata Software == ID: SONATSOFTW
+302: Exhicon Events == ID: 543895
+303: C P C L == ID: CHENNPETRO
+304: SKM Egg Prod. == ID: SKMEGGPROD
+305: Arrow Greentech == ID: ARROWGREEN
+306: Cummins India == ID: CUMMINSIND
+307: Nitta Gelatin == ID: 506532
+308: Kalyani Cast-Tec == ID: 544023
+309: R K Swamy == ID: RKSWAMY
+310: Shekhawati Inds == ID: SHEKHAWATI
+311: Kamdhenu == ID: KAMDHENU
+312: Khemani Distrib. == ID: 539788
+313: Magson Retail == ID: MAGSON
+314: Aditya AMC == ID: ABSLAMC
+315: Moongipa Capital == ID: 530167
+316: Aztec Fluids == ID: 544177
+317: Shree Pacetronix == ID: 527005
+318: Pee Cee Cosma == ID: 524136
+319: RPG LifeScience. == ID: RPGLIFE
+320: MSTC == ID: MSTCLTD
+321: Bharat Electron == ID: BEL
+322: IIFL Securities == ID: IIFLSEC
+323: Geekay Wires == ID: GEEKAYWIRE
+324: Indo Tech.Trans. == ID: INDOTECH
+325: Vishnusurya == ID: VISHNUINFR
+326: Aimtron == ID: AIMTRON
+327: S A Tech == ID: SATECH
+328: ICE Make Refrig. == ID: ICEMAKE
+329: Kriti Nutrients == ID: KRITINUT
+330: Eco Recyc. == ID: 530643
+331: Sh. Digvijay Cem == ID: SHREDIGCEM
+332: Viviana Power == ID: VIVIANA
+333: Sai Swami Metals == ID: 544170
+334: Orient == ID: ORIENTTECH
+335: Bayer Crop Sci. == ID: BAYERCROP
+336: G M Polyplast == ID: 543239
+337: Nirman Agri == ID: NIRMAN
+338: Sobhagya Mercant == ID: 512014
+339: Stylam Industrie == ID: STYLAMIND
+340: Shivalik Bimetal == ID: SBCL
+341: NIIT Learning == ID: NIITMTS
+342: Galaxy Agrico == ID: 531911
+343: Bajaj Auto == ID: BAJAJ-AUTO
+344: Canarys == ID: CANARYS
+345: Kross Ltd == ID: KROSS
+346: Shanthi Gears == ID: SHANTIGEAR
+347: Master Trust == ID: 511768
+348: Vibrant Glo. Cap == ID: 538732
+349: Timex Group == ID: 500414
+350: L&T Technology == ID: LTTS
+351: Vistar Amar == ID: 538565
+352: Neuland Labs. == ID: NEULANDLAB
+353: Tanfac Inds. == ID: 506854
+354: S J Logistics (I == ID: SJLOGISTIC
+355: 3M India == ID: 3MINDIA
+356: Beta Drugs Ltd == ID: BETA
+357: Vinsys IT Serv. == ID: VINSYS
+358: Prakash Pipes == ID: PPL
+359: Steel Strips Inf == ID: 513173
+360: Quasar India == ID: 538452
+361: Shantidoot Infra == ID: 543598
+362: Tinna Rubber == ID: 530475
+363: Likhitha Infra. == ID: LIKHITHA
+364: Dynavision == ID: 517238
+365: Energy-Mission == ID: EMMIL
+366: Yash Optics == ID: YASHOPTICS
+367: Getalong Enterp. == ID: 543372
+368: Solar Industries == ID: SOLARINDS
+369: Kachchh Minerals == ID: 531778
+370: Excellent Wires == ID: EXCELLENT
+371: Nagreeka Cap. == ID: NAGREEKCAP
+372: Esconet == ID: ESCONET
+373: Pecos Hotels == ID: 539273
+374: Adani Power == ID: ADANIPOWER
+375: VST Industries == ID: VSTIND
+376: Innovana Think. == ID: INNOVANA
+377: B P C L == ID: BPCL
+378: Gopal Snacks == ID: GOPAL
+379: Fluidomat == ID: 522017
+380: NBCC == ID: NBCC
+381: Ecoplast == ID: 526703
+382: Nucleus Soft. == ID: NUCLEUS
+383: Response Info. == ID: 538273
+384: Pratham EPC == ID: PRATHAM
+385: Phantom Digital == ID: PHANTOMFX
+386: eClerx Services == ID: ECLERX
+387: Emami == ID: EMAMILTD
+388: Foseco India == ID: FOSECOIND
+389: Keynote Finan. == ID: KEYFINSERV
+390: RMC Switchgears == ID: 540358
+391: Jupiter Wagons == ID: JWL
+392: Ajanta Pharma == ID: AJANTPHARM
+393: Shelter Pharma == ID: 543963
+394: Volt.Transform. == ID: VOLTAMP
+395: Gandhi Spl. Tube == ID: GANDHITUBE
+396: Styrenix Perfor. == ID: STYRENIX
+397: I T D C == ID: ITDC
+398: Shakti Pumps == ID: SHAKTIPUMP
+399: Mold-Tek Technol == ID: MOLDTECH
+400: Sunlite == ID: SUNLITE
+401: Polycab India == ID: POLYCAB
+402: Elecon Engg.Co == ID: ELECON
+403: TAAL Enterprises == ID: 539956
+404: Shreyans Inds. == ID: SHREYANIND
+405: Cigniti Tech. == ID: CIGNITITEC
+406: LTIMindtree == ID: LTIM
+407: Eicher Motors == ID: EICHERMOT
+408: Indian == ID: IEML
+409: Astrazeneca Phar == ID: ASTRAZEN
+410: OBSC Perfection == ID: OBSCP
+411: Naman In-Store == ID: NAMAN
+412: Interiors == ID: INM
+413: Kewal Kir.Cloth. == ID: KKCL
+414: Sharda Ispat == ID: 513548
+415: Safari Inds. == ID: SAFARI
+416: BLS Internat. == ID: BLS
+417: Accent Microcell == ID: ACCENTMIC
+418: Raymond == ID: RAYMOND
+419: Brightcom Group == ID: BCG
+420: NMDC == ID: NMDC
+421: Black Box == ID: BBOX
+422: Prolife Indust. == ID: PROLIFE
+423: Jasch Gauging == ID: 544112
+424: Balu Forge == ID: BALUFORGE
+425: Vedant Fashions == ID: MANYAVAR
+426: Jamna Auto Inds. == ID: JAMNAAUTO
+427: A B B == ID: ABB
+428: Vikram Thermo == ID: 530477
+429: Doms Industries == ID: DOMS
+430: Maxposure == ID: MAXPOSURE
+431: Enfuse == ID: ENFUSE
+432: Nexxus Petro == ID: 544265
+433: Alldigi Tech == ID: ALLDIGI
+434: U P Hotels == ID: 509960
+435: Zeal Global Serv == ID: ZEAL
+436: Dhruva Cap.Serv. == ID: 531237
+437: SKP Securities == ID: 531169
+438: GPT Healthcare == ID: GPTHEALTH
+439: KFin Technolog. == ID: KFINTECH
+440: Cyber Media Res. == ID: CMRSL
+441: RNFI == ID: RNFI
+442: Natco Pharma == ID: NATCOPHARM
+443: Kingfa Science == ID: KINGFA
+444: HVAX Technolog. == ID: HVAX
+445: Radiant Cash == ID: RADIANTCMS
+446: Bombay Metrics == ID: BMETRICS
+447: Blue Jet Health == ID: BLUEJET
+448: Shivalic == ID: SPCL
+449: Party Cruisers == ID: PARTYCRUS
+450: DRC Systems == ID: DRCSYSTEMS
+451: KP Green Engg. == ID: 544150
+452: Hemant Surgical == ID: 543916
+453: Ceigall India == ID: CEIGALL
+454: Sanrhea Tech. == ID: 514280
+455: Birlasoft Ltd == ID: BSOFT
+456: Urban Enviro == ID: URBAN
+457: Pidilite Inds. == ID: PIDILITIND
+458: Macpower CNC == ID: MACPOWER
+459: Bikaji Foods == ID: BIKAJI
+460: Saptarishi Agro == ID: 519238
+461: HCL Technologies == ID: HCLTECH
+462: Piccadily Agro == ID: 530305
+463: Clean Science == ID: CLEAN
+464: Travels == ID: 544242
+465: U. Y. Fincorp == ID: UYFINCORP
+466: Upsurge Invest. == ID: 531390
+467: D-Link India == ID: DLINKINDIA
+468: Trident Techlabs == ID: TECHLABS
+469: Deepak == ID: 544036
+470: Man Infra == ID: MANINFRA
+471: DC Infotech == ID: DCI
+472: EMS == ID: EMSLIMITED
+473: Praj Industries == ID: PRAJIND
+474: West Coast Paper == ID: WSTCSTPAPR
+475: Visco Trade == ID: 540097
+476: Redtape == ID: REDTAPE
+477: ISL Consulting == ID: 511609
+478: Premier Polyfilm == ID: PREMIERPOL
+479: Gian Lifecare == ID: 542918
+480: Cellecor Gadgets == ID: CELLECOR
+481: Godawari Power == ID: GPIL
+482: Persistent Sys == ID: PERSISTENT
+483: Silicon Rental == ID: 543615
+484: Dixon Technolog. == ID: DIXON
+485: SKF India == ID: SKFINDIA
+486: Paramount Specia == ID: PSFL
+487: Pranik Logistics == ID: PRANIK
+488: Hero Motocorp == ID: HEROMOTOCO
+489: Fine Organic == ID: FINEORG
+490: Indegene == ID: INDGN
+491: Inspirisys Sol. == ID: INSPIRISYS
+492: Premier Road == ID: PRLIND
+493: Arihant Capital == ID: ARIHANTCAP
+494: Paragon Fine == ID: PARAGON
+495: Chandni Machines == ID: 542627
+496: Shardul Sec. == ID: 512393
+497: V-Marc India == ID: VMARCIND
+498: Varun Beverages == ID: VBL
+499: Indraprastha Gas == ID: IGL
+500: Suraj Estate == ID: SURAJEST
+501: RBM Infracon == ID: RBMINFRA
+502: Kizi Apparels == ID: 544221
+503: Lloyds Engineeri == ID: LLOYDSENGG
+504: Sera Investments == ID: 512399
+505: Coforge == ID: COFORGE
+506: Jupiter Info. == ID: 534623
+507: Supreme Inds. == ID: SUPREMEIND
+508: B N Rathi Sec. == ID: 523019
+509: Swastika Investm == ID: 530585
+510: Interarch Build. == ID: INTERARCH
+511: Kody Technolab == ID: KODYTECH
+512: Venus Pipes == ID: VENUSPIPES
+513: Systango Tech == ID: SYSTANGO
+514: Meson Valves Ind == ID: 543982
+515: Loyal Equipments == ID: 539227
+516: Seacoast Ship. == ID: 542753
+517: Bombay Burmah == ID: BBTC
+518: Thejo Engg. == ID: THEJO
+519: TCC Concept == ID: 512038
+520: Tata Technolog. == ID: TATATECH
+521: Morganite Crucib == ID: 523160
+522: Indo Thai Sec. == ID: INDOTHAI
+523: Creative Graphic == ID: CGRAPHICS
+524: Kilburn Engg. == ID: 522101
+525: Ganesha Ecoverse == ID: 539041
+526: Glenmark Life == ID: GLS
+527: Crayons Advertis == ID: CRAYONS
+528: SRM Contractors == ID: SRM
+529: A K Spintex == ID: 539300
+530: Rolex Rings == ID: ROLEXRINGS
+531: Sunrise Efficie. == ID: 543515
+532: Infinium Pharma == ID: INFINIUM
+533: High Energy Bat. == ID: 504176
+534: United Spirits == ID: UNITDSPR
+535: Shriram Pistons == ID: SHRIPISTON
+536: Concord Biotech == ID: CONCORDBIO
+537: Gravita India == ID: GRAVITA
+538: Shree Ganesh Rem == ID: 540737
+539: Albert David == ID: ALBERTDAVD
+540: Atmastco Ltd == ID: ATMASTCO
+541: Nirlon == ID: 500307
+542: Ratnamani Metals == ID: RATNAMANI
+543: Ovobel Foods == ID: 530741
+544: Saksoft == ID: SAKSOFT
+545: Galaxy Bearings == ID: 526073
+546: Elantas Beck == ID: 500123
+547: Dolat Algotech == ID: DOLATALGO
+548: Unicommerce == ID: UNIECOM
+549: Womancart == ID: WOMANCART
+550: Hindustan Hardy == ID: 505893
+551: Berger Paints == ID: BERGEPAINT
+552: Sunita Tools Ltd == ID: 544001
+553: ION Exchange == ID: IONEXCHANG
+554: Alpex Solar == ID: ALPEXSOLAR
+555: Zenith == ID: ZENITHDRUG
+556: Garden Reach Sh. == ID: GRSE
+557: Kirl. Brothers == ID: KIRLOSBROS
+558: Saumya Cons == ID: 539218
+559: Hind. Unilever == ID: HINDUNILVR
+560: Shri Gang Indus == ID: 523309
+561: KEI Industries == ID: KEI
+562: Gulf Oil Lubric. == ID: GULFOILLUB
+563: Platinum Industr == ID: PLATIND
+564: Ashoka Buildcon == ID: ASHOKA
+565: Vadilal Inds. == ID: VADILALIND
+566: D.P. Abhushan == ID: DPABHUSHAN
+567: ITD Cem == ID: ITDCEM
+568: Cupid == ID: CUPID
+569: DMR Hydroengg. == ID: 543410
+570: Silkflex == ID: SILKFLEX
+571: Megatherm == ID: MEGATHERM
+572: Wallfort Fin. == ID: 532053
+573: Creative Newtech == ID: CREATIVE
+574: Jyothy Labs == ID: JYOTHYLAB
+575: Magellanic Cloud == ID: 538891
+576: Banco Products == ID: BANCOINDIA
+577: CMS Info Systems == ID: CMSINFO
+578: Dhanuka Agritech == ID: DHANUKA
+579: Pudumjee Paper == ID: PDMJEPAPER
+580: Prevest Denpro == ID: 543363
+581: IRIS Business == ID: IRIS
+582: Gabriel India == ID: GABRIEL
+583: Schaeffler India == ID: SCHAEFFLER
+584: Delaplex == ID: DELAPLEX
+585: Automotive Axles == ID: AUTOAXLES
+586: Fiem Industries == ID: FIEMIND
+587: M K Exim India == ID: 538890
+588: Le Lavoir == ID: 539814
+589: Cochin Minerals == ID: 513353
+590: Newgen Software == ID: NEWGEN
+591: Narayana Hrudaya == ID: NH
+592: Dr Reddy's Labs == ID: DRREDDY
+593: TCI Express == ID: TCIEXP
+594: Aeroflex == ID: AEROFLEX
+595: Caplin Point Lab == ID: CAPLIPOINT
+596: Wise Travel == ID: WTICAB
+597: Petronet LNG == ID: PETRONET
+598: Intl. Combustion == ID: 505737
+599: Refex Industries == ID: REFEX
+600: AVP Infracon == ID: AVPINFRA
+601: Deepak Builders == ID: DBEIL
+602: Tube Investments == ID: TIINDIA
+603: Rajputana == ID: RAJINDLTD
+604: Foce India == ID: FOCE
+605: Sun TV Network == ID: SUNTV
+606: Jenburkt Pharma == ID: 524731
+607: Polychem == ID: 506605
+608: C.E. Info System == ID: MAPMYINDIA
+609: Peninsula Land == ID: PENINLAND
+610: Kisaan Parivar == ID: 519230
+611: Vesuvius India == ID: VESUVIUS
+612: R Systems Intl. == ID: RSYSTEMS
+613: Grauer & Weil == ID: GRAUWEIL
+614: Titan Biotech == ID: 524717
+615: Mahalaxmi Seam. == ID: 513460
+616: Holmarc Opto == ID: HOLMARC
+617: Suraj Products == ID: 518075
+618: Coromandel Inter == ID: COROMANDEL
+619: Techera == ID: TECHERA
+620: Disa India == ID: 500068
+621: Aryaman Fin.Serv == ID: 530245
+622: KNR Construct. == ID: KNRCON
+623: M R P L == ID: MRPL
+624: Archean Chemical == ID: ACI
+625: Tembo Global == ID: TEMBO
+626: Adinath Textiles == ID: 514113
+627: Updater Services == ID: UDS
+628: Anuh Pharma == ID: 506260
+629: Sika Interplant == ID: 523606
+630: Josts Engg. Co. == ID: 505750
+631: Parker Agrochem == ID: 524628
+632: Keltech Energies == ID: 506528
+633: Blue Star == ID: BLUESTARCO
+634: TD Power Systems == ID: TDPOWERSYS
+635: Rites == ID: RITES
+636: Prec. Wires (I) == ID: PRECWIRE
+637: Mrs Bectors == ID: BECTORFOOD
+638: Sonal Adhesives == ID: 526901
+639: Octal Credit Cap == ID: 538894
+640: Mahalaxmi Rubtec == ID: MHLXMIRU
+641: Kaka Industries == ID: 543939
+642: W S Inds. == ID: WSI
+643: Premier Energies == ID: PREMIERENE
+644: Daulat Securitie == ID: 530171
+645: Menon Pistons == ID: 531727
+646: Felix Industries == ID: FELIX
+647: APL Apollo Tubes == ID: APLAPOLLO
+648: Stellant Secu. == ID: 526071
+649: Dr Lal Pathlabs == ID: LALPATHLAB
+650: Sameera Agro == ID: SAIFL
+651: Zensar Tech. == ID: ZENSARTECH
+652: Sodhani Academy == ID: 544257
+653: AGI Infra == ID: AGIIL
+654: D B Corp == ID: DBCORP
+655: R M Drip & Sprin == ID: RMDRIP
+656: Jash Engineering == ID: JASH
+657: Kalana == ID: KALANA
+658: EIH Assoc.Hotels == ID: EIHAHOTELS
+659: Alufluoride == ID: 524634
+660: Vasundhara Rasy. == ID: 538634
+661: Captain Pipes == ID: 538817
+662: Brand Concepts == ID: BCONCEPTS
+663: E2E Networks == ID: E2E
+664: Dharni Capital == ID: 543753
+665: Par Drugs & Che. == ID: PAR
+666: BASF India == ID: BASF
+667: Shahi Shipping == ID: 526508
+668: Choice Intl. == ID: CHOICEIN
+669: Titagarh Rail == ID: TITAGARH
+670: Maan Aluminium == ID: MAANALU
+671: Suzlon Energy == ID: SUZLON
+672: Aurangabad Dist. == ID: AURDIS
+673: Rex Sealing == ID: 543744
+674: Aelea == ID: 544213
+675: Arrowhead Sepera == ID: 544025
+676: Lak. Fin. & Indl == ID: LFIC
+677: Permanent Magnet == ID: 504132
+678: Timescan Logist. == ID: TIMESCAN
+679: Vishnu Prakash R == ID: VPRPL
+680: Wendt India == ID: WENDT
+681: Andhra Paper == ID: ANDHRAPAP
+682: Cera Sanitary. == ID: CERA
+683: Grindwell Norton == ID: GRINDWELL
+684: Kaushalya Infra. == ID: KAUSHALYA
+685: Radhika Jeweltec == ID: RADHIKAJWE
+686: D P Wires == ID: DPWIRES
+687: Mankind Pharma == ID: MANKIND
+688: TBI Corn == ID: TBI
+689: Roto Pumps == ID: ROTO
+690: Chavda Infra Ltd == ID: CHAVDA
+691: J B Chemicals & == ID: JBCHEPHARM
+692: Interglobe Aviat == ID: INDIGO
+693: Pricol Ltd == ID: PRICOLLTD
+694: SBC Exports == ID: SBC
+695: Panama Petrochem == ID: PANAMAPET
+696: Nitin Castings == ID: 508875
+697: Bhansali Engg. == ID: BEPL
+698: Exicom Tele-Sys. == ID: EXICOM
+699: Gala Precis. Eng == ID: GALAPREC
+700: KPT Industries == ID: 505299
+701: Havells India == ID: HAVELLS
+702: Shri Techtex == ID: SHRITECH
+703: City Online Ser. == ID: 538674
+704: Pasari Spinning == ID: 521080
+705: Kaycee Inds. == ID: 504084
+706: Integra Engg. == ID: 505358
+707: Prabhhans Inds == ID: 530361
+708: Jubilant Inds. == ID: JUBLINDS
+709: ASK Automotive == ID: ASKAUTOLTD
+710: Bharat Dynamics == ID: BDL
+711: Ador Welding == ID: ADORWELD
+712: POCL Enterprises == ID: 539195
+713: H.G. Infra Engg. == ID: HGINFRA
+714: Atam Valves == ID: ATAM
+715: Shri Balaji == ID: 544074
+716: Dynamic Cables == ID: DYCL
+717: Suraj == ID: SURAJLTD
+718: BIGBLOC Const. == ID: BIGBLOC
+719: Divyadhan Recy. == ID: DIVYADHAN
+720: Sona BLW Precis. == ID: SONACOMS
+721: CFF Fluid == ID: 543920
+722: P I Industries == ID: PIIND
+723: Sirca Paints == ID: SIRCA
+724: Knowledge Marine == ID: 543273
+725: Mphasis == ID: MPHASIS
+726: Priti Internati. == ID: PRITI
+727: Indiamart Inter. == ID: INDIAMART
+728: Kotyark Indust. == ID: KOTYARK
+729: Bombay Super Hyb == ID: BSHSL
+730: Sri Ramakr. Mill == ID: 521178
+731: Yatharth Hospit. == ID: YATHARTH
+732: Utssav == ID: UTSSAV
+733: Modern Threads == ID: MODTHREAD
+734: Arvind & Company == ID: ACSAL
+735: All E Tech == ID: ALLETEC
+736: Ahluwalia Contr. == ID: AHLUCONT
+737: Bajaj Steel Inds == ID: 507944
+738: Force Motors == ID: FORCEMOT
+739: Intl. Conveyors == ID: INTLCONV
+740: Trent == ID: TRENT
+741: Power Mech Proj. == ID: POWERMECH
+742: Contil India == ID: 531067
+743: Indian Metals == ID: IMFA
+744: Kalahridhaan == ID: KTL
+745: Seven Hill Inds. == ID: 511760
+746: Linc == ID: LINC
+747: Italian == ID: ITALIANE
+748: Rajoo Engineers == ID: 522257
+749: Veedol Corporat == ID: VEEDOL
+750: Shree Marutinand == ID: 544083
+751: Univastu India == ID: UNIVASTU
+752: Edvenswa Enter == ID: 517170
+753: Inspire == ID: INSPIRE
+754: SML ISUZU == ID: SMLISUZU
+755: EIH == ID: EIHOTEL
+756: Poly Medicure == ID: POLYMED
+757: Mercury Trade Li == ID: 512415
+758: Alphalogic Indu == ID: 543937
+759: Control Print == ID: CONTROLPR
+760: Synergy Green == ID: SGIL
+761: G M Breweries == ID: GMBREW
+762: Forge Auto == ID: FORGEAUTO
+763: Transteel Seatin == ID: TRANSTEEL
+764: Bervin Invest. == ID: 531340
+765: JTL Industries == ID: JTLIND
+766: NELCO == ID: NELCO
+767: Gokul Agro == ID: GOKULAGRO
+768: Timken India == ID: TIMKEN
+769: Rapid Invest. == ID: 501351
+770: Satia Industries == ID: SATIA
+771: Amines & Plast. == ID: AMNPLST
+772: KSB == ID: KSB
+773: M E T S == ID: 538401
+774: Drone Destinatio == ID: DRONE
+775: Signpost India == ID: SIGNPOST
+776: Star Delta Trans == ID: 539255
+777: BEW Engg == ID: BEWLTD
+778: Shree OSFM == ID: SHREEOSFM
+779: Medi Assist Ser. == ID: MEDIASSIST
+780: Artson Engg. == ID: 522134
+781: Indigo Paints == ID: INDIGOPNTS
+782: Goa Carbon == ID: GOACARBON
+783: Astral == ID: ASTRAL
+784: Torrent Pharma. == ID: TORNTPHARM
+785: SM Auto Stamping == ID: 543065
+786: GE T&D India == ID: GET&D
+787: Garware Tech. == ID: GARFIBRES
+788: RPP Infra Proj. == ID: RPPINFRA
+789: CHL == ID: 532992
+790: Intl. Travel Hse == ID: 500213
+791: Aik Pipes & Poly == ID: 544072
+792: Golech.Glob.Fin. == ID: 531360
+793: DSJ Keep Learn == ID: KEEPLEARN
+794: Dhatre Udyog == ID: 540080
+795: Rishiroop == ID: 526492
+796: Mah. Seamless == ID: MAHSEAMLES
+797: Sita Enterprises == ID: 512589
+798: Dev Information == ID: DEVIT
+799: D.K. Enterprises == ID: DKEGL
+800: Khazanchi Jewell == ID: 543953
+801: L G Balakrishnan == ID: LGBBROSLTD
+802: Cipla == ID: CIPLA
+803: Bajaj Consumer == ID: BAJAJCON
+804: RR Metalmakers == ID: 531667
+805: Valor Estate == ID: DBREALTY
+806: Ram Info == ID: 530951
+807: Fidel Softech == ID: FIDEL
+808: AIA Engineering == ID: AIAENG
+809: Raghav Product. == ID: RPEL
+810: Titan Company == ID: TITAN
+811: Happy Forgings == ID: HAPPYFORGE
+812: Guj Pipavav Port == ID: GPPL
+813: Vinyl Chemicals == ID: VINYLINDIA
+814: Sattrix == ID: 544189
+815: Flair Writing == ID: FLAIR
+816: Guj. Containers == ID: 513507
+817: JMJ Fintech == ID: 538834
+818: Pix Transmission == ID: PIXTRANS
+819: Kovai Medical == ID: KOVAI
+820: UTI AMC == ID: UTIAMC
+821: Siddhika Coatins == ID: SIDDHIKA
+822: Bhagwati Auto == ID: 504646
+823: The Anup Enginee == ID: ANUP
+824: Goyal Associates == ID: 530663
+825: Kay Cee == ID: KCEIL
+826: VVIP Infratech == ID: 544219
+827: Menon Bearings == ID: MENONBE
+828: ICICI Lombard == ID: ICICIGI
+829: Integra Capital == ID: 531314
+830: Punjab Chemicals == ID: PUNJABCHEM
+831: Cenlub Industrie == ID: 522251
+832: Supreme Petroch. == ID: SPLPETRO
+833: Osia Hyper Reta. == ID: OSIAHYPER
+834: Ceinsys Tech == ID: 538734
+835: Gayatri Rubbers == ID: GRCL
+836: NESCO == ID: NESCO
+837: Zodiac Energy == ID: ZODIAC
+838: A B Infrabuild == ID: ABINFRA
+839: Amkay Products == ID: 544169
+840: Zydus Lifesci. == ID: ZYDUSLIFE
+841: One Point One == ID: ONEPOINT
+842: Mahasagar Travel == ID: 526795
+843: Australian Prem == ID: APS
+844: Dabur India == ID: DABUR
+845: Elgi Equipments == ID: ELGIEQUIP
+846: Aurionpro Sol. == ID: AURIONPRO
+847: Lincoln Pharma. == ID: LINCOLN
+848: Jindal Stain. == ID: JSL
+849: Sunshield Chem. == ID: 530845
+850: Sreechem Resins == ID: 514248
+851: Sanghvi Movers == ID: SANGHVIMOV
+852: Engineers India == ID: ENGINERSIN
+853: Madhusudan Masa == ID: MADHUSUDAN
+854: Amiable Logistic == ID: AMIABLE
+855: JSL Industries == ID: 504080
+856: Godfrey Phillips == ID: GODFRYPHLP
+857: Jupiter Life Lin == ID: JLHL
+858: Supriya Lifesci. == ID: SUPRIYA
+859: Arham Tech == ID: ARHAM
+860: Tilaknagar Inds. == ID: TI
+861: NCC == ID: NCC
+862: Usha Martin == ID: USHAMART
+863: Indus Towers == ID: INDUSTOWER
+864: Dodla Dairy == ID: DODLA
+865: Markolines Pavem == ID: 543364
+866: P.E. Analytics == ID: PROPEQUITY
+867: Udayshivakumar == ID: USK
+868: Clara Industries == ID: 543435
+869: Auto Pins (I) == ID: 531994
+870: Goodyear India == ID: GOODYEAR
+871: India Gelatine == ID: 531253
+872: Pfizer == ID: PFIZER
+873: Anlon Tech == ID: ANLON
+874: DE Nora India == ID: DENORA
+875: Smart Finsec == ID: 539494
+876: Hi-Green Carbon == ID: HIGREEN
+877: Vruddhi Engineer == ID: 544157
+878: Arman Financial == ID: ARMANFIN
+879: Dhyaani Trade == ID: 543516
+880: Western Carriers == ID: WCIL
+881: Algoquant Fin == ID: 505725
+882: Cyient == ID: CYIENT
+883: Saraswati Commer == ID: 512020
+884: Maruti Suzuki == ID: MARUTI
+885: Happiest Minds == ID: HAPPSTMNDS
+886: Rudra Gas == ID: 544121
+887: Nova Agritech == ID: NOVAAGRI
+888: Kaveri Seed Co. == ID: KSCL
+889: Aditya Vision == ID: 540205
+890: Kirl.Pneumatic == ID: KIRLPNU
+891: R R Kabel == ID: RRKABEL
+892: 20 Microns == ID: 20MICRONS
+893: IKIO Lighting == ID: IKIO
+894: KMC Speciality == ID: 524520
+895: Onward Technolog == ID: ONWARDTEC
+896: Deepak Nitrite == ID: DEEPAKNTR
+897: GPT Infraproject == ID: GPTINFRA
+898: Gandhar Oil Ref. == ID: GANDHAR
+899: Suyog Telematics == ID: SUYOG
+900: Cochin Shipyard == ID: COCHINSHIP
+901: KPI Green Energy == ID: KPIGREEN
+902: Amba Enterprises == ID: 539196
+903: Srivasavi Adhes. == ID: SRIVASAVI
+904: Jasch Industries == ID: 500220
+905: Guj.St.Petronet == ID: GSPL
+906: Hind.Construct. == ID: HCC
+907: Talbros Auto. == ID: TALBROAUTO
+908: Balaxi Pharma == ID: BALAXI
+909: Shish Industries == ID: 540693
+910: Bisil Plast == ID: 531671
+911: Pearl Global Ind == ID: PGIL
+912: ICRA == ID: ICRA
+913: Jindal Saw == ID: JINDALSAW
+914: Lorenzini Appar. == ID: LAL
+915: New Swan == ID: 544082
+916: Laxmi Goldorna == ID: LGHL
+917: Amrutanjan Healt == ID: AMRUTANJAN
+918: Medico Remedies == ID: MEDICO
+919: DB Intl.Stock == ID: DBSTOCKBRO
+920: Mazda == ID: MAZDA
+921: H P C L == ID: HINDPETRO
+922: Rajnandini Metal == ID: RAJMET
+923: Pakka == ID: PAKKA
+924: Ashapura == ID: ASHALOG
+925: Jyoti CNC Auto. == ID: JYOTICNC
+926: Datamatics Glob. == ID: DATAMATICS
+927: Black Rose Indus == ID: 514183
+928: Adani Total Gas == ID: ATGL
+929: Banas Finance == ID: 509053
+930: SecUR Credential == ID: SECURCRED
+931: Ramky Infra == ID: RAMKY
+932: Kajaria Ceramics == ID: KAJARIACER
+933: I O C L == ID: IOC
+934: Bhatia Communic. == ID: 540956
+935: Filtra Consult. == ID: 539098
+936: Fedders Holding == ID: 511628
+937: L T Foods == ID: LTFOODS
+938: Karnika Industri == ID: KARNIKA
+939: Sh. Jagdamba Pol == ID: 512453
+940: Meghna Infracon == ID: 538668
+941: Nitiraj Engineer == ID: NITIRAJ
+942: Pyramid Technopl == ID: PYRAMID
+943: Jay Jalaram Tech == ID: KORE
+944: 3B Blackbio == ID: 532067
+945: Newjaisa Tech == ID: NEWJAISA
+946: ARCL Organics == ID: 543993
+947: K&R Rail Engine. == ID: 514360
+948: CG-VAK Software == ID: 531489
+949: Vedanta == ID: VEDL
+950: ITCONS E-Soluti. == ID: 543806
+951: ZF Commercial == ID: ZFCVINDIA
+952: Sandesh == ID: SANDESH
+953: W H Brady == ID: 501391
+954: Vilas Transcore == ID: VILAS
+955: Constronics == ID: 523844
+956: Sumitomo Chemi. == ID: SUMICHEM
+957: Matrimony.com == ID: MATRIMONY
+958: Surya Roshni == ID: SURYAROSNI
+959: BFL Asset Finves == ID: 539662
+960: Route Mobile == ID: ROUTE
+961: Motil.Oswal.Fin. == ID: MOTILALOFS
+962: Sikko Industries == ID: SIKKO
+963: Siemens == ID: SIEMENS
+964: GHCL == ID: GHCL
+965: K P R Mill Ltd == ID: KPRMILL
+966: Bosch == ID: BOSCHLTD
+967: BDH Industries == ID: 524828
+968: Marksans Pharma == ID: MARKSANS
+969: Caspian Corporat == ID: 534732
+970: Hind.Adhesive == ID: 514428
+971: CARE Ratings == ID: CARERATING
+972: MKVentures Cap. == ID: 514238
+973: Yug Decor == ID: 540550
+974: Titan Intech == ID: 521005
+975: Frontier Springs == ID: 522195
+976: Rane Brake Lin. == ID: RBL
+977: Gujarat Gas == ID: GUJGASLTD
+978: Vantage Knowledg == ID: 539761
+979: Siyaram Silk == ID: SIYSIL
+980: Expleo Solutions == ID: EXPLEOSOL
+981: Agarwal Indl. == ID: AGARIND
+982: Prima Agro == ID: 519262
+983: CEAT == ID: CEATLTD
+984: WPIL == ID: 505872
+985: Master Component == ID: MASTER
+986: Auro Labs. == ID: 530233
+987: B & A Packaging == ID: 523186
+988: Krystal Integrat == ID: KRYSTAL
+989: Saint-Gob. Sekur == ID: 515043
+990: Rajputana Invest == ID: 539090
+991: Skipper == ID: SKIPPER
+992: Intellect Design == ID: INTELLECT
+993: Magna Electrocas == ID: 517449
+994: Thangamayil Jew. == ID: THANGAMAYL
+995: EID Parry == ID: EIDPARRY
+996: JK Paper == ID: JKPAPER
+997: Relicab Cable == ID: 539760
+998: Chamanlal Setia == ID: CLSEL
+999: Railtel Corpn. == ID: RAILTEL
+1000: Unihealth Consul == ID: UNIHEALTH
+1001: Vishwas Agri == ID: VISHWAS
+1002: Seshasayee Paper == ID: SESHAPAPER
+1003: Sheetal Cool == ID: SCPL
+1004: Chambal Fert. == ID: CHAMBLFERT
+1005: Welspun Corp == ID: WELCORP
+1006: Kaushalya == ID: KLL
+1007: Denis Chem Lab == ID: 537536
+1008: Carborundum Uni. == ID: CARBORUNIV
+1009: LKP Securities == ID: 540192
+1010: Tata Motors == ID: TATAMOTORS
+1011: Manoj Ceramic == ID: 544073
+1012: Prime Fresh == ID: 540404
+1013: Pitti Engg. == ID: PITTIENG
+1014: TCPL Packaging == ID: TCPLPACK
+1015: Shera Energy == ID: SHERA
+1016: Welspun Special. == ID: 500365
+1017: Vishnu Chemicals == ID: VISHNU
+1018: Avanti Feeds == ID: AVANTIFEED
+1019: ABS Marine == ID: ABSMARINE
+1020: Innomet == ID: INNOMET
+1021: Craftsman Auto == ID: CRAFTSMAN
+1022: Narmada Gelatine == ID: 526739
+1023: BSE == ID: BSE
+1024: Scan Projects == ID: 531797
+1025: Pradeep Metals == ID: 513532
+1026: Uno Minda == ID: UNOMINDA
+1027: Khyati == ID: 544270
+1028: NIBE == ID: 535136
+1029: Transport Corp. == ID: TCI
+1030: Rajgor Castor == ID: RCDL
+1031: Hind.Natl.Glass == ID: HINDNATGLS
+1032: Azad Engineering == ID: AZAD
+1033: Honeywell Auto == ID: HONAUT
+1034: Aaron Industries == ID: AARON
+1035: Auro Impex == ID: AUROIMPEX
+1036: Iris Clothings == ID: IRISDOREME
+1037: Digicontent == ID: DGCONTENT
+1038: Kuantum Papers == ID: KUANTUM
+1039: Goldiam Intl. == ID: GOLDIAM
+1040: S & S Power Swit == ID: S&SPOWER
+1041: Wonderla Holiday == ID: WONDERLA
+1042: Royal Orch.Hotel == ID: ROHLTD
+1043: Va Tech Wabag == ID: WABAG
+1044: Giriraj Civil == ID: GIRIRAJ
+1045: Quality RO Indu. == ID: 543460
+1046: ICICI Securities == ID: ISEC
+1047: Diffusion Eng == ID: DIFFNKG
+1048: Sati Poly == ID: SATIPOLY
+1049: Data Pattern == ID: DATAPATTNS
+1050: Silver Touch == ID: SILVERTUC
+1051: Alkem Lab == ID: ALKEM
+1052: Metro Brands == ID: METROBRAND
+1053: Annapurna Swadi. == ID: ANNAPURNA
+1054: Saregama India == ID: SAREGAMA
+1055: Ind-Swift Labs. == ID: INDSWFTLAB
+1056: Raaj Medisafe == ID: 524502
+1057: Shree Vasu Logis == ID: SVLL
+1058: ADF Foods == ID: ADFFOODS
+1059: Ameya Precision == ID: AMEYA
+1060: Vijaya Diagnost. == ID: VIJAYA
+1061: Kennametal India == ID: KENNAMET
+1062: Ascensive Educa. == ID: 543443
+1063: Shanti Spintex == ID: 544059
+1064: NILE == ID: 530129
+1065: Vinyas Innovativ == ID: VINYAS
+1066: Redington == ID: REDINGTON
+1067: Captain Techno. == ID: 540652
+1068: Som Distilleries == ID: SDBL
+1069: Avenue Super. == ID: DMART
+1070: NDR Auto Compon. == ID: NDRAUTO
+1071: Fairchem Organic == ID: FAIRCHEMOR
+1072: Credo Brands == ID: MUFTI
+1073: Global Health == ID: MEDANTA
+1074: Unjha Formul. == ID: 531762
+1075: Emkay Taps & Cut == ID: EMKAYTOOLS
+1076: JK Tyre & Indust == ID: JKTYRE
+1077: Bemco Hydraulics == ID: 522650
+1078: Blue Dart Expres == ID: BLUEDART
+1079: Kriti Industries == ID: KRITI
+1080: Tega Inds. == ID: TEGA
+1081: Saakshi Medtech == ID: SAAKSHI
+1082: Sinclairs Hotels == ID: SINCLAIR
+1083: Touchwood Enter. == ID: TOUCHWOOD
+1084: Chatha Foods == ID: 544151
+1085: Popular == ID: 544259
+1086: Atishay == ID: 538713
+1087: Himadri Special == ID: HSCL
+1088: Madhuveer Com == ID: 531910
+1089: GMM Pfaudler == ID: GMMPFAUDLR
+1090: PSP Projects == ID: PSPPROJECT
+1091: Rainbow Child. == ID: RAINBOW
+1092: MANGALAM SEEDS == ID: 539275
+1093: Thomas Cook (I) == ID: THOMASCOOK
+1094: Dolfin Rubbers == ID: 542013
+1095: G-Tech Info. == ID: 532139
+1096: Shervani Indl Sy == ID: 526117
+1097: Godrej Consumer == ID: GODREJCP
+1098: TPL Plastech == ID: TPLPLASTEH
+1099: Kalyan Capitals == ID: 538778
+1100: Prospect Consum. == ID: 543814
+1101: Service Care Ltd == ID: SERVICE
+1102: Innova Captab == ID: INNOVACAP
+1103: Baweja Studios L == ID: BAWEJA
+1104: Signoria Creatio == ID: SIGNORIA
+1105: Aris Interna. == ID: 531677
+1106: DJ Mediaprint == ID: DJML
+1107: Captain Polyplas == ID: 536974
+1108: Rithwik Facility == ID: 540843
+1109: Goel Food == ID: 543538
+1110: NGL Fine Chem == ID: NGLFINE
+1111: Valiant Commun. == ID: 526775
+1112: TajGVK Hotels == ID: TAJGVK
+1113: Presstonic == ID: PRESSTONIC
+1114: Dhabriya Poly. == ID: 538715
+1115: Symphony == ID: SYMPHONY
+1116: SJS Enterprises == ID: SJS
+1117: Mukka Proteins == ID: MUKKA
+1118: Sky Gold == ID: SKYGOLD
+1119: Geojit Fin. Ser. == ID: GEOJITFSL
+1120: Suven Pharma == ID: SUVENPHAR
+1121: Astra Microwave == ID: ASTRAMICRO
+1122: Mayur Uniquoters == ID: MAYURUNIQ
+1123: Nettlinx == ID: 511658
+1124: Amara Raja Ener. == ID: ARE&M
+1125: Indo Borax & Ch. == ID: INDOBORAX
+1126: M K Proteins == ID: MKPL
+1127: EFC (I) == ID: 512008
+1128: PG Electroplast == ID: PGEL
+1129: Bharat Wire == ID: BHARATWIRE
+1130: Cargotrans Marit == ID: 543618
+1131: Savita Oil Tech == ID: SOTL
+1132: Delton Cables == ID: 504240
+1133: Ramkrishna Forg. == ID: RKFORGE
+1134: Rail Vikas == ID: RVNL
+1135: Agarwal Fortune == ID: 530765
+1136: La Opala RG == ID: LAOPALA
+1137: SNL Bearings == ID: 505827
+1138: Technocraf.Inds. == ID: TIIL
+1139: Auto.Corp.of Goa == ID: 505036
+1140: Bata India == ID: BATAINDIA
+1141: KDDL Ltd == ID: KDDL
+1142: R&B Denims == ID: 538119
+1143: Dynamic Services == ID: DYNAMIC
+1144: Sula Vineyards == ID: SULA
+1145: Emcure Pharma == ID: EMCURE
+1146: Shree TirupatiBa == ID: BALAJEE
+1147: Haria Apparels == ID: 538081
+1148: Aptech == ID: APTECHT
+1149: Neopolitan Pizza == ID: 544269
+1150: S D Retail == ID: SDREAMS
+1151: Solve == ID: BALCO
+1152: Vinati Organics == ID: VINATIORGA
+1153: Sundram Fasten. == ID: SUNDRMFAST
+1154: Kataria == ID: KATARIA
+1155: Finolex Cables == ID: FINCABLES
+1156: Orbit Exports == ID: ORBTEXP
+1157: Arabian Petrol. == ID: ARABIAN
+1158: GE Shipping Co == ID: GESHIP
+1159: Source Natural == ID: 531398
+1160: Resgen == ID: 543805
+1161: Duncan Engg. == ID: 504908
+1162: Virat Crane Inds == ID: 519457
+1163: J Kumar Infra == ID: JKIL
+1164: O N G C == ID: ONGC
+1165: Hind.Oil Explor. == ID: HINDOILEXP
+1166: Welspun Enterp == ID: WELENT
+1167: Kontor Space == ID: KONTOR
+1168: Crown Lifters == ID: CROWN
+1169: FDC == ID: FDC
+1170: 7Seas Enter. == ID: 540874
+1171: Dr Agarwal's Eye == ID: 526783
+1172: Bodhi Tree == ID: BTML
+1173: CIE Automotive == ID: CIEINDIA
+1174: Tirupati Forge == ID: TIRUPATIFL
+1175: Anuroop Packagin == ID: 542865
+1176: Indo Count Inds. == ID: ICIL
+1177: Kirl. Electric == ID: KECL
+1178: Pokarna == ID: POKARNA
+1179: Rex Pipes&Cables == ID: REXPIPES
+1180: Thyrocare Tech. == ID: THYROCARE
+1181: Maximus Interna. == ID: 540401
+1182: Jayant Infratech == ID: 543544
+1183: Unilex Colour &C == ID: UNILEX
+1184: Krishna Defence == ID: KRISHNADEF
+1185: LKP Finance == ID: 507912
+1186: Windlas Biotech == ID: WINDLAS
+1187: Kundan Edifice == ID: KEL
+1188: Ganesh Benzopl. == ID: GANESHBE
+1189: Ircon Intl. == ID: IRCON
+1190: Uniparts India == ID: UNIPARTS
+1191: Rossari Biotech == ID: ROSSARI
+1192: LMW == ID: LMW
+1193: National Plastic == ID: 531287
+1194: Lactose (India) == ID: 524202
+1195: Century Plyboard == ID: CENTURYPLY
+1196: Mastek == ID: MASTEK
+1197: Maitreya == ID: MAITREYA
+1198: Hindustan Copper == ID: HINDCOPPER
+1199: SMC Global Sec. == ID: SMCGLOBAL
+1200: Prem. Explosives == ID: PREMEXPLN
+1201: Cantabil Retail == ID: CANTABIL
+1202: Divine Power == ID: DPEL
+1203: Walchand People == ID: 501370
+1204: Ashika Credit == ID: 543766
+1205: Solex Energy == ID: SOLEX
+1206: Future Market == ID: FMNL
+1207: Elnet Technolog == ID: 517477
+1208: Kamat Hotels == ID: KAMATHOTEL
+1209: Hindcon Chemical == ID: HINDCON
+1210: Subam Papers == ID: 544267
+1211: Uttam Sug.Mills == ID: UTTAMSUGAR
+1212: Hitachi Energy == ID: POWERINDIA
+1213: Wardwizard Inno. == ID: 538970
+1214: Darshan Orna == ID: 539884
+1215: T & I Global == ID: 522294
+1216: Shreeji Translog == ID: 540738
+1217: RACL Geartech == ID: 520073
+1218: Balmer Law. Inv. == ID: 532485
+1219: S P I C == ID: SPIC
+1220: Golkunda Diamond == ID: 523676
+1221: Essen Speciality == ID: ESFL
+1222: Creative Casting == ID: 539527
+1223: Goyal Salt == ID: GOYALSALT
+1224: Gothi Plascon == ID: 531111
+1225: Sarthak Metals == ID: SMLT
+1226: Shradha AI Tech == ID: 543976
+1227: AGI Greenpac == ID: AGI
+1228: HP Adhesives == ID: HPAL
+1229: Maagh Advertisin == ID: 543624
+1230: Star Health Insu == ID: STARHEALTH
+1231: Lumax Auto Tech. == ID: LUMAXTECH
+1232: Oil India == ID: OIL
+1233: Goodluck India == ID: GOODLUCK
+1234: Bombay Oxygen == ID: 509470
+1235: eMudhra == ID: EMUDHRA
+1236: Kings Infra == ID: 530215
+1237: Navigant Corp. == ID: 539521
+1238: Rudrabhish. Ent. == ID: REPL
+1239: Balkrishna Inds == ID: BALKRISIND
+1240: Pentagon Rubber == ID: PENTAGON
+1241: Raasi Refractor == ID: 502271
+1242: SP Refractories == ID: SPRL
+1243: VST Till. Tract. == ID: VSTTILLERS
+1244: Tata Comm == ID: TATACOMM
+1245: Fredun Pharma == ID: 539730
+1246: Paramatrix Tech. == ID: PARAMATRIX
+1247: Goldstar Power == ID: GOLDSTAR
+1248: Shankara Build. == ID: SHANKARA
+1249: Spacenet Enterpr == ID: SPCENET
+1250: Vardhman Special == ID: VSSL
+1251: Rajratan Global == ID: RAJRATAN
+1252: IEL == ID: 524614
+1253: Balgopal Commer. == ID: 539834
+1254: Epigral == ID: EPIGRAL
+1255: Varroc Engineer == ID: VARROC
+1256: PDS == ID: PDSL
+1257: Galaxy Surfact. == ID: GALAXYSURF
+1258: Rategain Travel == ID: RATEGAIN
+1259: Steel Str. Wheel == ID: SSWL
+1260: Kunststoff Inds. == ID: 523594
+1261: Shree Tirupati == ID: TIRUPATI
+1262: Nalin Lease Fin. == ID: 531212
+1263: Naapbooks == ID: 543351
+1264: Ram Ratna Wires == ID: RAMRAT
+1265: Linde India == ID: LINDEINDIA
+1266: Panch.Organics == ID: 531726
+1267: Indian Toners == ID: 523586
+1268: Jeyyam Global == ID: JEYYAM
+1269: Beardsell == ID: BEARDSELL
+1270: Akar Auto Indust == ID: 530621
+1271: Welcast Steels == ID: 504988
+1272: Sun Pharma.Inds. == ID: SUNPHARMA
+1273: MCON Rasayan == ID: MCON
+1274: Betex India == ID: 512477
+1275: Qualitek Labs == ID: 544091
+1276: Garg Furnace == ID: 530615
+1277: Vidhi Specialty == ID: VIDHIING
+1278: ACC == ID: ACC
+1279: Ashapura Minech. == ID: ASHAPURMIN
+1280: Ambey == ID: AMBEY
+1281: Zaggle Prepaid == ID: ZAGGLE
+1282: Indian Sucrose == ID: 500319
+1283: Gufic BioScience == ID: GUFICBIO
+1284: Aditya Ultra == ID: AUSL
+1285: Integra Essentia == ID: ESSENTIA
+1286: Lumax Industries == ID: LUMAXIND
+1287: Bansal Roofing == ID: 538546
+1288: Intense Tech. == ID: INTENTECH
+1289: Sungarner Energ. == ID: SEL
+1290: Gajanand == ID: GAJANAND
+1291: Refractory == ID: REFRACTORY
+1292: RDB Rasayans == ID: 533608
+1293: Power & Instrum. == ID: PIGL
+1294: Ascom Leasing & == ID: ASCOM
+1295: Tasty Bite Eat. == ID: TASTYBITE
+1296: Rathi Steel == ID: 504903
+1297: Century Extrus. == ID: CENTEXT
+1298: Honasa Consumer == ID: HONASA
+1299: Nila Spaces == ID: NILASPACES
+1300: Alphalogic Tech. == ID: 542770
+1301: Carysil == ID: CARYSIL
+1302: Emk.Global Fin. == ID: EMKAY
+1303: Avro India == ID: AVROIND
+1304: Ritco Logistics == ID: RITCO
+1305: JK Lakshmi Cem. == ID: JKLAKSHMI
+1306: Kokuyo Camlin == ID: KOKUYOCMLN
+1307: Sabar Flex India == ID: SABAR
+1308: Jagsonpal Pharma == ID: JAGSNPHARM
+1309: Pramara Promotio == ID: PRAMARA
+1310: XPRO India == ID: XPROINDIA
+1311: Gujarat Intrux == ID: 517372
+1312: Prima Plastics == ID: 530589
+1313: Natl. Aluminium == ID: NATIONALUM
+1314: F A C T == ID: FACT
+1315: Rishi Laser == ID: 526861
+1316: Thermax == ID: THERMAX
+1317: Wipro == ID: WIPRO
+1318: Marco Cables == ID: MARCO
+1319: Mangalore Chem. == ID: MANGCHEFER
+1320: Sam Industries == ID: 532005
+1321: Federal-Mogul Go == ID: FMGOETZE
+1322: G R Infraproject == ID: GRINFRA
+1323: Krishna Institu. == ID: KIMS
+1324: Radix Industries == ID: 531412
+1325: Purshottam Inves == ID: 538647
+1326: Morepen Labs. == ID: MOREPENLAB
+1327: Vimta Labs == ID: VIMTALABS
+1328: Sanmit Infra == ID: 532435
+1329: Mallcom (India) == ID: MALLCOM
+1330: Balaji Amines == ID: BALAMINES
+1331: Tiger Logistics == ID: 536264
+1332: Suyog Gurbaxani == ID: 543391
+1333: Campus Activewe. == ID: CAMPUS
+1334: Bombay Cycle == ID: 501430
+1335: Sigachi Indust. == ID: SIGACHI
+1336: HRH Next == ID: HRHNEXT
+1337: MOS Utility == ID: MOS
+1338: Satin Creditcare == ID: SATIN
+1339: Motisons Jewel == ID: MOTISONS
+1340: JTEKT India == ID: JTEKTINDIA
+1341: Panasonic Carbon == ID: 508941
+1342: Kalyani Steels == ID: KSL
+1343: Kahan Packaging == ID: 543979
+1344: Krishanveer Forg == ID: 513369
+1345: Cybertech Sys. == ID: CYBERTECH
+1346: Shri Venkatesh == ID: 543373
+1347: Aarti Pharma == ID: AARTIPHARM
+1348: Medicamen == ID: MEDIORG
+1349: Indo Amines == ID: INDOAMIN
+1350: Endurance Tech. == ID: ENDURANCE
+1351: Apis India == ID: 506166
+1352: Ramdevbaba Sol. == ID: RBS
+1353: Yaan Enterprises == ID: 538521
+1354: Cont. Petroleums == ID: 523232
+1355: Kansai Nerolac == ID: KANSAINER
+1356: Paushak == ID: 532742
+1357: Prime Securities == ID: PRIMESECU
+1358: Optimus Finance == ID: 531254
+1359: Nuvama Wealth == ID: NUVAMA
+1360: Savera Industrie == ID: 512634
+1361: Techno Elec.Engg == ID: TECHNOE
+1362: Tara Chand Infra == ID: TARACHAND
+1363: BLS E-Services == ID: BLSE
+1364: Guj. Ambuja Exp == ID: GAEL
+1365: Goyal Aluminiums == ID: GOYALALUM
+1366: Lancer Containe. == ID: LANCER
+1367: Pondy Oxides == ID: POCL
+1368: Winny Immigratio == ID: WINNY
+1369: Saven Tech. == ID: 532404
+1370: Divi's Lab. == ID: DIVISLAB
+1371: Zodiac Vent. == ID: 503641
+1372: Star Cement == ID: STARCEMENT
+1373: Best Agrolife == ID: BESTAGRO
+1374: Alkyl Amines == ID: ALKYLAMINE
+1375: Apollo Tyres == ID: APOLLOTYRE
+1376: Swaraj Suiting == ID: SWARAJ
+1377: Gowra Leasing == ID: 530709
+1378: Harshil Agrotech == ID: 505336
+1379: JSW Infrast == ID: JSWINFRA
+1380: Manoj Vaibhav == ID: MVGJL
+1381: Zee Learn == ID: ZEELEARN
+1382: Chemtech Indust. == ID: 537326
+1383: Arihant Super. == ID: ARIHANTSUP
+1384: Konstelec Engg. == ID: KONSTELEC
+1385: Resourceful == ID: 544236
+1386: Mindteck (India) == ID: MINDTECK
+1387: Vinyoflex == ID: 530401
+1388: Nikhil Adhesives == ID: 526159
+1389: ITL Industries == ID: 522183
+1390: Maiden Forgings == ID: 543874
+1391: Mish Designs == ID: 544015
+1392: Subros == ID: SUBROS
+1393: Euro Panel == ID: EUROBOND
+1394: Rudra Global == ID: 539226
+1395: Swarna Securitie == ID: 531003
+1396: Khandelwal Extra == ID: 519064
+1397: Abhinav Capital == ID: 532057
+1398: Nava == ID: NAVA
+1399: BCL Industries == ID: BCLIND
+1400: Electrost.Cast. == ID: ELECTCAST
+1401: Affle India == ID: AFFLE
+1402: Navneet Educat. == ID: NAVNETEDUL
+1403: Spectrum Electr. == ID: SPECTRUM
+1404: Integrated Perso == ID: IPSL
+1405: Heritage Foods == ID: HERITGFOOD
+1406: Capacit'e Infra. == ID: CAPACITE
+1407: AAA Technologies == ID: AAATECH
+1408: United Heat == ID: UHTL
+1409: Weizmann == ID: WEIZMANIND
+1410: Eveready Inds. == ID: EVEREADY
+1411: SagarSoft (India == ID: 540143
+1412: Orient Cement == ID: ORIENTCEM
+1413: RBZ Jewellers Lt == ID: RBZJEWEL
+1414: MRF == ID: MRF
+1415: MOIL == ID: MOIL
+1416: V-Guard Industri == ID: VGUARD
+1417: Foods & Inns == ID: FOODSIN
+1418: Welspun Living == ID: WELSPUNLIV
+1419: DCM Shriram Inds == ID: DCMSRIND
+1420: Escorts Kubota == ID: ESCORTS
+1421: Sealmatic India == ID: 543782
+1422: Heidelberg Cem. == ID: HEIDELBERG
+1423: KCD Industries == ID: 540696
+1424: Apollo Finvest == ID: 512437
+1425: K E C Intl. == ID: KEC
+1426: Panasonic Energy == ID: 504093
+1427: Innovators == ID: 541353
+1428: Max Healthcare == ID: MAXHEALTH
+1429: Donear Inds. == ID: DONEAR
+1430: Kalpataru Proj. == ID: KPIL
+1431: Ami Organics == ID: AMIORG
+1432: Trans India == ID: 523752
+1433: JITF Infra Logis == ID: JITFINFRA
+1434: RKEC Projects == ID: RKEC
+1435: Rajeshwari Cans == ID: 543285
+1436: Jullundur Motor == ID: JMA
+1437: Shalibhadra Fin. == ID: 511754
+1438: Swiss Military == ID: 523558
+1439: Arvind SmartSp. == ID: ARVSMART
+1440: Ultracab India == ID: 538706
+1441: AVT Natural Prod == ID: AVTNPL
+1442: Kwality Pharma == ID: 539997
+1443: Wonder Electric. == ID: WEL
+1444: Magenta Life == ID: 544188
+1445: Hind Rectifiers == ID: HIRECT
+1446: Kellton Tech == ID: KELLTONTEC
+1447: C P S Shapers == ID: CPS
+1448: Sai Silks == ID: KALAMANDIR
+1449: Marathon Nextgen == ID: MARATHON
+1450: Sayaji (Indore) == ID: 544080
+1451: KRBL == ID: KRBL
+1452: PNC Infratech == ID: PNCINFRA
+1453: Bedmutha Indus. == ID: BEDMUTHA
+1454: Crompton Gr. Con == ID: CROMPTON
+1455: Ruchira Papers == ID: RUCHIRA
+1456: J K Cements == ID: JKCEMENT
+1457: Five-Star Bus.Fi == ID: FIVESTAR
+1458: Metropolis Healt == ID: METROPOLIS
+1459: NCL Industries == ID: NCLIND
+1460: Diamines & Chem. == ID: DIAMINESQ
+1461: HOV Services == ID: HOVS
+1462: General Insuranc == ID: GICRE
+1463: La Tim Metal & I == ID: 505693
+1464: Sansera Enginee. == ID: SANSERA
+1465: Allied Blenders == ID: ABDL
+1466: First Custodian == ID: 511122
+1467: Lupin == ID: LUPIN
+1468: Hampton Sky == ID: 526407
+1469: Containe Tech. == ID: 543606
+1470: Novartis India == ID: NOVARTIND
+1471: Sr.Rayala.Hypo == ID: SRHHYPOLTD
+1472: Pennar Industrie == ID: PENIND
+1473: Salasar Techno == ID: SALASAR
+1474: Kritika Wires == ID: KRITIKA
+1475: AD Manum Finance == ID: 511359
+1476: Go Fashion (I) == ID: GOCOLORS
+1477: Balurghat Tech == ID: 520127
+1478: Capital Trade Lk == ID: 538476
+1479: Balmer Lawrie == ID: BALMLAWRIE
+1480: Time Technoplast == ID: TIMETECHNO
+1481: Three M Paper == ID: 544214
+1482: Raymond Lifestyl == ID: RAYMONDLSL
+1483: Elitecon Inter. == ID: 539533
+1484: Baheti Recycling == ID: BAHETI
+1485: Chembond Chem. == ID: CHEMBOND
+1486: Sugal & Damani == ID: 511654
+1487: TCFC Finance == ID: 532284
+1488: Sumedha Fiscal == ID: 530419
+1489: Rexnord Electr. == ID: 531888
+1490: Perfectpac == ID: 526435
+1491: Honda India == ID: HONDAPOWER
+1492: Kirl. Ferrous == ID: KIRLFER
+1493: GRP == ID: GRPLTD
+1494: SBEC Sugar == ID: 532102
+1495: Phoenix Overseas == ID: PHOGLOBAL
+1496: K C P == ID: KCP
+1497: Family Care == ID: 516110
+1498: Optiemus Infra. == ID: OPTIEMUS
+1499: Bio Green Papers == ID: 534535
+1500: IRM Energy == ID: IRMENERGY
+1501: Sunrest Lifescie == ID: SUNREST
+1502: B C C Fuba India == ID: 517246
+1503: Empire Inds. == ID: 509525
+1504: Firstsour.Solu. == ID: FSL
+1505: Synoptics Techno == ID: SYNOPTICS
+1506: Cords Cable == ID: CORDSCABLE
+1507: Raghuvir Synth == ID: 514316
+1508: Granules India == ID: GRANULES
+1509: Marine Electric. == ID: MARINE
+1510: Hindustan Foods == ID: HNDFDS
+1511: Andhra Petrochem == ID: 500012
+1512: Remsons Ind == ID: REMSONSIND
+1513: Usha Financial == ID: USHAFIN
+1514: Orient Beverages == ID: 507690
+1515: Swashthik == ID: 544035
+1516: Manaksia Coated == ID: MANAKCOAT
+1517: EP Biocomposites == ID: 543595
+1518: Paramount Comm. == ID: PARACABLES
+1519: Rama Vision == ID: 523289
+1520: Sarda Energy == ID: SARDAEN
+1521: RIR Power Electr == ID: 517035
+1522: Quicktouch Tech == ID: QUICKTOUCH
+1523: Bharat Seats == ID: 523229
+1524: Oasis Securities == ID: 512489
+1525: BEML Ltd == ID: BEML
+1526: Oberoi Realty == ID: OBEROIRLTY
+1527: Minda Corp == ID: MINDACORP
+1528: Latent View == ID: LATENTVIEW
+1529: Sandur Manganese == ID: SANDUMA
+1530: Responsive Ind == ID: RESPONIND
+1531: Advanced Enzyme == ID: ADVENZYMES
+1532: M M Forgings == ID: MMFL
+1533: GNA Axles == ID: GNA
+1534: Vashu Bhagnani == ID: 532011
+1535: Bright Outdoor == ID: 543831
+1536: UltraTech Cem. == ID: ULTRACEMCO
+1537: Apollo Hospitals == ID: APOLLOHOSP
+1538: Indian Hotels Co == ID: INDHOTEL
+1539: Northern Spirits == ID: 542628
+1540: EPL Ltd == ID: EPL
+1541: Shetron == ID: 526137
+1542: AVG Logistics == ID: AVG
+1543: Hariom Pipe == ID: HARIOMPIPE
+1544: Krishana Phosch. == ID: KRISHANA
+1545: Ashok Leyland == ID: ASHOKLEY
+1546: Faze Three == ID: FAZE3Q
+1547: Wim Plast == ID: 526586
+1548: TVS Holdings == ID: TVSHLTD
+1549: Interactive Fin == ID: 539692
+1550: Asahi India Glas == ID: ASAHIINDIA
+1551: Kirloskar Oil == ID: KIRLOSENG
+1552: Muthoot Microfin == ID: MUTHOOTMF
+1553: Evantra Ventures == ID: 512099
+1554: Maruti Interior == ID: 543464
+1555: Orissa Minerals == ID: ORISSAMINE
+1556: Veeram Securit. == ID: 540252
+1557: Anmol India == ID: ANMOL
+1558: Saroja Pharma In == ID: SAROJA
+1559: Vibhor Steel == ID: VSTL
+1560: G G Automotive == ID: 531399
+1561: Cil Securities == ID: 530829
+1562: Swasti Vinayaka == ID: 510245
+1563: Ethos Ltd == ID: ETHOSLTD
+1564: Ramsons Projects == ID: 530925
+1565: Kabsons Industri == ID: 524675
+1566: Global Pet Indus == ID: GLOBALPET
+1567: KIFS Financial == ID: 535566
+1568: Prestige Estates == ID: PRESTIGE
+1569: Moksh Ornaments == ID: MOKSH
+1570: Aarti Surfactant == ID: AARTISURF
+1571: Signet Industrie == ID: SIGIND
+1572: T R I L == ID: TARIL
+1573: Clinitech Lab == ID: 544220
+1574: Rolcon Engg. Co. == ID: 505807
+1575: Aries Agro == ID: ARIES
+1576: Olectra Greentec == ID: OLECTRA
+1577: Torrent Power == ID: TORNTPOWER
+1578: Triven.Engg.Ind. == ID: TRIVENI
+1579: Sanghvi Brands == ID: 540782
+1580: Shree Cement == ID: SHREECEM
+1581: CreditAcc. Gram. == ID: CREDITACC
+1582: Mangalam World. == ID: MWL
+1583: Aegis Logistics == ID: AEGISLOG
+1584: Syngene Intl. == ID: SYNGENE
+1585: Munjal Auto Inds == ID: MUNJALAU
+1586: Baba Food == ID: BABAFP
+1587: Hawa Engineers == ID: 539176
+1588: Voith Paper == ID: 522122
+1589: Cont. Chemicals == ID: 506935
+1590: Prince Pipes == ID: PRINCEPIPE
+1591: QMS Medical == ID: QMSMEDI
+1592: CSL Finance == ID: CSLFINANCE
+1593: Bhaskar Agrochem == ID: 524534
+1594: Sterling Tools == ID: STERTOOLS
+1595: TVS Motor Co. == ID: TVSMOTOR
+1596: Aptus Value Hou. == ID: APTUS
+1597: Aplab == ID: 517096
+1598: GAIL (India) == ID: GAIL
+1599: Alpa Laboratorie == ID: ALPA
+1600: Trident Lifeline == ID: 543616
+1601: Jindal Capital == ID: 530405
+1602: Ahlada Engineers == ID: AHLADA
+1603: Assoc.Alcohols == ID: ASALCBR
+1604: Magadh Sugar == ID: MAGADSUGAR
+1605: NRB Bearings == ID: NRBBEARING
+1606: TTK Prestige == ID: TTKPRESTIG
+1607: Arnold Holdings == ID: 537069
+1608: SG Mart == ID: 512329
+1609: Alicon Cast. == ID: ALICON
+1610: Dharmaj Crop == ID: DHARMAJ
+1611: Mold-Tek Pack. == ID: MOLDTKPAC
+1612: Rashi Peripheral == ID: RPTECH
+1613: QVC Exports == ID: QVCEL
+1614: Man Industries == ID: MANINDS
+1615: Mohini Health == ID: MHHL
+1616: 360 ONE == ID: 360ONE
+1617: JBM Auto == ID: JBMA
+1618: Sat Industries == ID: SATINDLTD
+1619: Informed Techn. == ID: 504810
+1620: Logica Infoway == ID: 543746
+1621: Indo US Bio-Tech == ID: INDOUS
+1622: Micropro Softwar == ID: MICROPRO
+1623: Unison Metals == ID: 538610
+1624: Bliss GVS Pharma == ID: BLISSGVS
+1625: Gennex Lab. == ID: 531739
+1626: Indl. Inv. Trust == ID: IITL
+1627: Somany Ceramics == ID: SOMANYCERA
+1628: De Neers Tools == ID: DENEERS
+1629: Patels Airtemp == ID: 517417
+1630: Talbros Engg. == ID: 538987
+1631: Gensol Engineer. == ID: GENSOL
+1632: T N Newsprint == ID: TNPL
+1633: Sky Industries == ID: 526479
+1634: Frog Cellsat == ID: FROG
+1635: Protean eGov == ID: 544021
+1636: B.L.Kashyap == ID: BLKASHYAP
+1637: Borosil == ID: BOROLTD
+1638: Asian Hotels (E) == ID: AHLEAST
+1639: Pune e == ID: 544141
+1640: Bansal Wire Inds == ID: BANSALWIRE
+1641: Bella Casa Fashi == ID: 539399
+1642: Orient Electric == ID: ORIENTELEC
+1643: Sizemasters Tech == ID: 513496
+1644: Benchmark Comp. == ID: 544052
+1645: Veljan Denison == ID: 505232
+1646: A G Universal == ID: AGUL
+1647: Stanley Lifesty. == ID: STANLEY
+1648: IST == ID: 508807
+1649: Mangalam Global == ID: MGEL
+1650: Coral India Fin. == ID: CORALFINAC
+1651: PCBL Ltd == ID: PCBL
+1652: Spandana Sphoort == ID: SPANDANA
+1653: Modi's Navnirman == ID: 543539
+1654: Sangani Hospital == ID: SANGANI
+1655: Deem Roll == ID: DEEM
+1656: Sadhav == ID: SADHAV
+1657: Fusion Finance == ID: FUSION
+1658: Shaily Engineer. == ID: SHAILY
+1659: N R Agarwal Inds == ID: NRAIL
+1660: Jayaswal Neco == ID: JAYNECOIND
+1661: Bengal & Assam == ID: 533095
+1662: Krishival Foods == ID: KRISHIVAL
+1663: Aurobindo Pharma == ID: AUROPHARMA
+1664: VLS Finance == ID: VLSFINANCE
+1665: India Finsec == ID: 535667
+1666: KN Agri Resource == ID: KNAGRI
+1667: Cyient DLM == ID: CYIENTDLM
+1668: Paisalo Digital == ID: PAISALO
+1669: Ambuja Cements == ID: AMBUJACEM
+1670: Vaibhav Global == ID: VAIBHAVGBL
+1671: Ujaas Energy == ID: UEL
+1672: Kalyan Jewellers == ID: KALYANKJIL
+1673: John Cockerill == ID: 500147
+1674: HMA Agro Inds. == ID: HMAAGRO
+1675: Cosmic CRF == ID: 543928
+1676: Qgo Finance == ID: 538646
+1677: Indrayani Biotec == ID: 526445
+1678: Arvind Fashions. == ID: ARVINDFASN
+1679: Bharti Hexacom == ID: BHARTIHEXA
+1680: JP Power Ven. == ID: JPPOWER
+1681: Mayank Cattle Fo == ID: 544106
+1682: Garware Hi Tech == ID: GRWRHITECH
+1683: Suprajit Engg. == ID: SUPRAJIT
+1684: Container Corpn. == ID: CONCOR
+1685: Ultra Wiring == ID: UWCSL
+1686: Nupur Recyclers == ID: NRL
+1687: Inter Globe Fin == ID: 511391
+1688: Antony Waste han == ID: AWHCL
+1689: Euphoria Infotec == ID: 544094
+1690: Gujarat Hotels == ID: 507960
+1691: Gconnect Logitec == ID: 544156
+1692: Manba Finance == ID: MANBA
+1693: Relaxo Footwear == ID: RELAXO
+1694: Patel Engineerin == ID: PATELENG
+1695: Mitsu Chem Plast == ID: 540078
+1696: Dollar Industrie == ID: DOLLAR
+1697: AXISCADES Tech. == ID: AXISCADES
+1698: KCP Sugar &Inds. == ID: KCPSUGIND
+1699: Senco Gold == ID: SENCO
+1700: Steel City Sec. == ID: STEELCITY
+1701: Platinumone Bus. == ID: 543352
+1702: G M D C == ID: GMDCLTD
+1703: Kopran == ID: KOPRAN
+1704: Sumit Woods == ID: SUMIT
+1705: Duropack == ID: 526355
+1706: Manappuram Fin. == ID: MANAPPURAM
+1707: SAL Automotive == ID: 539353
+1708: Confidence Petro == ID: CONFIPET
+1709: Dwarikesh Sugar == ID: DWARKESH
+1710: GACM Tech == ID: GATECH
+1711: Godrej Agrovet == ID: GODREJAGRO
+1712: M.V.K. Agro == ID: MVKAGRO
+1713: Worth Peripheral == ID: WORTH
+1714: Aarti Drugs == ID: AARTIDRUGS
+1715: Samvardh. Mothe. == ID: MOTHERSON
+1716: ANI Integrated == ID: AISL
+1717: Tyche Industries == ID: 532384
+1718: Sudarshan Pharma == ID: 543828
+1719: MKP Mobility == ID: 521244
+1720: Polysil Irrigati == ID: POLYSIL
+1721: J.G.Chemicals == ID: JGCHEM
+1722: Artemis Medicare == ID: ARTEMISMED
+1723: Kothari Sugars == ID: KOTARISUG
+1724: Arfin India == ID: 539151
+1725: Virtuoso Optoel. == ID: 543597
+1726: Bikewo Green == ID: BIKEWO
+1727: M & M == ID: M&M
+1728: Gland Pharma == ID: GLAND
+1729: Kama Holdings == ID: 532468
+1730: Eimco Elecon(I) == ID: EIMCOELECO
+1731: Popular Vehicles == ID: PVSL
+1732: Deco-Mica == ID: 531227
+1733: SRG Housing == ID: SRGHFL
+1734: Labelkraft Tech. == ID: 543830
+1735: Bizotic Commer. == ID: 543926
+1736: Themis Medicare == ID: THEMISMED
+1737: Siyaram == ID: 544047
+1738: United Breweries == ID: UBL
+1739: Hitech Corp. == ID: HITECHCORP
+1740: GVK Power Infra. == ID: GVKPIL
+1741: S P Apparels == ID: SPAL
+1742: Omfurn India == ID: OMFURN
+1743: Apcotex Industri == ID: APCOTEXIND
+1744: Balrampur Chini == ID: BALRAMCHIN
+1745: Chemcrux Enterp. == ID: 540395
+1746: MMP Industries == ID: MMP
+1747: Larsen & Toubro == ID: LT
+1748: Vertoz == ID: VERTOZ
+1749: Harsha Engg Intl == ID: HARSHA
+1750: Ind-Swift == ID: INDSWFTLTD
+1751: Indbank Merchant == ID: INDBANK
+1752: Mercury Labs == ID: 538964
+1753: Sejal Glass == ID: SEJALLTD
+1754: Star Paper Mills == ID: STARPAPER
+1755: Manorama Indust. == ID: MANORAMA
+1756: Career Point == ID: CAREERP
+1757: Billwin Indust. == ID: 543209
+1758: Abhishek Integr. == ID: AILIMITED
+1759: Kovil. Lak. Rol. == ID: 507598
+1760: GACM Tech-DVR == ID: GATECHDVR
+1761: HFCL == ID: HFCL
+1762: JSW Steel == ID: JSWSTEEL
+1763: Adroit Info. == ID: ADROITINFO
+1764: Uday Jewellery == ID: 539518
+1765: Chemo Pharma Lab == ID: 506365
+1766: Vaswani Industri == ID: VASWANI
+1767: Vinny Overseas == ID: VINNY
+1768: Taneja Aerospace == ID: 522229
+1769: Aristo Bio-Tech == ID: ARISTO
+1770: SBI Life Insuran == ID: SBILIFE
+1771: Durlax Top == ID: DURLAX
+1772: Indian Hume Pipe == ID: INDIANHUME
+1773: Futuristic Solu == ID: 534063
+1774: Dutron Polymers == ID: 517437
+1775: Joindre Capital == ID: 531861
+1776: Power Grid Corpn == ID: POWERGRID
+1777: Hatsun Agro == ID: HATSUN
+1778: Rane Engine Val. == ID: RANEENGINE
+1779: Solitaire Mach. == ID: 522152
+1780: Wheels India == ID: WHEELS
+1781: Radico Khaitan == ID: RADICO
+1782: Jindal Steel == ID: JINDALSTEL
+1783: Muthoot Finance == ID: MUTHOOTFIN
+1784: BMW Industries == ID: 542669
+1785: Alembic Pharma == ID: APLLTD
+1786: HLE Glascoat == ID: HLEGLAS
+1787: Bambino Agro Ind == ID: 519295
+1788: Lak. Auto. Looms == ID: 505302
+1789: Bharti Airtel == ID: BHARTIARTL
+1790: Sonam == ID: SONAMLTD
+1791: Tracxn Technolo. == ID: TRACXN
+1792: Akanksha Power == ID: AKANKSHA
+1793: Hi-Tech Pipes == ID: HITECH
+1794: Arvind Ltd == ID: ARVIND
+1795: Bajaj Holdings == ID: BAJAJHLDNG
+1796: Upsurge Seeds == ID: USASEEDS
+1797: Ansal Buildwell == ID: 523007
+1798: Team Lease Serv. == ID: TEAMLEASE
+1799: Dhanuka Realty == ID: DRL
+1800: Insecticid.India == ID: INSECTICID
+1801: Poojawes. Metal. == ID: 540727
+1802: Roopa Industries == ID: 530991
+1803: Classic Leasing == ID: 540481
+1804: Jay Ushin == ID: 513252
+1805: Rane Holdings == ID: RANEHOLDIN
+1806: Gourmet Gateway == ID: 506134
+1807: Zenotech Lab. == ID: 532039
+1808: Axel Polymers == ID: 513642
+1809: Adani Ports == ID: ADANIPORTS
+1810: Avadh Sugar == ID: AVADHSUGAR
+1811: Universal Starch == ID: 524408
+1812: Ambar Protein == ID: 519471
+1813: KSE == ID: 519421
+1814: GRM Overseas == ID: GRMOVER
+1815: Bharat Forge == ID: BHARATFORG
+1816: Parnax Lab == ID: 506128
+1817: 5Paisa Capital == ID: 5PAISA
+1818: Salzer Electron. == ID: SALZERELEC
+1819: DRS Dilip Road == ID: DRSDILIP
+1820: Haldyn Glass == ID: 515147
+1821: Ratnaveer Precis == ID: RATNAVEER
+1822: WSFX Global == ID: 511147
+1823: Rasi Electrodes == ID: 531233
+1824: Powergrid Infra. == ID: PGINVIT
+1825: Sheetal Univer. == ID: SHEETAL
+1826: Khaitan (India) == ID: KHAITANLTD
+1827: Asian Energy == ID: ASIANENE
+1828: India Nipp.Elec. == ID: INDNIPPON
+1829: Kilitch Drugs == ID: KILITCH
+1830: Greenpanel Inds. == ID: GREENPANEL
+1831: Panache Digilife == ID: PANACHE
+1832: Ipca Labs. == ID: IPCALAB
+1833: Rama Steel Tubes == ID: RAMASTEEL
+1834: Yasho Industries == ID: YASHO
+1835: Avi Ansh == ID: AVIANSH
+1836: IFB Industries == ID: IFBIND
+1837: Airan == ID: AIRAN
+1838: Walpar Nutrition == ID: WALPAR
+1839: Godavari Drugs == ID: 530317
+1840: National Fitting == ID: 531289
+1841: GTV Engineering == ID: 539479
+1842: Electronics Mart == ID: EMIL
+1843: Bajaj Electrical == ID: BAJAJELEC
+1844: Filatex India == ID: FILATEX
+1845: SRF == ID: SRF
+1846: Sharp Chucks and == ID: SCML
+1847: Docmode Health == ID: DHTL
+1848: Esprit == ID: ESPRIT
+1849: Jonjua Overseas == ID: 542446
+1850: Akme Fintrade == ID: AFIL
+1851: Shiv Texchem == ID: 544272
+1852: Brigade Enterpr. == ID: BRIGADE
+1853: Kapston Services == ID: KAPSTON
+1854: BITS == ID: 526709
+1855: Aayush Wellness == ID: 539528
+1856: Aakash Explor. == ID: AAKASH
+1857: Healthy Life == ID: 543546
+1858: Adit.Birla Money == ID: BIRLAMONEY
+1859: Ansal Housing == ID: 507828
+1860: We Win Ltd == ID: WEWIN
+1861: Apollo Micro Sys == ID: APOLLO
+1862: Anjani Foods == ID: 511153
+1863: Emerald Finance == ID: 538882
+1864: Coral Labs. == ID: 524506
+1865: Cheviot Company == ID: CHEVIOT
+1866: Committed Cargo == ID: COMMITTED
+1867: Bharat Rasayan == ID: BHARATRAS
+1868: Apeejay Surrend. == ID: PARKHOTELS
+1869: 3C IT Solutions == ID: 544190
+1870: Rubfila Intl. == ID: RUBFILA
+1871: SBI Cards == ID: SBICARD
+1872: Comfort Fincap == ID: 535267
+1873: Hisar Spg. Mills == ID: 521068
+1874: City Crops Agro == ID: 544000
+1875: Dhanashree Elect == ID: 542679
+1876: Heubach Colorant == ID: HEUBACHIND
+1877: Gateway Distri == ID: GATEWAY
+1878: The Hi-Tech Gear == ID: HITECHGEAR
+1879: RPSG Ventures == ID: RPSGVENT
+1880: Huhtamaki India == ID: HUHTAMAKI
+1881: Ceejay Finance == ID: 530789
+1882: SEAMEC Ltd == ID: SEAMECLTD
+1883: S H Kelkar & Co. == ID: SHK
+1884: Swasti Vin. Art == ID: 512257
+1885: Winsome Textile == ID: 514470
+1886: Modison == ID: MODISONLTD
+1887: Phoenix Mills == ID: PHOENIXLTD
+1888: Ravindra Energy == ID: RELTD
+1889: Shiv Aum Steels == ID: SHIVAUM
+1890: Medico Intercon. == ID: 539938
+1891: CCL Products == ID: CCL
+1892: Cadsys (India) == ID: CADSYS
+1893: Inv.& Prec.Cast. == ID: 504786
+1894: Airo Lam == ID: AIROLAM
+1895: Niraj Cement == ID: NIRAJ
+1896: Delta Corp == ID: DELTACORP
+1897: Visaman Global == ID: VISAMAN
+1898: Glenmark Pharma. == ID: GLENMARK
+1899: Jindal Photo == ID: JINDALPHOT
+1900: Servotech Power == ID: SERVOTECH
+1901: MRP Agro == ID: 543262
+1902: Allcargo Termi == ID: ATL
+1903: Paul Merchants == ID: 539113
+1904: MIC Electronics == ID: MICEL
+1905: ISGEC Heavy == ID: ISGEC
+1906: IOL Chemicals == ID: IOLCP
+1907: Madhav Infra == ID: 539894
+1908: Muthoot Cap.Serv == ID: MUTHOOTCAP
+1909: Selan Expl. Tech == ID: SELAN
+1910: Pavna Industries == ID: PAVNAIND
+1911: Kamdhenu Venture == ID: KAMOPAINTS
+1912: Crop Life Scienc == ID: CLSL
+1913: Sh. Hari Chem. == ID: 524336
+1914: Vera Synthetic == ID: VERA
+1915: Nila Infrastruct == ID: NILAINFRA
+1916: Oriental Rail == ID: 531859
+1917: Sar Televenture == ID: SARTELE
+1918: Landmark Cars == ID: LANDMARK
+1919: Poddar Pigments == ID: PODDARMENT
+1920: INDIA SHELTE FIN == ID: INDIASHLTR
+1921: Gorani Industrie == ID: 531608
+1922: SG Finserve == ID: 539199
+1923: Emami Paper == ID: EMAMIPAP
+1924: Om Infra == ID: OMINFRAL
+1925: Mohit Paper Mill == ID: 530169
+1926: Jayant Agro Org. == ID: JAYAGROGN
+1927: Ugro Capital == ID: UGROCAP
+1928: Ajwa Fun World == ID: 526628
+1929: M B Agro Prod. == ID: MBAPL
+1930: Trident Texofab == ID: 540726
+1931: Gilada Finance == ID: 538788
+1932: Bal Pharma == ID: BALPHARMA
+1933: Jagan Lamps == ID: 530711
+1934: Saurashtra Cem. == ID: SAURASHCEM
+1935: Dhruv Consultanc == ID: DHRUV
+1936: Sonu Infratech == ID: SONUINFRA
+1937: Ideaforge Tech == ID: IDEAFORGE
+1938: Haryana Fin. Co. == ID: 530927
+1939: Greenlam Industr == ID: GREENLAM
+1940: Sandhar Tech == ID: SANDHAR
+1941: Odyssey Tech. == ID: 530175
+1942: Pattech Fitwell == ID: PATTECH
+1943: B&B Triplewall == ID: BBTCL
+1944: Eldeco Housing == ID: ELDEHSG
+1945: Veto Switchgears == ID: VETO
+1946: GTPL Hathway == ID: GTPL
+1947: My Money Sec. == ID: 538862
+1948: Sasken Technol. == ID: SASKEN
+1949: Prime Property == ID: 530695
+1950: Gallantt Ispat L == ID: GALLANTT
+1951: Scoobee Garments == ID: 531234
+1952: GP Petroleums == ID: GULFPETRO
+1953: Mangalam Cement == ID: MANGLMCEM
+1954: Xchanging Sol. == ID: XCHANGING
+1955: Bajaj Finance == ID: BAJFINANCE
+1956: Pritika Auto == ID: PRITIKAUTO
+1957: Camex == ID: 524440
+1958: Laxmipati Engg == ID: 537669
+1959: Tech Mahindra == ID: TECHM
+1960: Rushil Decor == ID: RUSHIL
+1961: Shigan Quantum == ID: SHIGAN
+1962: Jay Kailash == ID: 544160
+1963: Homesfy Realty == ID: HOMESFY
+1964: Everest Kanto == ID: EKC
+1965: Latteys Industri == ID: LATTEYS
+1966: Shoppers Stop == ID: SHOPERSTOP
+1967: Precision Metal. == ID: PRECISION
+1968: Bannari Amm.Sug. == ID: BANARISUG
+1969: Libord Securitie == ID: 531027
+1970: Jindal Poly Inve == ID: JPOLYINVST
+1971: Barak Valley == ID: BVCL
+1972: IIFL Finance == ID: IIFL
+1973: Sukhjit Starch == ID: SUKHJITS
+1974: Privi Speci. == ID: PRIVISCL
+1975: Sylvan Plyboard == ID: SYLVANPLY
+1976: Sarveshwar Foods == ID: SARVESHWAR
+1977: Aprameya Enginee == ID: APRAMEYA
+1978: Quess Corp == ID: QUESS
+1979: Aarvi Encon == ID: AARVI
+1980: TruCap Finance == ID: TRU
+1981: Ajmera Realty == ID: AJMERA
+1982: Bajaj Finserv == ID: BAJAJFINSV
+1983: Adarsh Plant == ID: 526711
+1984: MAS FINANC SER == ID: MASFIN
+1985: Growington Vent == ID: 539222
+1986: Apollo Sindoori == ID: APOLSINHOT
+1987: InfoBeans Tech. == ID: INFOBEAN
+1988: Kinetic Engg. == ID: 500240
+1989: GSB Finance == ID: 511543
+1990: Maithan Alloys == ID: MAITHANALL
+1991: Birla Precision == ID: 522105
+1992: PMC Fincorp == ID: 534060
+1993: Narbada Gems == ID: 519455
+1994: VMS Industries == ID: 533427
+1995: Graphisads == ID: GRAPHISAD
+1996: Beryl Drugs == ID: 524606
+1997: Synthiko Foils == ID: 513307
+1998: Droneacharya Aer == ID: 543713
+1999: Multibase India == ID: 526169
+2000: Majestic Auto == ID: 500267
+2001: Radaan Media. == ID: RADAAN
+2002: Conart Engineers == ID: 522231
+2003: Lokesh Mach. == ID: LOKESHMACH
+2004: Nitin Spinners == ID: NITINSPIN
+2005: CESC == ID: CESC
+2006: F Mec Intl. Fin. == ID: 539552
+2007: Mauria Udyog == ID: 539219
+2008: Kanoria Energy == ID: 539620
+2009: Veefin Solutions == ID: 543931
+2010: Cont. Securities == ID: 538868
+2011: Alfa Transformer == ID: 517546
+2012: Flora Corporatio == ID: 540267
+2013: Edelweiss.Fin. == ID: EDELWEISS
+2014: AB Cotspin == ID: ABCOTS
+2015: Chaman Metallics == ID: CMNL
+2016: Delphi World == ID: DELPHIFX
+2017: Westlife Food == ID: WESTLIFE
+2018: JFL Life == ID: JFLLIFE
+2019: Nandan Denim == ID: NDL
+2020: SMS Pharma. == ID: SMSPHARMA
+2021: Veekayem Fash. == ID: VEEKAYEM
+2022: Moneyboxx Fin. == ID: 538446
+2023: Lux Industries == ID: LUXIND
+2024: Tejnaksh Health. == ID: 539428
+2025: GMR Urban == ID: GMRP&UI
+2026: MTAR Technologie == ID: MTARTECH
+2027: B2B Soft.Tech. == ID: 531268
+2028: Sundaram Brake == ID: SUNDRMBRAK
+2029: Sudarshan Chem. == ID: SUDARSCHEM
+2030: Lemon Tree Hotel == ID: LEMONTREE
+2031: Aadhar Hsg. Fin. == ID: AADHARHFC
+2032: Emmessar Biotech == ID: 524768
+2033: Genus Power == ID: GENUSPOWER
+2034: Dhampur Sugar == ID: DHAMPURSUG
+2035: Race Eco == ID: RACE
+2036: Acknit Indus. == ID: 530043
+2037: Stove Kraft == ID: STOVEKRAFT
+2038: Hindalco Inds. == ID: HINDALCO
+2039: Ugar Sugar Works == ID: UGARSUGAR
+2040: Arex Industries == ID: 526851
+2041: Shriram Finance == ID: SHRIRAMFIN
+2042: ERIS Lifescience == ID: ERIS
+2043: Shri Keshav == ID: 530977
+2044: Pratik Panels == ID: 526490
+2045: Ashiana Housing == ID: ASHIANA
+2046: Jaysynth Orgo == ID: 524592
+2047: Home First Finan == ID: HOMEFIRST
+2048: Madhusudan Inds. == ID: 515059
+2049: Nilkamal Ltd == ID: NILKAMAL
+2050: Ambika Cotton == ID: AMBIKCO
+2051: Z F Steering == ID: 505163
+2052: Finkurve Fin. == ID: 508954
+2053: Autoline Industr == ID: AUTOIND
+2054: Kaynes Tech == ID: KAYNES
+2055: Baid Finserv == ID: BAIDFIN
+2056: Rallis India == ID: RALLIS
+2057: Baba Arts == ID: 532380
+2058: Jubilant Food. == ID: JUBLFOOD
+2059: Zeal Aqua == ID: 539963
+2060: Hisar Met.Inds. == ID: HISARMETAL
+2061: Shree Bhavya == ID: 521131
+2062: DRA Consultants == ID: 540144
+2063: Patanjali Foods == ID: PATANJALI
+2064: Citadel Realty == ID: 502445
+2065: TVS Srichakra == ID: TVSSRICHAK
+2066: DU Digital == ID: DUGLOBAL
+2067: Tata Power Co. == ID: TATAPOWER
+2068: IVP == ID: IVP
+2069: Star Housing Fin == ID: 539017
+2070: HPL Electric == ID: HPL
+2071: Plastiblends (I) == ID: PLASTIBLEN
+2072: Maheshwari Logi. == ID: MAHESHWARI
+2073: Destiny Logistic == ID: DESTINY
+2074: Hind.Tin Works == ID: 530315
+2075: Ujjivan Small == ID: UJJIVANSFB
+2076: Chennai Meena == ID: 523489
+2077: Ceenik Exports == ID: 531119
+2078: CIAN Agro == ID: 519477
+2079: Cella Space == ID: 532701
+2080: Octavius Plant. == ID: 542938
+2081: Macrotech Devel. == ID: LODHA
+2082: Glance Finance == ID: 531199
+2083: Rander Corpn. == ID: 531228
+2084: V R Infraspace == ID: VR
+2085: Kesoram Inds. == ID: KESORAMIND
+2086: Alfa Ica (I) == ID: 530973
+2087: Bihar Sponge == ID: 500058
+2088: India Glycols == ID: INDIAGLYCO
+2089: Shalby == ID: SHALBY
+2090: Parag Milk Foods == ID: PARAGMILK
+2091: United Polyfab == ID: UNITEDPOLY
+2092: Palco Metals Ltd == ID: 539121
+2093: SBFC Finance == ID: SBFC
+2094: PTC Industries == ID: PTCIL
+2095: Milestone Global == ID: 531338
+2096: Brijlaxmi Leas. == ID: 532113
+2097: T B Z == ID: TBZ
+2098: OK Play India == ID: 526415
+2099: Reliable Data == ID: RELIABLE
+2100: Northern ARC == ID: NORTHARC
+2101: Vindhya Telelink == ID: VINDHYATEL
+2102: V2 Retail == ID: V2RETAIL
+2103: Harish Textile == ID: 542682
+2104: India Infr Trust == ID: 542543
+2105: Arih.Found.Hsg. == ID: 531381
+2106: Celebrity Fash. == ID: CELEBRITY
+2107: DMCC Speciality == ID: DMCC
+2108: Poonawalla Fin == ID: POONAWALLA
+2109: KHFM Hospitality == ID: KHFM
+2110: Shyam Metalics == ID: SHYAMMETL
+2111: Jainex Aamcol == ID: 505212
+2112: Mukand == ID: MUKANDLTD
+2113: Arunis Abode == ID: 526935
+2114: Ishita Drugs == ID: 524400
+2115: Anand Rayons == ID: 542721
+2116: Gokaldas Exports == ID: GOKEX
+2117: Ashirwad Cap. == ID: 512247
+2118: Mufin Green == ID: MUFIN
+2119: Mangalam Alloys == ID: MAL
+2120: DigiSpice Tech. == ID: DIGISPICE
+2121: India Pesticides == ID: IPL
+2122: Beekay Steel Ind == ID: 539018
+2123: Syschem (India) == ID: 531173
+2124: Deepak Fertiliz. == ID: DEEPAKFERT
+2125: Alankit == ID: ALANKIT
+2126: Chola Financial == ID: CHOLAHLDNG
+2127: Osiajee Texfab == ID: 540198
+2128: Sover. Diamonds == ID: 523826
+2129: LWS Knitwear == ID: 531402
+2130: VRL Logistics == ID: VRLLOG
+2131: Oriental Hotels == ID: ORIENTHOT
+2132: Prataap Snacks == ID: DIAMONDYD
+2133: Greenply Industr == ID: GREENPLY
+2134: Kirloskar Indus. == ID: KIRLOSIND
+2135: Adtech Systems == ID: 544185
+2136: Himatsing. Seide == ID: HIMATSEIDE
+2137: ABans Enterprise == ID: 512165
+2138: Beekay Niryat == ID: 539546
+2139: Tata Consumer == ID: TATACONSUM
+2140: Super Bakers (I) == ID: 530735
+2141: Virgo Global == ID: 532354
+2142: Nyssa Corp. == ID: 504378
+2143: Rajas. Tube Mfg == ID: 530253
+2144: Monte Carlo Fas. == ID: MONTECARLO
+2145: Brahmaputra Inf. == ID: 535693
+2146: BF Investment == ID: BFINVEST
+2147: OneClick Logisti == ID: OLIL
+2148: Bharat Bijlee == ID: BBL
+2149: Texmaco Rail == ID: TEXRAIL
+2150: Prakash Industri == ID: PRAKASH
+2151: Halder Venture == ID: 539854
+2152: Inani Securities == ID: 531672
+2153: Repco Home Fin == ID: REPCOHOME
+2154: Dilip Buildcon == ID: DBL
+2155: Pritika Engineer == ID: PRITIKA
+2156: Ekam Leasing == ID: 530581
+2157: Morgan Ventures == ID: 526237
+2158: Akshar Spintex == ID: AKSHAR
+2159: Unifinz Capital == ID: 541358
+2160: Tour. Fin. Corp. == ID: TFCILTD
+2161: Pradhin == ID: 530095
+2162: Rite Zone == ID: RITEZONE
+2163: Simplex Castings == ID: 513472
+2164: Allied Digital == ID: ADSL
+2165: Fedbank Financi. == ID: FEDFINA
+2166: NTPC == ID: NTPC
+2167: Teamo Production == ID: TPHQ
+2168: Dynamatic Tech. == ID: DYNAMATECH
+2169: United Nilgiri == ID: UNITEDTEA
+2170: Kabra Extrusion == ID: KABRAEXTRU
+2171: Espire Hospi == ID: 532016
+2172: Raj Oil Mills == ID: ROML
+2173: Navin Fluo.Intl. == ID: NAVINFLUOR
+2174: Trident == ID: TRIDENT
+2175: Yuken India == ID: YUKEN
+2176: Finolex Inds. == ID: FINPIPE
+2177: Cholaman.Inv.&Fn == ID: CHOLAFIN
+2178: Adani Wilmar == ID: AWL
+2179: Atal Realtech == ID: ATALREAL
+2180: Natl. Plastic == ID: 526616
+2181: Competent Auto == ID: 531041
+2182: Ponni Sug.Erode == ID: PONNIERODE
+2183: Mangal Credit == ID: MANCREDIT
+2184: Indoco Remedies == ID: INDOCO
+2185: Fortis Health. == ID: FORTIS
+2186: SIS == ID: SIS
+2187: Titaanium Ten == ID: 539985
+2188: Reetech Intl == ID: 543617
+2189: Jagatjit Inds. == ID: 507155
+2190: Oceanic Foods == ID: 540405
+2191: Paras Defence == ID: PARAS
+2192: Mono Pharmacare == ID: MONOPHARMA
+2193: Madras Fertilize == ID: MADRASFERT
+2194: W I Plywoods == ID: WIPL
+2195: Ashapuri Gold == ID: 542579
+2196: SAB Industries == ID: 539112
+2197: Shriram Properti == ID: SHRIRAMPPS
+2198: Chowgule Steam == ID: 501833
+2199: Samrat Forgings == ID: 543229
+2200: Aveer Foods == ID: 543737
+2201: Baazar Style == ID: STYLEBAAZA
+2202: Tirupati Foam == ID: 540904
+2203: Sakthi Finance == ID: 511066
+2204: Deep Industries == ID: DEEPINDS
+2205: Syncom Formul. == ID: SYNCOMF
+2206: Manaksia == ID: MANAKSIA
+2207: IFCI == ID: IFCI
+2208: Vivanza Biosci. == ID: 530057
+2209: Manaksia Steels == ID: MANAKSTEEL
+2210: Chemfab Alka. == ID: CHEMFAB
+2211: Gujarat Poly == ID: 517288
+2212: Riba Textiles == ID: 531952
+2213: Milton Industri. == ID: MILTON
+2214: Kaiser Corporat. == ID: 531780
+2215: Texmo Pipes == ID: TEXMOPIPES
+2216: Pashupati Cotsp. == ID: PASHUPATI
+2217: Amber Enterp. == ID: AMBER
+2218: Tamboli Industri == ID: 533170
+2219: Advance Petroch. == ID: 506947
+2220: Chennai Ferrous == ID: 539011
+2221: Exide Inds. == ID: EXIDEIND
+2222: Sh.Renuka Sugar == ID: RENUKA
+2223: Sadbhav Infra. == ID: SADBHIN
+2224: Vadivarhe Speci. == ID: VSCL
+2225: Uravi T & Wedge == ID: URAVI
+2226: Asi Industries == ID: 502015
+2227: NDA Securities == ID: 511535
+2228: KCK Industries == ID: KCK
+2229: G S Auto Intl. == ID: 513059
+2230: JM Financial == ID: JMFINANCIL
+2231: Rupa & Co == ID: RUPA
+2232: Centum Electron == ID: CENTUM
+2233: Advik Capital == ID: 539773
+2234: Silgo Retail == ID: SILGO
+2235: Krsnaa Diagnost. == ID: KRSNAA
+2236: Cranex == ID: 522001
+2237: Mini Diamonds(I) == ID: 523373
+2238: Pentokey Organy == ID: 524210
+2239: Sammaan Capital == ID: SAMMAANCAP
+2240: Vidli Restaurant == ID: 539659
+2241: Sportking India == ID: SPORTKING
+2242: Nelcast == ID: NELCAST
+2243: Manomay Tex Indi == ID: MANOMAY
+2244: Chalet Hotels == ID: CHALET
+2245: REC Ltd == ID: RECLTD
+2246: Artefact Project == ID: 531297
+2247: Royale Manor == ID: 526640
+2248: UFO Moviez == ID: UFO
+2249: Sotac Pharma. == ID: SOTAC
+2250: Spectrum Talent == ID: SPECTSTM
+2251: Lahoti Overseas == ID: 531842
+2252: Premco Global == ID: 530331
+2253: Best Eastern Hot == ID: 508664
+2254: PH Trading == ID: 512026
+2255: Riddhi Steel == ID: 540082
+2256: Universal Cables == ID: UNIVCABLES
+2257: Sharat Industrie == ID: 519397
+2258: Almondz Global == ID: ALMONDZ
+2259: Zim Laboratories == ID: ZIMLAB
+2260: DCX Systems == ID: DCXINDIA
+2261: Suryalata Spg. == ID: 514138
+2262: Jubilant Ingrev. == ID: JUBLINGREA
+2263: KM Sugar Mills == ID: KMSUGAR
+2264: Sahyadri Industr == ID: SAHYADRI
+2265: RSD Finance == ID: 539875
+2266: Yamuna Syndicate == ID: 540980
+2267: Falcon == ID: FALCONTECH
+2268: Aditya Birla Cap == ID: ABCAPITAL
+2269: Lerthai Finance == ID: 502250
+2270: Lancor Holdings == ID: LANCORHOL
+2271: Vivo Bio Tech == ID: 511509
+2272: Raghuvansh Agro. == ID: 538921
+2273: D & H India == ID: 517514
+2274: AAVAS Financiers == ID: AAVAS
+2275: GSL Securities == ID: 530469
+2276: Puravankara == ID: PURVA
+2277: Trishakti Indus == ID: 531279
+2278: Adani Enterp. == ID: ADANIENT
+2279: Comrade Applian. == ID: 543921
+2280: Howard Hotels == ID: 526761
+2281: Prec. Electronic == ID: 517258
+2282: Manaksia Alumi. == ID: MANAKALUCO
+2283: Power Fin.Corpn. == ID: PFC
+2284: Mitcon Consult. == ID: MITCON
+2285: Dalmia Bharat == ID: DALMIASUG
+2286: Syrma SGS Tech. == ID: SYRMA
+2287: Jindal Worldwide == ID: JINDWORLD
+2288: Sayaji Hotels == ID: 523710
+2289: Adani Green == ID: ADANIGREEN
+2290: Rishabh Instrum. == ID: RISHABH
+2291: Oriental Carbon == ID: OCCL
+2292: NOCIL == ID: NOCIL
+2293: Affordable Robo. == ID: AFFORDABLE
+2294: Max Financial == ID: MFSL
+2295: Starlineps Enter == ID: 540492
+2296: Megastar Foods == ID: MEGASTAR
+2297: Gujarat Fluoroch == ID: FLUOROCHEM
+2298: Nidhi Granites == ID: 512103
+2299: DAPS Advertising == ID: 543651
+2300: Shalimar Wires == ID: 532455
+2301: Dhoot Indl.Fin == ID: 526971
+2302: Guj. Terce Labs. == ID: 524314
+2303: Innovative Tech == ID: 523840
+2304: Hilton Met.Forg. == ID: HILTON
+2305: Kandarp Digi == ID: KANDARP
+2306: Bhagiradha Chem. == ID: BHAGCHEM
+2307: Richfield Fin == ID: 539435
+2308: Regency Fincorp == ID: 540175
+2309: T.V. Today Netw. == ID: TVTODAY
+2310: Jainam Ferro == ID: JAINAM
+2311: DEE Development == ID: DEEDEV
+2312: Econo Trade Indi == ID: 538708
+2313: Bhandari Hosiery == ID: BHANDARI
+2314: PTC India == ID: PTC
+2315: Utkarsh Small F. == ID: UTKARSHBNK
+2316: Adeshwar Meditex == ID: 543309
+2317: Reliance Industr == ID: RELIANCE
+2318: Bangalore Fort == ID: 539120
+2319: Madhya Prad. Tod == ID: MPTODAY
+2320: Birla Cable == ID: BIRLACABLE
+2321: Globus Spirits == ID: GLOBUSSPR
+2322: Samkrg Pistons == ID: 520075
+2323: IZMO == ID: IZMO
+2324: Onelife Capital == ID: ONELIFECAP
+2325: Accel == ID: 517494
+2326: Promax Power == ID: 543375
+2327: Divgi Torq == ID: DIVGIITTS
+2328: Inventure Grow. == ID: INVENTURE
+2329: Sarla Performanc == ID: SARLAPOLY
+2330: Capri Global == ID: CGCL
+2331: Hindware Home In == ID: HINDWAREAP
+2332: BSL == ID: BSL
+2333: Inter State Oil == ID: 530259
+2334: Bafna Pharma. == ID: BAFNAPH
+2335: Deep Polymers == ID: 541778
+2336: Viaz Tyres == ID: VIAZ
+2337: Tilak Ventures == ID: 503663
+2338: Liberty Shoes == ID: LIBERTSHOE
+2339: Mishra Dhatu Nig == ID: MIDHANI
+2340: Shubhlaxmi Jewel == ID: SHUBHLAXMI
+2341: Dev Labtech == ID: 543848
+2342: Sainik Finance == ID: 530265
+2343: COSCO (India) == ID: 530545
+2344: Lagnam Spintex == ID: LAGNAM
+2345: Ducon Tech == ID: DUCON
+2346: Bajaj Housing == ID: BAJAJHFL
+2347: Jay Bharat Maru. == ID: JAYBARMARU
+2348: Porwal Auto Comp == ID: 532933
+2349: Laxmi Organic == ID: LXCHEM
+2350: Innovatus Enter. == ID: 543951
+2351: Setco Automotive == ID: SETCO
+2352: Avasara Finance == ID: 511730
+2353: Neogen Chemicals == ID: NEOGEN
+2354: Rungta Irrigatn. == ID: 530449
+2355: AastamangalamFin == ID: 511764
+2356: Orchid Pharma == ID: ORCHPHARMA
+2357: Simm. Marshall == ID: 507998
+2358: Unick Fix-A-Form == ID: 541503
+2359: Speciality Rest. == ID: SPECIALITY
+2360: Indo-City Info. == ID: 532100
+2361: Cressanda Railwa == ID: 512379
+2362: Praveg == ID: 531637
+2363: Hester Bios == ID: HESTERBIO
+2364: GEE == ID: 504028
+2365: Stratmont Indus. == ID: 530495
+2366: Grasim Inds == ID: GRASIM
+2367: Indian Renewable == ID: IREDA
+2368: Sreeleathers == ID: SREEL
+2369: Konndor Indust. == ID: 532397
+2370: Somi Conv.Belt. == ID: SOMICONVEY
+2371: Vishal Fabrics == ID: VISHAL
+2372: Centrum Capital == ID: CENTRUM
+2373: PNB Housing == ID: PNBHOUSING
+2374: Can Fin Homes == ID: CANFINHOME
+2375: PVV Infra Ltd == ID: 536659
+2376: Innokaiz India == ID: 543905
+2377: Shivam == ID: 544165
+2378: Malu Paper == ID: MALUPAPER
+2379: Mahindra Holiday == ID: MHRIL
+2380: Lehar Footwears == ID: 532829
+2381: MMTC == ID: MMTC
+2382: H U D C O == ID: HUDCO
+2383: Abans Holdings == ID: AHL
+2384: Koura Fine Diamo == ID: 544139
+2385: WEP Solutions == ID: 532373
+2386: Sangam Finserv == ID: 538714
+2387: Sundaram Finance == ID: SUNDARMFIN
+2388: IRB InvIT Fund == ID: IRBINVIT
+2389: Tirupati Sarjan == ID: 531814
+2390: A.K.Capital Serv == ID: 530499
+2391: AWFIS Space == ID: AWFIS
+2392: Sunil Industries == ID: 521232
+2393: Maks Energy == ID: MAKS
+2394: South West Pinn. == ID: SOUTHWEST
+2395: Sangal Papers == ID: 516096
+2396: T N Petro Prod. == ID: TNPETRO
+2397: Mehta Integrat. == ID: 511377
+2398: Jagran Prakashan == ID: JAGRAN
+2399: Cubical Finan == ID: 511710
+2400: ICDS == ID: ICDSLTD
+2401: Transpek Inds. == ID: 506687
+2402: Bandaram Pharma == ID: 524602
+2403: SPP == ID: SPPPOLY
+2404: Incredible Indus == ID: INCREDIBLE
+2405: Polylink Poly. == ID: 531454
+2406: Riddhi Corporate == ID: 540590
+2407: Modern Insulator == ID: 515008
+2408: Sh.Pushkar Chem. == ID: SHREEPUSHK
+2409: Cool Caps == ID: COOLCAPS
+2410: XT Global Infot. == ID: XTGLOBAL
+2411: Sh. Rama Multi. == ID: SHREERAMA
+2412: Jindal Hotels == ID: 507981
+2413: Danube Industrie == ID: 540361
+2414: Birla Corpn. == ID: BIRLACORPN
+2415: AVSL Industries == ID: AVSL
+2416: Shankar Lal Ram. == ID: SRD
+2417: Adani Energy Sol == ID: ADANIENSOL
+2418: Anupam Rasayan == ID: ANURAS
+2419: DCM Shriram == ID: DCMSHRIRAM
+2420: Uma Converter == ID: UMA
+2421: Active Clothing == ID: 541144
+2422: Commerl. Synbags == ID: COMSYN
+2423: IFGL Refractori. == ID: IFGLEXPOR
+2424: Equitas Sma. Fin == ID: EQUITASBNK
+2425: Haryana Leather == ID: 524080
+2426: IRB Infra.Devl. == ID: IRB
+2427: Arihant Academy == ID: ARIHANTACA
+2428: Amarjothi Spg. == ID: 521097
+2429: Sahaj Fashions == ID: SAHAJ
+2430: Vintage Coffee == ID: VINCOFE
+2431: PTC India Fin == ID: PFS
+2432: Neelamalai Agro == ID: 508670
+2433: Health.Global == ID: HCG
+2434: Austin Engg Co == ID: 522005
+2435: ESAF Small Fin == ID: ESAFSFB
+2436: Vardhman Acrylic == ID: VARDHACRLC
+2437: Mansi Fin.(Chen) == ID: 511758
+2438: Cubex Tubings == ID: CUBEXTUB
+2439: Anupam Finserv == ID: 530109
+2440: ABM Knowledge == ID: 531161
+2441: Choksi Laborator == ID: 526546
+2442: Inditrade Cap. == ID: 532745
+2443: Kalyani Forge == ID: KALYANIFRG
+2444: M Lakhamsi Ind == ID: 512153
+2445: Ecofinity Ato == ID: 539455
+2446: Archidply Inds. == ID: ARCHIDPLY
+2447: Shahlon Silk == ID: 542862
+2448: Dollex Agrotech == ID: DOLLEX
+2449: Expo Gas Contain == ID: 526614
+2450: Sagar Soya Prod == ID: 507663
+2451: Karnimata Cold == ID: 537784
+2452: Rajshree Polypac == ID: RPPL
+2453: Shree Metalloys == ID: 531962
+2454: LIC Housing Fin. == ID: LICHSGFIN
+2455: Narmada Agrobase == ID: NARMADA
+2456: BCPL Railway == ID: 542057
+2457: Galada Finance == ID: 538881
+2458: ICICI Pru Life == ID: ICICIPRULI
+2459: M & M Fin. Serv. == ID: M&MFIN
+2460: Universal Auto. == ID: 539314
+2461: Atul == ID: ATUL
+2462: Vardhman Textile == ID: VTL
+2463: Shiva Granito == ID: 540072
+2464: Devyani Intl. == ID: DEVYANI
+2465: Challani Capital == ID: 530747
+2466: Ultramarine Pig. == ID: 506685
+2467: Cambridge Tech. == ID: CTE
+2468: Religare Enterp. == ID: RELIGARE
+2469: Yasons Chemex == ID: YCCL
+2470: Emerald Leisures == ID: 507265
+2471: TTK Healthcare == ID: TTKHLTCARE
+2472: Lead Reclaim == ID: LRRPL
+2473: Binayaka Tex Pr == ID: 523054
+2474: Globe Intl. Car. == ID: GICL
+2475: Rishi Techtex == ID: 523021
+2476: Flomic Global == ID: 504380
+2477: Banswara Syntex == ID: BANSWRAS
+2478: Colab Cloud == ID: 542866
+2479: Ducol Organics == ID: DUCOL
+2480: Him Teknoforg. == ID: 505712
+2481: K Z Leasing == ID: 511728
+2482: Globesecure Tech == ID: GSTL
+2483: Shradha Infrapr. == ID: SHRADHA
+2484: Vaidya Sane == ID: MADHAVBAUG
+2485: BF Utilities == ID: BFUTILITIE
+2486: Sakuma Exports == ID: SAKUMA
+2487: Jana Small Finan == ID: JSFB
+2488: Padmanabh Alloys == ID: 531779
+2489: Vishwaraj Sugar == ID: VISHWARAJ
+2490: Cell Point == ID: CELLPOINT
+2491: Real Touch Fin == ID: 538611
+2492: JSW Energy == ID: JSWENERGY
+2493: RHI Magnesita == ID: RHIM
+2494: Venus Remedies == ID: VENUSREM
+2495: Anant Raj == ID: ANANTRAJ
+2496: Bharat Global == ID: 521238
+2497: GIC Housing Fin == ID: GICHSGFIN
+2498: HEG == ID: HEG
+2499: Jumbo Bag == ID: 516078
+2500: Crest Ventures == ID: CREST
+2501: Vamshi Rubber == ID: 530369
+2502: B & A == ID: 508136
+2503: Voltas == ID: VOLTAS
+2504: Zuari Agro Chem. == ID: ZUARI
+2505: Ausom Enter. == ID: AUSOMENT
+2506: Kshitij Polyline == ID: KSHITIJPOL
+2507: Pil Italica Life == ID: PILITA
+2508: Batliboi == ID: 522004
+2509: I D F C == ID: IDFC
+2510: Triton Valves == ID: 505978
+2511: Suryoday Small == ID: SURYODAY
+2512: IBL Finance == ID: IBLFL
+2513: Balaji Telefilms == ID: BALAJITELE
+2514: V I P Inds. == ID: VIPIND
+2515: Krypton Industri == ID: 523550
+2516: Machino Plastics == ID: 523248
+2517: Sunil Agro Foods == ID: 530953
+2518: Emmbi Industries == ID: EMMBI
+2519: Venky's (India) == ID: VENKEYS
+2520: Shubham Polyspin == ID: 542019
+2521: Suryalak. Cott. == ID: SURYALAXMI
+2522: HEC Infra Proj. == ID: HECPROJECT
+2523: RattanIndia Pow. == ID: RTNPOWER
+2524: Addi Industries == ID: 507852
+2525: NTC Industries == ID: 526723
+2526: Mayukh Dealtrade == ID: 539519
+2527: Indostar Capital == ID: INDOSTAR
+2528: Ratnabhumi Dev. == ID: 540796
+2529: Richa Info == ID: RICHA
+2530: Technopack Poly. == ID: 543656
+2531: Whirlpool India == ID: WHIRLPOOL
+2532: JMD Ventures == ID: 511092
+2533: Solid Stone Co == ID: 513699
+2534: Tyroon Tea Co. == ID: 526945
+2535: Jakharia Fabric == ID: JAKHARIA
+2536: Damodar Indust. == ID: DAMODARIND
+2537: East WestFreight == ID: 540006
+2538: Nexus Select == ID: NXST
+2539: Epack Durable == ID: EPACK
+2540: Salona Cotspin == ID: SALONA
+2541: Steel Exchange == ID: STEELXIND
+2542: A B Real Estate == ID: ABREL
+2543: Supra Pacific == ID: 540168
+2544: Genesys Intl. == ID: GENESYS
+2545: Bhilwara Tech == ID: 533108
+2546: Eighty Jewellers == ID: 543518
+2547: Vascon Engineers == ID: VASCONEQ
+2548: Renaiss. Global == ID: RGL
+2549: Swan Energy == ID: SWANENERGY
+2550: CWD == ID: 543378
+2551: Variman Global == ID: 540570
+2552: United Van Der == ID: 522091
+2553: Bajaj Healthcare == ID: BAJAJHCARE
+2554: Smruthi Organic == ID: 540686
+2555: KKalpana Inds. == ID: 526409
+2556: L&T Finance Ltd == ID: LTF
+2557: Indo National == ID: NIPPOBATRY
+2558: Bhatia Colour == ID: 543497
+2559: Earthstahl &All. == ID: 543765
+2560: ABC India == ID: 520123
+2561: Medicamen Biotec == ID: MEDICAMEQ
+2562: Ekansh Concept == ID: 531364
+2563: Std. Capital Mkt == ID: 511700
+2564: Rico Auto Inds == ID: RICOAUTO
+2565: Goblin India == ID: 542850
+2566: J A Finance == ID: 543860
+2567: HCKK Ventures == ID: 539224
+2568: Capital Trust == ID: CAPTRUST
+2569: Metal Coatings == ID: 531810
+2570: Marvel Decor == ID: MDL
+2571: Konark Synth == ID: 514128
+2572: Veritas (India) == ID: 512229
+2573: Virinchi == ID: VIRINCHI
+2574: Pruden. Sugar == ID: PRUDMOULI
+2575: Vinayak Polycon == ID: 534639
+2576: Cospower Engine. == ID: 543172
+2577: Narendra Prop. == ID: 531416
+2578: The Ramco Cement == ID: RAMCOCEM
+2579: S A I L == ID: SAIL
+2580: Centenial Surgic == ID: 531380
+2581: Diligent Media == ID: DNAMEDIA
+2582: Bhagyanagar Ind == ID: BHAGYANGR
+2583: Ganesha Ecosphe. == ID: GANECOS
+2584: S.A.L Steel == ID: SALSTEEL
+2585: Shraddha Prime == ID: 531771
+2586: Niraj Ispat Ind. == ID: NIRAJISPAT
+2587: Mafia Trends == ID: 543613
+2588: Transchem == ID: 500422
+2589: AMJ Land Holdin. == ID: AMJLAND
+2590: Anna Infrastruct == ID: 530799
+2591: Sheela Foam == ID: SFL
+2592: Enbee Trade == ID: 512441
+2593: Chandra Bhagat == ID: 542934
+2594: Nidan Laborator. == ID: NIDAN
+2595: Organic Recyclin == ID: 543997
+2596: Atlantaa == ID: ATLANTAA
+2597: IndusInd Bank == ID: INDUSINDBK
+2598: T T == ID: TTL
+2599: Hybrid Financial == ID: HYBRIDFIN
+2600: Jigar Cables == ID: 540651
+2601: National Standar == ID: 504882
+2602: MSP Steel & Pow. == ID: MSPL
+2603: Sabrimala Indus. == ID: 540132
+2604: JHS Svend.Retail == ID: RETAIL
+2605: Raja Bahadur Int == ID: 503127
+2606: Starteck Fin. == ID: STARTECK
+2607: Regency Trust == ID: 511585
+2608: NMS Global == ID: 522289
+2609: Lykis == ID: 530689
+2610: Prerna Infra. == ID: 531802
+2611: Kotak Mah. Bank == ID: KOTAKBANK
+2612: Strides Pharma == ID: STAR
+2613: Garment Mantra == ID: 539216
+2614: Elpro Internatio == ID: 504000
+2615: Supershakti Met. == ID: 541701
+2616: Sahara == ID: 544056
+2617: Khadim India == ID: KHADIM
+2618: Aether Industri. == ID: AETHER
+2619: Tata Chemicals == ID: TATACHEM
+2620: Tera Software == ID: TERASOFT
+2621: Hikal == ID: HIKAL
+2622: RRIL == ID: 531307
+2623: Super Tannery == ID: 523842
+2624: Ajooni Biotech == ID: AJOONI
+2625: Worth Investment == ID: 538451
+2626: Guj. Craft Inds == ID: 526965
+2627: Suryaamba Spinni == ID: 533101
+2628: Udaipur Cement == ID: UDAICEMENT
+2629: MRO-TEK Realty == ID: MRO-TEK
+2630: G N F C == ID: GNFC
+2631: AU Small Finance == ID: AUBANK
+2632: Colinz Labs == ID: 531210
+2633: Deccan Cements == ID: DECCANCE
+2634: Tirupati Starch == ID: 524582
+2635: HDFC Bank == ID: HDFCBANK
+2636: Intrasoft Tech. == ID: ISFT
+2637: NHPC Ltd == ID: NHPC
+2638: Guj Inds. Power == ID: GIPCL
+2639: Vedavaag Systems == ID: 533056
+2640: Organic Coatings == ID: 531157
+2641: Bloom Industries == ID: 513422
+2642: Astal Lab == ID: 512600
+2643: CL Educate == ID: CLEDUCATE
+2644: Cineline India == ID: CINELINE
+2645: ICICI Bank == ID: ICICIBANK
+2646: Mukta Arts == ID: MUKTAARTS
+2647: Megasoft == ID: MEGASOFT
+2648: Lex Nimble Solu. == ID: 541196
+2649: Swastik Pipe == ID: SWASTIK
+2650: Suraj Industries == ID: 526211
+2651: Shilp Gravures == ID: 513709
+2652: Vipul Organics == ID: 530627
+2653: Plaza Wires == ID: PLAZACABLE
+2654: Tuni Text. Mills == ID: 531411
+2655: Uma Exports == ID: UMAEXPORTS
+2656: DCB Bank == ID: DCBBANK
+2657: Transwar.Fin. == ID: TFL
+2658: Retina Paints == ID: 543902
+2659: Thakkers Group == ID: 507530
+2660: On Door Concepts == ID: ONDOOR
+2661: Aarti Industries == ID: AARTIIND
+2662: Rana Sugars == ID: RANASUG
+2663: PTL Enterprises == ID: PTL
+2664: Milkfood == ID: 507621
+2665: S C I == ID: SCI
+2666: Shanti Educat. == ID: 539921
+2667: Gokul Refoils == ID: GOKUL
+2668: Ashiana Ispat == ID: 513401
+2669: Godavari Bioref. == ID: GODAVARIB
+2670: North Eastn.Car. == ID: NECCLTD
+2671: Reliance Infra. == ID: RELINFRA
+2672: Chordia Food == ID: 519475
+2673: Orient Ceratech == ID: ORIENTCER
+2674: Sakar Healthcare == ID: SAKAR
+2675: Stovec Inds. == ID: 504959
+2676: United Credit == ID: 531091
+2677: Ravi Leela Gran == ID: 526095
+2678: Diligent Indust. == ID: 531153
+2679: Abhishek Finle. == ID: 538935
+2680: NCC Blue Water == ID: 519506
+2681: Marg Techno-Proj == ID: 540254
+2682: Shri Krishna == ID: 531080
+2683: SPL Industries == ID: SPLIL
+2684: Ruby Mills == ID: RUBYMILLS
+2685: VTM == ID: 532893
+2686: Vakrangee == ID: VAKRANGEE
+2687: Sadhana Nitro == ID: SADHNANIQ
+2688: Sashwat Technoc == ID: 506313
+2689: Den Networks == ID: DEN
+2690: Sharpline Broadc == ID: 543341
+2691: KK Shah Hospital == ID: 544013
+2692: GOCL Corpn. == ID: GOCLCORP
+2693: Hittco Tools == ID: 531661
+2694: Inducto Steel == ID: 532001
+2695: Euro Asia Export == ID: 530929
+2696: Altius Telecom == ID: 543225
+2697: Confidence Fut. == ID: 539991
+2698: Sapphire Foods == ID: SAPPHIRE
+2699: Resonance Speci. == ID: 524218
+2700: Galactico Corpo. == ID: 542802
+2701: Chandra Pr. Intl == ID: 530309
+2702: Indl.& Prud.Inv. == ID: 501298
+2703: Pioneer Invest == ID: 507864
+2704: Kenvi Jewels == ID: 540953
+2705: Global Vectra == ID: GLOBALVECT
+2706: Parin Enterpris. == ID: PARIN
+2707: GeeCee Vent. == ID: GEECEE
+2708: T N Merc. Bank == ID: TMB
+2709: Umang Dairies == ID: UMANGDAIRY
+2710: Anjani Synth. == ID: 531223
+2711: BPL == ID: BPL
+2712: Multi Comm. Exc. == ID: MCX
+2713: Libas Consumer == ID: LIBAS
+2714: Raj Rayon Inds. == ID: RAJRILTD
+2715: Goldkart Jewels == ID: GOLDKART
+2716: Sobha == ID: SOBHA
+2717: Banaras Beads == ID: BANARBEADS
+2718: Total Transport == ID: TOTAL
+2719: Ambalal Sarabhai == ID: 500009
+2720: India Grid Trust == ID: INDIGRID
+2721: Nutech Global == ID: 531304
+2722: Lotus Eye Hospit == ID: LOTUSEYE
+2723: Pasupati Spinng. == ID: 503092
+2724: Uniroyal Ind == ID: 521226
+2725: Fino Payments == ID: FINOPB
+2726: Ajcon Global == ID: 511692
+2727: Axis Bank == ID: AXISBANK
+2728: Bandhan Bank == ID: BANDHANBNK
+2729: Dipna Pharmachem == ID: 543594
+2730: Polson == ID: 507645
+2731: Mahamaya Steel == ID: MAHASTEEL
+2732: Hindprakash Indu == ID: HPIL
+2733: Esaar (India) == ID: 531502
+2734: Subhash Silk == ID: 530231
+2735: Tata Steel == ID: TATASTEEL
+2736: Tatva Chintan == ID: TATVA
+2737: Enkei Wheels == ID: 533477
+2738: Zenlabs Ethica == ID: 530697
+2739: Capital Small == ID: CAPITALSFB
+2740: Hardcast.& Waud == ID: 509597
+2741: HB Estate Devel. == ID: 532334
+2742: Eraaya Lifespace == ID: 531035
+2743: Aruna Hotels == ID: 500016
+2744: Purv Flexi == ID: PURVFLEXI
+2745: CNI Research == ID: 512018
+2746: Vippy Spinpro == ID: 514302
+2747: Gretex Industrie == ID: GRETEX
+2748: Orient Green == ID: GREENPOWER
+2749: Global Surfaces == ID: GSLSU
+2750: Shangar Decor == ID: 540259
+2751: CSB Bank == ID: CSBBANK
+2752: Ganga Papers == ID: 531813
+2753: Federal Bank == ID: FEDERALBNK
+2754: IDFC First Bank == ID: IDFCFIRSTB
+2755: Kitex Garments == ID: KITEX
+2756: H. S. India == ID: 532145
+2757: Market Creators == ID: 526891
+2758: Karur Vysya Bank == ID: KARURVYSYA
+2759: Bharat Parenter. == ID: 541096
+2760: SMS Lifesciences == ID: SMSLIFE
+2761: Cosmo First == ID: COSMOFIRST
+2762: FSN E-Commerce == ID: NYKAA
+2763: Lak. Electrical == ID: 504258
+2764: Caprolactam Chem == ID: 507486
+2765: Cravatex == ID: 509472
+2766: Davangere Sugar == ID: DAVANGERE
+2767: Sh. Krishna Pap. == ID: 500388
+2768: York Exports == ID: 530675
+2769: Scan Steels == ID: 511672
+2770: Mawana Sugars == ID: MAWANASUG
+2771: Desh Rakshak == ID: 531521
+2772: Arvee Laborat. == ID: ARVEE
+2773: Samhi Hotels == ID: SAMHI
+2774: Quality Foils == ID: QFIL
+2775: PNB Gilts == ID: PNBGILTS
+2776: Spenta Intl. == ID: 526161
+2777: RTCL == ID: 531552
+2778: Aspinwall & Co == ID: ASPINWALL
+2779: IL&FS Inv.Manag. == ID: IVC
+2780: Juniper Hotels == ID: JUNIPER
+2781: Transvoy Logist. == ID: 543754
+2782: Rajshree Sugars == ID: RAJSREESUG
+2783: Sangam India == ID: SANGAMIND
+2784: Helpage Finlease == ID: 539174
+2785: Lloyds Enterpris == ID: LLOYDSENT
+2786: Nath Bio-Genes == ID: NATHBIOGEN
+2787: Fundviser Capit. == ID: 530197
+2788: Mafatlal Inds. == ID: 500264
+2789: Rel. Chemotex == ID: RELCHEMQ
+2790: Sanchay Finvest == ID: 511563
+2791: Jubilant Pharmo == ID: JUBLPHARMA
+2792: Paradeep Phosph. == ID: PARADEEP
+2793: Heranba Inds == ID: HERANBA
+2794: DCW == ID: DCW
+2795: Snowman Logistic == ID: SNOWMAN
+2796: Surat Trade == ID: 530185
+2797: Dalmia BharatLtd == ID: DALBHARAT
+2798: Entero Healthcar == ID: ENTERO
+2799: BLB == ID: BLBLIMITED
+2800: Kuwer Industries == ID: 530421
+2801: 63 Moons Tech. == ID: 63MOONS
+2802: Aarnav Fashions == ID: 539562
+2803: Natl.Fertilizer == ID: NFL
+2804: Yarn Syndicate == ID: 514378
+2805: Lambodhara Text. == ID: LAMBODHARA
+2806: Medplus Health == ID: MEDPLUS
+2807: Bharat Textiles == ID: 531029
+2808: Precot == ID: PRECOT
+2809: Vineet Laborator == ID: VINEETLAB
+2810: ETT Ltd == ID: 537707
+2811: Superior Indus. == ID: 519234
+2812: AYM Syntex == ID: AYMSYNTEX
+2813: Canara Bank == ID: CANBK
+2814: The Invest.Trust == ID: THEINVEST
+2815: Moschip Tech. == ID: 532407
+2816: Zee Entertainmen == ID: ZEEL
+2817: Generic Engineer == ID: GENCON
+2818: Artemis Electri. == ID: 542670
+2819: Go Digit General == ID: GODIGIT
+2820: Bhartiya Intl. == ID: BIL
+2821: HDFC Life Insur. == ID: HDFCLIFE
+2822: Inflame Applian. == ID: 541083
+2823: Sri KPR Inds. == ID: 514442
+2824: Laurus Labs == ID: LAURUSLABS
+2825: Dhunseri Vent. == ID: DVL
+2826: Amal == ID: 506597
+2827: Rachana Infra. == ID: RILINFRA
+2828: Keystone Realtor == ID: RUSTOMJEE
+2829: City Union Bank == ID: CUB
+2830: Supertex Inds. == ID: 526133
+2831: Cons. Finvest == ID: CONSOFINVT
+2832: Globale Tessile == ID: GLOBALE
+2833: Union Bank (I) == ID: UNIONBANK
+2834: NLC India == ID: NLCINDIA
+2835: Comfort Intech == ID: 531216
+2836: Le Travenues == ID: IXIGO
+2837: Jindal Drilling == ID: JINDRILL
+2838: Softtech Enginee == ID: SOFTTECH
+2839: Mindspace Busine == ID: MINDSPACE
+2840: N G Industries == ID: 530897
+2841: SwarnsaritaJewel == ID: 526365
+2842: Uflex == ID: UFLEX
+2843: Sonal Mercantile == ID: 538943
+2844: Rhetan TMT Ltd == ID: 543590
+2845: Softrak Venture == ID: 531529
+2846: Kerala Ayurveda == ID: 530163
+2847: Country Condo == ID: COUNCODOS
+2848: FGP == ID: 500142
+2849: KJMC Corporate == ID: 532304
+2850: Crane Infra == ID: 538770
+2851: Calcom Vision == ID: 517236
+2852: Ganon Products == ID: 512443
+2853: MBL Infrast == ID: MBLINFRA
+2854: Greenchef Appli. == ID: GREENCHEF
+2855: GMR Airports Inf == ID: GMRINFRA
+2856: Aatmaj Health == ID: AATMAJ
+2857: Mega Corp. == ID: 531417
+2858: Euro India Fresh == ID: EIFFL
+2859: Rossell India == ID: ROSSELLIND
+2860: Quadpro ITeS == ID: QUADPRO
+2861: Meera Industries == ID: 540519
+2862: Avonmore Capital == ID: AVONMORE
+2863: BSEL ALGO == ID: 532123
+2864: Rane (Madras) == ID: RML
+2865: Super Crop Safe == ID: 530883
+2866: Bank of Baroda == ID: BANKBARODA
+2867: Proventus Agro. == ID: PROV
+2868: Nandani Creation == ID: JAIPURKURT
+2869: Marble City == ID: 531281
+2870: Shreeshay Engi. == ID: 541112
+2871: Rathi Bars == ID: 532918
+2872: Bimetal Bearings == ID: 505681
+2873: S Chand & Compan == ID: SCHAND
+2874: Ashnoor Textile == ID: 507872
+2875: Kaira Can == ID: 504840
+2876: Infibeam Avenues == ID: INFIBEAM
+2877: C J Gelatine == ID: 507515
+2878: Karnataka Bank == ID: KTKBANK
+2879: Kanungo Financi. == ID: 540515
+2880: IDBI Bank == ID: IDBI
+2881: RBL Bank == ID: RBLBANK
+2882: AKI India == ID: AKI
+2883: Avalon Tech == ID: AVALON
+2884: National Perox. == ID: 544205
+2885: Machhar Industri == ID: 543934
+2886: South Ind.Bank == ID: SOUTHBANK
+2887: Vishal Bearings == ID: 539398
+2888: Chandrima Mercan == ID: 540829
+2889: Bajel Projects == ID: BAJEL
+2890: Aarey Drugs == ID: AAREYDRUGS
+2891: Mohite Industrie == ID: 532140
+2892: Incap == ID: 517370
+2893: Nagreeka Exports == ID: NAGREEKEXP
+2894: Asian Star Co. == ID: 531847
+2895: S. V. J. Enterp. == ID: 543799
+2896: R C F == ID: RCF
+2897: St Bk of India == ID: SBIN
+2898: United Drilling == ID: UNIDT
+2899: Bhakti Gems == ID: 540545
+2900: Add-Shop E-Reta. == ID: 541865
+2901: Sindhu Trade == ID: SINDHUTRAD
+2902: Pratiksha Chem. == ID: 531257
+2903: Capital India == ID: 530879
+2904: Pasupati Acrylon == ID: PASUPTAC
+2905: Duroply Indust. == ID: 516003
+2906: Polycon Intl. == ID: 531397
+2907: Vertex Secur. == ID: 531950
+2908: Shivalik Rasayan == ID: SHIVALIK
+2909: Swati Projects == ID: 543914
+2910: Vardhman Hold. == ID: VHL
+2911: Repro India == ID: REPRO
+2912: Roni Households == ID: 542145
+2913: Alkosign == ID: 543453
+2914: Euro Leder Fash == ID: 526468
+2915: Samyak Internati == ID: 530025
+2916: Coastal Roadways == ID: 520131
+2917: Everest Organics == ID: 524790
+2918: Transcorp Intl. == ID: 532410
+2919: Neeraj Paper Mkt == ID: 539409
+2920: Vedant Asset == ID: 543623
+2921: Shashijit Infra. == ID: 540147
+2922: Salguti Industri == ID: 526554
+2923: Sailani Tours N == ID: 543541
+2924: Compucom Soft. == ID: COMPUSOFT
+2925: Aeonx Digital == ID: 524594
+2926: Alkali Metals == ID: ALKALI
+2927: Future Supply == ID: FSC
+2928: Precision Camshf == ID: PRECAM
+2929: Nectar Lifesci. == ID: NECLIFE
+2930: Veerhealth Care == ID: 511523
+2931: Biocon == ID: BIOCON
+2932: Kiri Industries == ID: KIRIINDUS
+2933: Mahickra Chem. == ID: MAHICKRA
+2934: Indian Bank == ID: INDIANB
+2935: Phosphate Co == ID: 542123
+2936: Neelkanth Rock == ID: 531049
+2937: Orient Tradelink == ID: 531512
+2938: Sh. Dinesh Mills == ID: 503804
+2939: Olympia Industri == ID: 521105
+2940: J & K Bank == ID: J&KBANK
+2941: New Light Appare == ID: 540243
+2942: G G Engineering == ID: 540614
+2943: Sacheta Metals == ID: 531869
+2944: Amarnath Sec. == ID: 538465
+2945: Ent.Network == ID: ENIL
+2946: Maruti Infra. == ID: 531540
+2947: Sundaram Fin.Hol == ID: SUNDARMHLD
+2948: Luharuka Media == ID: 512048
+2949: Manjeera Constr. == ID: 533078
+2950: Yes Bank == ID: YESBANK
+2951: Mehai Technology == ID: 540730
+2952: HCP Plastene == ID: 526717
+2953: Jain Irrigation == ID: JISLJALEQS
+2954: Duke Offshore == ID: 531471
+2955: Humming Bird Edu == ID: 542592
+2956: Elgi Rubber Co == ID: ELGIRUBCO
+2957: Grovy India == ID: 539522
+2958: Dhanlaxmi Cotex == ID: 512485
+2959: Rollatainers == ID: ROLLT
+2960: G S F C == ID: GSFC
+2961: Southern Latex == ID: 514454
+2962: BAG Films == ID: BAGFILMS
+2963: Marinetrans Indi == ID: MARINETRAN
+2964: DLF == ID: DLF
+2965: Godrej Propert. == ID: GODREJPROP
+2966: I R F C == ID: IRFC
+2967: Polymechplast Ma == ID: 526043
+2968: Trigyn Techno. == ID: TRIGYN
+2969: Vaishali Pharma == ID: VAISHALI
+2970: Debock Industrie == ID: DIL
+2971: Last Mile Enter. == ID: 526961
+2972: Indus Finance == ID: 531841
+2973: Chemcon Special. == ID: CHEMCON
+2974: GHCL Textiles == ID: GHCLTEXTIL
+2975: Associated Cera. == ID: 531168
+2976: Bank of India == ID: BANKINDIA
+2977: Sunflag Iron == ID: SUNFLAG
+2978: Quick Heal Tech == ID: QUICKHEAL
+2979: Ajanta Soya == ID: 519216
+2980: Mitshi India == ID: 523782
+2981: Hercules Hoists == ID: HERCULES
+2982: Lead Financial S == ID: 531288
+2983: Lakhotia Poly. == ID: 535387
+2984: Barbeque-Nation == ID: BARBEQUE
+2985: Gini Silk Mills == ID: 531744
+2986: HLV == ID: HLVLTD
+2987: Patel Integrated == ID: PATINTLOG
+2988: Basant Agro Tech == ID: 524687
+2989: Transwind Infra. == ID: TRANSWIND
+2990: Sahara Housing == ID: 511533
+2991: Veer Global Inf. == ID: 543241
+2992: Picturehouse == ID: 532355
+2993: Pun. & Sind Bank == ID: PSB
+2994: Godrej Industrie == ID: GODREJIND
+2995: Media Matrix == ID: 512267
+2996: Sulabh Engineers == ID: 508969
+2997: Lords Ishwar == ID: 530065
+2998: AVI Products == ID: 523896
+2999: Panchmahal Steel == ID: 513511
+3000: Sagardeep Alloys == ID: SAGARDEEP
+3001: Sakthi Sugars == ID: SAKHTISUG
+3002: Elegant Marbles == ID: 526705
+3003: Remi Edelstahl == ID: 513043
+3004: Nazara Technolo. == ID: NAZARA
+3005: Kanishk Steel == ID: 513456
+3006: Pion. Embroider. == ID: PIONEEREMB
+3007: V B Desai Fin. == ID: 511110
+3008: Aditya Consumer == ID: 540146
+3009: Piramal Pharma == ID: PPLPHARMA
+3010: Accuracy Shippi. == ID: ACCURACY
+3011: Agarwal Float == ID: AGARWALFT
+3012: Toyam Sports == ID: 538607
+3013: Punjab Natl.Bank == ID: PNB
+3014: Sar Auto Prod. == ID: 538992
+3015: Standard Surfact == ID: 526231
+3016: Ranjeet Mechatr. == ID: 541945
+3017: Nuvoco Vistas == ID: NUVOCO
+3018: I O B == ID: IOB
+3019: Embassy Off.REIT == ID: EMBASSY
+3020: Harri. Malayalam == ID: HARRMALAYA
+3021: Tai Industries == ID: 519483
+3022: I G Petrochems == ID: IGPL
+3023: Dhanlaxmi Bank == ID: DHANBANK
+3024: Bank of Maha == ID: MAHABANK
+3025: Pace E-Commerce == ID: 543637
+3026: Sandu Pharma. == ID: 524703
+3027: Ashoka Metcast == ID: ASHOKAMET
+3028: Swelect Energy == ID: SWELECTES
+3029: Aartech Solonics == ID: AARTECH
+3030: UCO Bank == ID: UCOBANK
+3031: Jayatma Industri == ID: 531323
+3032: Andhra Sugars == ID: ANDHRSUGAR
+3033: Agni Green == ID: AGNI
+3034: Rainbow Foundat. == ID: 531694
+3035: Zydus Wellness == ID: ZYDUSWELL
+3036: Vertexplus Tech. == ID: VERTEXPLUS
+3037: Jhaveri Credits == ID: 531550
+3038: Times Guaranty == ID: TIMESGTY
+3039: Fischer Medical == ID: 524743
+3040: Amrapali Inds. == ID: 526241
+3041: Central Bank == ID: CENTRALBK
+3042: RDB Realty == ID: 533285
+3043: AKG Exim == ID: AKG
+3044: Ashiana Agro Ind == ID: 519174
+3045: India Home Loans == ID: 530979
+3046: Retro Green == ID: 519191
+3047: Sellwin Traders == ID: 538875
+3048: Wires & Fabriks == ID: 507817
+3049: RTS Power Corpn. == ID: 531215
+3050: Shilpa Medicare == ID: SHILPAMED
+3051: Universal Arts == ID: 532378
+3052: Aditya Spinners == ID: 521141
+3053: Alpine Housing == ID: 526519
+3054: Cian Healthcare == ID: 542678
+3055: Munjal Showa == ID: MUNJALSHOW
+3056: J J Finance Corp == ID: 523062
+3057: Angel Fibers == ID: 541006
+3058: Ashish Polyplast == ID: 530429
+3059: Sanginita Chemi. == ID: SANGINITA
+3060: Fiberweb (India) == ID: FIBERWEB
+3061: Le Merite Export == ID: LEMERITE
+3062: Cosmo Ferrites == ID: 523100
+3063: White Organic == ID: 513713
+3064: Decorous Investm == ID: 539405
+3065: Khyati Multimed. == ID: 531692
+3066: Rodium Realty == ID: 531822
+3067: TGV Sraac == ID: 507753
+3068: Abirami Fin. == ID: 511756
+3069: Bhageria Indust. == ID: BHAGERIA
+3070: Anjani Finance == ID: 531878
+3071: Elin Electronics == ID: ELIN
+3072: Ambica Agarbat. == ID: AMBICAAGAR
+3073: IFL Enterprises == ID: 540377
+3074: Tridhya Tech == ID: TRIDHYA
+3075: Saj == ID: SAJHOTELS
+3076: Vivanta Indust. == ID: 541735
+3077: Shrydus Indust. == ID: 511493
+3078: Smartlink Hold. == ID: SMARTLINK
+3079: Aro Granite Inds == ID: AROGRANITE
+3080: Epic Energy == ID: 530407
+3081: Super Sales Ind. == ID: 512527
+3082: Pansari Develop. == ID: PANSARI
+3083: Amin Tannery == ID: 541771
+3084: Softsol India == ID: 532344
+3085: Dhampur Bio == ID: DBOL
+3086: Neil Industries == ID: 539016
+3087: Concord Drugs == ID: 538965
+3088: Advance Lifes. == ID: 521048
+3089: SJVN == ID: SJVN
+3090: Thinkink Picture == ID: 539310
+3091: Hindustan Agrig. == ID: 519574
+3092: Apex Frozen Food == ID: APEX
+3093: Biofil Chemicals == ID: BIOFILCHEM
+3094: Butterfly Gan Ap == ID: BUTTERFLY
+3095: Dynemic Products == ID: DYNPRO
+3096: Shah Metacorp == ID: SHAH
+3097: Sh. Karthik Pap. == ID: 516106
+3098: Ishan Internat. == ID: ISHAN
+3099: Shivagrico Impl. == ID: 522237
+3100: AA Plus Trade == ID: 543319
+3101: Aashka Hospitals == ID: 543346
+3102: Kohinoor Foods == ID: KOHINOOR
+3103: Dhunseri Invest. == ID: DHUNINV
+3104: Sawaca Business == ID: 531893
+3105: B.C. Power == ID: BCP
+3106: Super Fine Knit. == ID: 540269
+3107: Omax Autos == ID: OMAXAUTO
+3108: Mirza Internatio == ID: MIRZAINT
+3109: Kuber Udyog == ID: 539408
+3110: CDG Petchem == ID: 534796
+3111: Lyons Corporate == ID: 531441
+3112: OnMobile Global == ID: ONMOBILE
+3113: Arihant's Secur. == ID: 531017
+3114: Prakash Woollen == ID: 531437
+3115: Sintercom India == ID: SINTERCOM
+3116: Murudesh.Ceramic == ID: MURUDCERA
+3117: Kay Power &Paper == ID: 530255
+3118: Just Dial == ID: JUSTDIAL
+3119: Alembic == ID: ALEMBICLTD
+3120: Leading Lea. Fin == ID: 540360
+3121: Ganga Forging == ID: GANGAFORGE
+3122: Hind.Composites == ID: HINDCOMPOS
+3123: Sterlite Tech. == ID: STLTECH
+3124: Brookfield India == ID: BIRET
+3125: ECS Biztech == ID: 540063
+3126: Perfect-Octave == ID: 521062
+3127: Manali Petrochem == ID: MANALIPETC
+3128: Sparc Electrex == ID: 531370
+3129: Igarashi Motors == ID: IGARASHI
+3130: Kanpur Plastipa. == ID: KANPRPLA
+3131: TVS Supply == ID: TVSSCS
+3132: Kreon Finnancial == ID: 530139
+3133: SEPC == ID: SEPC
+3134: Naga Dhunseri == ID: NDGL
+3135: TransIndia Real == ID: TREL
+3136: Refex Renewables == ID: 531260
+3137: PVR Inox == ID: PVRINOX
+3138: A-1 == ID: 542012
+3139: Shakti Press == ID: 526841
+3140: Sunteck Realty == ID: SUNTECK
+3141: Mahaan Foods == ID: 519612
+3142: The Byke Hospi. == ID: BYKE
+3143: NIIT == ID: NIITLTD
+3144: Vivaa Tradecom == ID: 544002
+3145: Jyoti == ID: 504076
+3146: Vikas Ecotech == ID: VIKASECO
+3147: KKV Agro Powers == ID: KKVAPOW
+3148: Vani Commercials == ID: 538918
+3149: Coastal Corporat == ID: COASTCORP
+3150: Riddhi Siddhi Gl == ID: 524480
+3151: Odyssey Corpn. == ID: 531996
+3152: Natural Capsules == ID: 524654
+3153: Inani Marbles == ID: 531129
+3154: Mathew Easow Res == ID: 511688
+3155: Jet Freight == ID: JETFREIGHT
+3156: Bonlon Industrie == ID: 543211
+3157: Gratex Industrie == ID: 526751
+3158: Sofcom Systems == ID: 538923
+3159: Navoday Enterpri == ID: 543305
+3160: Exxaro Tiles == ID: EXXARO
+3161: Maral Overseas == ID: MARALOVER
+3162: Garnet Construct == ID: 526727
+3163: Mena Mani Inds. == ID: 531127
+3164: Vilin Bio Med == ID: VILINBIO
+3165: Fine Line Cir. == ID: 517264
+3166: India Motor Part == ID: IMPAL
+3167: Art Nirman Ltd == ID: ARTNIRMAN
+3168: Aster DM Health. == ID: ASTERDM
+3169: Beryl Securities == ID: 531582
+3170: Frontier Capital == ID: 508980
+3171: Parvati Sweetner == ID: 541347
+3172: Multipurpose Trd == ID: 504356
+3173: N D Metal Inds. == ID: 512024
+3174: Asian Hotels (N) == ID: ASIANHOTNR
+3175: Chart.Logistics == ID: 531977
+3176: California Soft. == ID: CALSOFT
+3177: Kandagiri Spinng == ID: 521242
+3178: Superhouse Ltd == ID: SUPERHOUSE
+3179: Saboo Sodium == ID: 530461
+3180: Modern Steels == ID: 513303
+3181: H P Cotton Tex == ID: 502873
+3182: Sicagen India == ID: 533014
+3183: Shanthala == ID: SHANTHALA
+3184: S R G Securities == ID: 536710
+3185: India Power Corp == ID: DPSCLTD
+3186: Stanpacks(India) == ID: 530931
+3187: BKV Industries == ID: 519500
+3188: Kemistar Corp. == ID: 531163
+3189: Modern Shares == ID: 509760
+3190: Charter. Capital == ID: 511696
+3191: Genus Paper & Bo == ID: GENUSPAPER
+3192: Teesta Agro Ind. == ID: 524204
+3193: Southern Infosys == ID: 540174
+3194: Gujarat Hy-Spin == ID: 540938
+3195: Grill Splendour == ID: BIRDYS
+3196: Greencrest Finan == ID: 531737
+3197: Valson Industrie == ID: 530459
+3198: Sharda Cropchem == ID: SHARDACROP
+3199: Rajdarshan Inds == ID: ARENTERP
+3200: Gopal Iron Stl. == ID: 531913
+3201: Singer India == ID: 505729
+3202: Inox Wind == ID: INOXWIND
+3203: Tainwala Chem. == ID: TAINWALCHM
+3204: UR Sugar == ID: 539097
+3205: Kranti Industrie == ID: 542459
+3206: Rita Finance and == ID: 543256
+3207: Parshwanath Corp == ID: 511176
+3208: Atul Auto == ID: ATULAUTO
+3209: Vishvprabha Ven. == ID: 512064
+3210: Cartrade Tech == ID: CARTRADE
+3211: Dredging Corpn. == ID: DREDGECORP
+3212: Srestha Finvest == ID: 539217
+3213: Alphageo (India) == ID: ALPHAGEO
+3214: Gautam Exim == ID: 540613
+3215: Nam Securities == ID: 538395
+3216: Peria Kara. Tea == ID: PKTEA
+3217: Inox Wind Energy == ID: IWEL
+3218: B-Right Real == ID: 543543
+3219: Kiran Vyapar == ID: 537750
+3220: Vapi Enterprise == ID: 502589
+3221: Archidply Decor == ID: ADL
+3222: Samrat Pharma == ID: 530125
+3223: S.M. Gold == ID: 542034
+3224: Ashirwad Steels == ID: 526847
+3225: Oriental Aromat. == ID: OAL
+3226: Jiwanram Sheo == ID: JIWANRAM
+3227: Smiths & Founder == ID: 513418
+3228: Guj. Inject(Ker) == ID: 524238
+3229: Jaykay Enter. == ID: 500306
+3230: Guj. Raffia Inds == ID: GUJRAFFIA
+3231: KMG Milk Food == ID: 519415
+3232: IP Rings == ID: 523638
+3233: KIC Metaliks == ID: 513693
+3234: Morarka Finance == ID: 511549
+3235: Adinath Exim Res == ID: 532056
+3236: Deep Diamond == ID: 539559
+3237: Gyan Developers == ID: 530141
+3238: Mangalam Organic == ID: MANORG
+3239: Indra Industries == ID: 539175
+3240: Rapicut Carbides == ID: 500360
+3241: Purple Entertain == ID: 540159
+3242: Zenith Health == ID: 530665
+3243: Super Spinning == ID: SUPERSPIN
+3244: Polymac Thermof. == ID: 537573
+3245: Megri Soft == ID: 539012
+3246: Orient Press == ID: ORIENTLTD
+3247: Lyka Labs == ID: LYKALABS
+3248: Simran Farms == ID: 519566
+3249: Vikas Lifecare == ID: VIKASLIFE
+3250: Hariyana Ship == ID: 526931
+3251: Hardwyn India == ID: HARDWYN
+3252: Suryavanshi Spg. == ID: 514140
+3253: Piramal Enterp. == ID: PEL
+3254: Forbes & Co == ID: 502865
+3255: Everest Inds. == ID: EVERESTIND
+3256: Hexa Tradex == ID: HEXATRADEX
+3257: Surana Telecom == ID: SURANAT&P
+3258: Seasons Textiles == ID: 514264
+3259: Rel. Indl. Infra == ID: RIIL
+3260: Jai Corp == ID: JAICORPLTD
+3261: Palm Jewels == ID: 541444
+3262: IndiaNivesh == ID: 501700
+3263: Bharat Road == ID: BRNL
+3264: Cindrella Fin. == ID: 531283
+3265: Gagan Gases == ID: 524624
+3266: Pro Fin Capital == ID: 511557
+3267: Vivid Global == ID: 524576
+3268: Bothra Metals == ID: 535279
+3269: Bartronics India == ID: ASMS
+3270: Prozone Realty == ID: PROZONER
+3271: Sarthak Industri == ID: 531930
+3272: Sterling & Wils. == ID: SWSOLAR
+3273: Waa Solar == ID: 541445
+3274: Assam Entrade == ID: 542911
+3275: Sah Polymers == ID: SAH
+3276: SPML Infra == ID: SPMLINFRA
+3277: Anka India == ID: 531673
+3278: United Textiles == ID: 521188
+3279: Virat Industries == ID: 530521
+3280: Greaves Cotton == ID: GREAVESCOT
+3281: Modi Rubber == ID: MODIRUBBER
+3282: PCS Technology == ID: 517119
+3283: Zuari Industries == ID: ZUARIIND
+3284: Mayur Floorings == ID: 531221
+3285: Natl. Gen. Inds. == ID: 531651
+3286: Tejas Networks == ID: TEJASNET
+3287: Mysore Petro == ID: 506734
+3288: Inox Green == ID: INOXGREEN
+3289: Ace Men == ID: 539661
+3290: Laxmi Cotspin == ID: LAXMICOT
+3291: Chothani Foods == ID: 540681
+3292: KG Petrochem == ID: 531609
+3293: Paragon Finance == ID: 531255
+3294: Info Edg.(India) == ID: NAUKRI
+3295: Tanvi Foods == ID: 540332
+3296: Himalaya Food == ID: 526899
+3297: Parshva Enterpr. == ID: 542694
+3298: Mukesh Babu Fin. == ID: 530341
+3299: Madhav Copper == ID: MCL
+3300: Jalan Transol. == ID: JALAN
+3301: Century Enka == ID: CENTENKA
+3302: Neelkanth == ID: 512565
+3303: Archit Organosys == ID: 524640
+3304: CCL Internationa == ID: 531900
+3305: AMD Industries == ID: AMDIND
+3306: Amforge Inds. == ID: 513117
+3307: CitiPort Fin. == ID: 531235
+3308: Aryan Share == ID: 542176
+3309: Yatra Online == ID: YATRA
+3310: Minal Industries == ID: 522235
+3311: Gujarat Cotex == ID: 514386
+3312: KCL Infra == ID: 531784
+3313: Paras Petrofils == ID: PARASPETRO
+3314: Pacific Inds == ID: 523483
+3315: Digidrive Dist. == ID: DIGIDRIVE
+3316: India Cem. Cap. == ID: 511355
+3317: Shiva Suitings == ID: 521003
+3318: Bodal Chemicals == ID: BODALCHEM
+3319: Eureka Forbes == ID: EUREKAFORB
+3320: Prism Johnson == ID: PRSMJOHNSN
+3321: PG Foils == ID: 526747
+3322: Ras Resorts == ID: 507966
+3323: Banka Bioloo == ID: BANKA
+3324: DCM Nouvelle == ID: DCMNVL
+3325: Indowind Energy == ID: INDOWIND
+3326: Janus Corporatio == ID: 542924
+3327: B H E L == ID: BHEL
+3328: Checkpoint Trend == ID: 531099
+3329: Indian Terrain == ID: INDTERRAIN
+3330: Diksat Transworl == ID: 540151
+3331: Music Broadcast == ID: RADIOCITY
+3332: United Leasing == ID: 507808
+3333: Zenith Fibres == ID: 514266
+3334: HB Portfolio == ID: 532333
+3335: KEN Fin.Serv. == ID: 530547
+3336: Unishire Urban == ID: 537582
+3337: Adcon Capital == ID: 539506
+3338: Prit Nandy Comm. == ID: PNC
+3339: Tokyo Plast Intl == ID: TOKYOPLAST
+3340: Allcargo Logist. == ID: ALLCARGO
+3341: Guj Apollo Inds == ID: GUJAPOLLO
+3342: U. H. Zaveri == ID: 541338
+3343: Ladderup Finance == ID: 530577
+3344: Swagtam Trading == ID: 539406
+3345: Amco India == ID: 530133
+3346: Bluechip Tex Ind == ID: 506981
+3347: UPL == ID: UPL
+3348: Gloster Ltd == ID: GLOSTERLTD
+3349: Yuvraaj Hygiene == ID: 531663
+3350: APM Industries == ID: 523537
+3351: SRU Steels == ID: 540914
+3352: Achyut Healthcar == ID: 543499
+3353: Encode Packaging == ID: 530733
+3354: Jain Marmo Inds == ID: 539119
+3355: Raw Edge Indust. == ID: 541634
+3356: Easun Capital Ma == ID: 542906
+3357: Gulshan Polyols == ID: GULPOLY
+3358: Rajesh Exports == ID: RAJESHEXPO
+3359: Ruchi Infrastr. == ID: RUCHINFRA
+3360: Visaka Industrie == ID: VISAKAIND
+3361: Integra Tele. == ID: 536868
+3362: Fermenta Biotec. == ID: 506414
+3363: Ganga Pharma. == ID: 539680
+3364: S P Capital Fin. == ID: 530289
+3365: JMG Corporation == ID: 523712
+3366: Diana Tea Co == ID: 530959
+3367: Sadhna Broadcast == ID: 540821
+3368: JP Associates == ID: JPASSOCIAT
+3369: Jindal Poly Film == ID: JINDALPOLY
+3370: Ramco Inds. == ID: RAMCOIND
+3371: Dhampur.Spl.Sug. == ID: 531923
+3372: Marsons == ID: 517467
+3373: Quest Capital == ID: 500069
+3374: Kesar Petroprod. == ID: 524174
+3375: Credent Global == ID: 539598
+3376: T N Steel Tubes == ID: 513540
+3377: FCS Software == ID: FCSSOFT
+3378: Mahindra EPC == ID: MAHEPC
+3379: Usha Mart. Edu. == ID: UMESLTD
+3380: Dangee Dums == ID: DANGEE
+3381: HB Leasing &Fin. == ID: 508956
+3382: SPS Finquest == ID: 538402
+3383: Hind.Fluoro Carb == ID: 524013
+3384: Energy Devl.Co. == ID: ENERGYDEV
+3385: Longspur Intl == ID: 504340
+3386: Imagica. Enter. == ID: IMAGICAA
+3387: Mahindra Logis. == ID: MAHLOG
+3388: Omkar Pharmachem == ID: 532167
+3389: Photon Capital == ID: 509084
+3390: Sh. Ajit Pulp == ID: 538795
+3391: Mahesh Developer == ID: 542677
+3392: Rose Merc. == ID: 512115
+3393: Filmcity Media == ID: 531486
+3394: CHD Chemicals == ID: 539800
+3395: Mahalaxmi Fab. == ID: MFML
+3396: Jai Mata Glass == ID: 523467
+3397: Trans Freight == ID: 513063
+3398: Akash InfraProj. == ID: AKASH
+3399: Sunil Healthcare == ID: 537253
+3400: R J Shah & Co == ID: 509845
+3401: Indian Wood Prod == ID: 540954
+3402: Mercury EV-Tech == ID: 531357
+3403: Windsor Machines == ID: WINDMACHIN
+3404: Asian Warehous. == ID: 543927
+3405: Ritesh Intl. == ID: 519097
+3406: 3P Land Hold. == ID: 3PLAND
+3407: Metroglobal == ID: 500159
+3408: RattanIndia Ent == ID: RTNINDIA
+3409: Krishna Capital == ID: 539384
+3410: Uniinfo Telecom == ID: UNIINFO
+3411: Cindrella Hotels == ID: 526373
+3412: Sambhaav Media == ID: SAMBHAAV
+3413: Indian Link Ch. == ID: 504746
+3414: SBL Infratech == ID: 543366
+3415: Eiko Lifescience == ID: 540204
+3416: National High == ID: NHIT
+3417: Anik Industries == ID: ANIKINDS
+3418: Tokyo Finance == ID: 531644
+3419: Nath Industries == ID: 502587
+3420: Dhanvantri Jeev. == ID: 531043
+3421: NDL Ventures == ID: NDLVENTURE
+3422: Robust Hotels == ID: RHL
+3423: Guj. Petrosynth. == ID: 506858
+3424: G K Consultants == ID: 531758
+3425: Nahar Indl. Ent. == ID: NAHARINDUS
+3426: Gita Renewable == ID: 539013
+3427: G-Tec Janix == ID: GTECJAINX
+3428: Mindpool Tech. == ID: MINDPOOL
+3429: Divyashakti == ID: 526315
+3430: Agro Tech Foods. == ID: ATFL
+3431: Arigato Universe == ID: 530267
+3432: Tridev Infra. == ID: 531568
+3433: Sungold Capital == ID: 531433
+3434: Yash Chemex == ID: 539939
+3435: Sri Havisha == ID: HAVISHA
+3436: Shreevatsaa Fin. == ID: 532007
+3437: Amanaya Ventures == ID: 543804
+3438: ATV Projects == ID: 500028
+3439: Surana Solar == ID: SURANASOL
+3440: Kinetic Trust == ID: 531274
+3441: Soma Textiles == ID: SOMATEX
+3442: Money Masters == ID: 535910
+3443: R R Fin. Cons. == ID: 511626
+3444: Thacker & Co. == ID: 509945
+3445: Ace Soft. Exp. == ID: 531525
+3446: Modi Naturals == ID: 519003
+3447: Deccan Healthcar == ID: 542248
+3448: Naturo Indiabull == ID: 543579
+3449: Concrete Infra == ID: 539266
+3450: Lesha Industries == ID: 533602
+3451: Accord Synergy == ID: ACCORD
+3452: Dalal Street Inv == ID: 501148
+3453: Paramount Cosmet == ID: 507970
+3454: Ucal == ID: UCAL
+3455: Hinduja Global == ID: HGS
+3456: Terai Tea Co == ID: 530533
+3457: Real Eco-Energy == ID: 530053
+3458: Viceroy Hotels == ID: VHLTD
+3459: Indian CardCloth == ID: INDIANCARD
+3460: Karma Energy Ltd == ID: KARMAENG
+3461: Phoenix Intl. == ID: 526481
+3462: Neo Infracon == ID: 514332
+3463: Maitri Enterp. == ID: 513430
+3464: Kothari Products == ID: KOTHARIPRO
+3465: Longview Tea == ID: 526568
+3466: Akums Drugs == ID: AKUMS
+3467: Simbhaoli Sugar == ID: SIMBHALS
+3468: Silly Monks == ID: SILLYMONKS
+3469: Scanpoint Geoma == ID: 526544
+3470: Empower India == ID: 504351
+3471: Hindustan Motors == ID: HINDMOTORS
+3472: Martin Burn == ID: 523566
+3473: Ishan Dyes & Ch. == ID: 531109
+3474: DHP India == ID: 531306
+3475: Times Green Ener == ID: 543310
+3476: Patron Exim == ID: 543798
+3477: Shivansh Finserv == ID: 539593
+3478: Frontline Corp. == ID: 532042
+3479: Hathway Cable == ID: HATHWAY
+3480: Shivam Autotech == ID: SHIVAMAUTO
+3481: Omnitex Industri == ID: 514324
+3482: GCM Capital == ID: 538319
+3483: Newtime Infra. == ID: 531959
+3484: Pro CLB == ID: 540703
+3485: Peeti Securities == ID: 531352
+3486: Tatia Global == ID: 521228
+3487: Mittal Life Styl == ID: MITTAL
+3488: Zenith Exports == ID: ZENITHEXPO
+3489: Raj Television == ID: RAJTV
+3490: JLA Infraville == ID: 538765
+3491: Ambani Orgochem == ID: AMBANIORGO
+3492: Sharika Enterpr. == ID: 540786
+3493: Athena Construc. == ID: 539099
+3494: Rajnish Wellness == ID: 541601
+3495: Naturite Agro == ID: 538926
+3496: R R Securities == ID: 530917
+3497: Acme Resources == ID: 539391
+3498: United Interacti == ID: 502893
+3499: Yash Innoventure == ID: 523650
+3500: Narmada Macplast == ID: 517431
+3501: COSYN == ID: 538922
+3502: Kairosoft AI == ID: 506122
+3503: SIL Investments == ID: SILINV
+3504: Supreme Holdings == ID: 530677
+3505: Gemstone Invest. == ID: 531137
+3506: Sanco Trans == ID: 523116
+3507: Saianand Commer. == ID: 512097
+3508: Mishka Exim == ID: 539220
+3509: Ace Integrated == ID: ACEINTEG
+3510: Bhanderi Infra. == ID: 538576
+3511: RKD Agri == ID: 511169
+3512: Sadbhav Engg. == ID: SADBHAV
+3513: Panabyte Tech == ID: 538742
+3514: Motor & Gen Fin == ID: MOTOGENFIN
+3515: Gautam Gems == ID: 540936
+3516: Acrow India == ID: 513149
+3517: Ginni Filaments == ID: GINNIFILA
+3518: Elcid Investment == ID: 503681
+3519: Raconteur Global == ID: 541703
+3520: Mahindra Life. == ID: MAHLIFE
+3521: Pilani Invest. == ID: PILANIINVS
+3522: Kretto Syscon == ID: 531328
+3523: Bengal Tea & Fab == ID: 532230
+3524: Enterprise Intl. == ID: 526574
+3525: SSPN FINANCE == ID: 539026
+3526: Simplex Realty == ID: 503229
+3527: Yogi Infra Proj. == ID: 522209
+3528: Veerkrupa Jewel == ID: 543545
+3529: Orient Paper == ID: ORIENTPPR
+3530: Sarvottam Finve. == ID: 539124
+3531: SignatureGlobal == ID: SIGNATURE
+3532: Deepak Spinners == ID: 514030
+3533: Rudra Ecovation == ID: 514010
+3534: Siddha Ventures == ID: 530439
+3535: TARC Ltd == ID: TARC
+3536: Evoq Remedies == ID: 543500
+3537: Poona Dal & Oil == ID: 519359
+3538: Rain Industries == ID: RAIN
+3539: KMF Builders == ID: 531578
+3540: Consecutive In&T == ID: 539091
+3541: Hil Ltd == ID: HIL
+3542: Sh. Rajiv. Oil == ID: 530295
+3543: Mid East Port. == ID: 526251
+3544: Lovable Lingerie == ID: LOVABLE
+3545: Urja Global == ID: URJA
+3546: Hubtown == ID: HUBTOWN
+3547: Arunjyoti Bio == ID: 530881
+3548: Asia Pack == ID: 530899
+3549: Natural Biocon == ID: 543207
+3550: Ashnisha Indus. == ID: 541702
+3551: KJMC Financial == ID: 530235
+3552: Polo Queen Ind. == ID: 540717
+3553: Nanavati Venture == ID: 543522
+3554: Indo Euro Indch. == ID: 524458
+3555: Triveni Enterpri == ID: 538569
+3556: Polyplex Corpn == ID: POLYPLEX
+3557: Fabino Enter == ID: 543444
+3558: Graviss Hospital == ID: 509546
+3559: Kanani Industrie == ID: KANANIIND
+3560: Apoorva Leasing == ID: 539545
+3561: Starlog Enterp. == ID: 520155
+3562: ANG Lifesciences == ID: 540694
+3563: NCL Res. & Finl. == ID: 530557
+3564: Baroda Rayon == ID: 500270
+3565: Raghunath Intl. == ID: 526813
+3566: Bannari Amm Spg. == ID: BASML
+3567: Sh. Bajrang All. == ID: 526981
+3568: Suncare Traders == ID: 539526
+3569: GVP Infotech == ID: GVPTECH
+3570: PB Fintech. == ID: POLICYBZR
+3571: Laffans Petroch == ID: 524522
+3572: Shipping Land == ID: SCILAL
+3573: Munoth Fin.Serv. == ID: 531821
+3574: Swojas Energy == ID: 530217
+3575: Libord Finance == ID: 511593
+3576: SpiceJet == ID: SPICEJET
+3577: NPR Finance == ID: 530127
+3578: Tata Inv.Corpn. == ID: TATAINVEST
+3579: Trejhara Solutio == ID: TREJHARA
+3580: Bharat Gears == ID: BHARATGEAR
+3581: SPA CAPT SER == ID: 542376
+3582: Hiliks Technolog == ID: 539697
+3583: James Warren Tea == ID: 538564
+3584: Rajnish Retail == ID: 530525
+3585: Excel Industries == ID: EXCELINDUS
+3586: Aayush Art == ID: 540718
+3587: AFLOAT Enterpris == ID: 543377
+3588: Ekennis Software == ID: 543475
+3589: Cybele Industrie == ID: 531472
+3590: Guj. Lease Fin. == ID: GLFL
+3591: Kanchi Karpooram == ID: 538896
+3592: Kolte Patil Dev. == ID: KOLTEPATIL
+3593: Jio Financial == ID: JIOFIN
+3594: Caprihans India == ID: 509486
+3595: STEL Holdings == ID: STEL
+3596: Hind.Bio Science == ID: 532041
+3597: Gujchem Distill == ID: 506640
+3598: Genpharmasec == ID: 531592
+3599: Navkar Corporat. == ID: NAVKARCORP
+3600: PPAP Automotive == ID: PPAP
+3601: Tarmat == ID: TARMAT
+3602: Bazel Internatio == ID: 539946
+3603: Uniphos Enter. == ID: UNIENTER
+3604: Titan Securities == ID: 530045
+3605: Gayatri Highways == ID: GAYAHWS
+3606: Graphite India == ID: GRAPHITE
+3607: Vandana Knitwear == ID: 532090
+3608: Reliance Power == ID: RPOWER
+3609: Vijay Solvex == ID: 531069
+3610: Samor Reality == ID: 543376
+3611: Viji Finance == ID: VIJIFIN
+3612: Coffee Day Enter == ID: COFFEEDAY
+3613: Shukra Bullions == ID: 531506
+3614: Sarup Industries == ID: 514412
+3615: Summit Securitie == ID: SUMMITSEC
+3616: ASL Industries == ID: ASLIND
+3617: Godha Cabcon == ID: GODHA
+3618: Panjon == ID: 526345
+3619: Shree Ganesh Bio == ID: 539470
+3620: Khandwala Sec. == ID: KHANDSE
+3621: Jocil == ID: JOCIL
+3622: Asian Tea & Exp == ID: 519532
+3623: Avance Tech. == ID: 512149
+3624: Atharv Enter == ID: 530187
+3625: Dynamic Portfol == ID: 530779
+3626: Sagar Cements == ID: SAGCEM
+3627: Anzen IYEP Trust == ID: ANZEN
+3628: Camlin Fine == ID: CAMLINFINE
+3629: Grob Tea Co == ID: GROBTEA
+3630: Haryana Capfin == ID: 532855
+3631: BAMPSL Sec. == ID: 531591
+3632: Bharat Bhushan == ID: 511501
+3633: P.M. Telelinnks == ID: 513403
+3634: Palred Technolog == ID: PALREDTEC
+3635: Kalyani Invest. == ID: KICL
+3636: Utique Enterp. == ID: 500014
+3637: AGS Transact == ID: AGSTRA
+3638: Vaghani Techno == ID: 531676
+3639: Ushakiran Fin. == ID: 511507
+3640: ERP Soft Systems == ID: 530909
+3641: Magnum Ventures == ID: MAGNUM
+3642: Asian Granito == ID: ASIANTILES
+3643: Gala Global == ID: 539228
+3644: Orchasp Ltd == ID: 532271
+3645: Onesource Ideas == ID: 530805
+3646: Khoobsurat Ltd == ID: 535730
+3647: Ganges Securitie == ID: GANGESSECU
+3648: Alchemist Corp. == ID: 531409
+3649: Indo Cotspin == ID: 538838
+3650: Welspun Investme == ID: WELINV
+3651: Jyoti Structures == ID: JYOTISTRUC
+3652: Hind.Organ.Chem. == ID: 500449
+3653: Bhilwara Spinner == ID: 514272
+3654: Zomato Ltd == ID: ZOMATO
+3655: Country Club Hos == ID: CCHHL
+3656: Natura Hue Chem == ID: 531834
+3657: Croissance Ltd == ID: 531909
+3658: Kakatiya Cement == ID: KAKATCEM
+3659: Candour Techtex == ID: 522292
+3660: Pagaria Energy == ID: 531396
+3661: Sambandam Spg. == ID: 521240
+3662: Mystic Electron. == ID: 535205
+3663: Surani Steel Tub == ID: SURANI
+3664: Ambassador Intra == ID: 542524
+3665: Vaxfab Enterp. == ID: 542803
+3666: Asahi Songwon == ID: ASAHISONG
+3667: Phoenix Township == ID: 537839
+3668: ACI Infocom == ID: 517356
+3669: Filatex Fash. == ID: FILATFASH
+3670: Valiant Organics == ID: VALIANTORG
+3671: Shivamshree Busi == ID: 538520
+3672: TTI Enterprise == ID: 538597
+3673: Alstone Textiles == ID: 539277
+3674: M P Agro Inds. == ID: 506543
+3675: Navkar Urban. == ID: 531494
+3676: OTCO Intl == ID: 523151
+3677: East Buildtech == ID: 507917
+3678: Shyam Century == ID: SHYAMCENT
+3679: Nahar Capital == ID: NAHARCAP
+3680: Veer Energy == ID: 503657
+3681: Bombay Dyeing == ID: BOMDYEING
+3682: Dolphin Offshore == ID: DOLPHIN
+3683: Orient Bell == ID: ORIENTBELL
+3684: Rajapalayam Mill == ID: 532503
+3685: Mercantile Vent. == ID: 538942
+3686: Ashtasidhhi Ind == ID: 531341
+3687: Pankaj Polymers == ID: 531280
+3688: Nahar Spinning == ID: NAHARSPING
+3689: Tarini Internat. == ID: 538496
+3690: Tips Films == ID: TIPSFILMS
+3691: Indian Infotech == ID: 509051
+3692: Kamadgiri Fash. == ID: 514322
+3693: Mangalam Industr == ID: 537800
+3694: Mah. Scooters == ID: MAHSCOOTER
+3695: Regent Enterp. == ID: 512624
+3696: 52 Weeks Enter. == ID: 531925
+3697: Mihika Industrie == ID: 538895
+3698: Sarda Proteins == ID: 519242
+3699: Golden Crest == ID: 540062
+3700: GKW == ID: GKWLIMITED
+3701: Max Heights == ID: 534338
+3702: Bilcare == ID: 526853
+3703: Patidar Buildcon == ID: 524031
+3704: Silver Pearl == ID: 543536
+3705: Symbiox Investme == ID: 539278
+3706: Bajaj Hindusthan == ID: BAJAJHIND
+3707: Shoora Designs == ID: 543970
+3708: Shiva Cement == ID: 532323
+3709: Murae Organisor == ID: 542724
+3710: Sumeru Industrie == ID: 530445
+3711: Shree Rama News. == ID: RAMANEWS
+3712: Groarc Industrie == ID: 532315
+3713: Indsil Hydro == ID: 522165
+3714: TVS Elec. == ID: TVSELECT
+3715: Nalwa Sons Invst == ID: NSIL
+3716: Aditya Ispat == ID: 513513
+3717: Jetmall Spices == ID: 543286
+3718: Bright Brothers == ID: 526731
+3719: Cube Highways == ID: CUBEINVIT
+3720: Shyama Computro. == ID: 531219
+3721: JSW Holdings == ID: JSWHL
+3722: Mega Flex Plast. == ID: MEGAFLEX
+3723: Ashoka Refinerie == ID: 526983
+3724: ARC Finance == ID: 540135
+3725: Sanblue Corp. == ID: 521222
+3726: Excel Realty == ID: EXCEL
+3727: Gallops Enterp. == ID: 531902
+3728: GSS Infotech == ID: GSS
+3729: Omnipotent == ID: 543400
+3730: Biogen Pharma == ID: 531752
+3731: Haria Exports == ID: 512604
+3732: Kanoria Chem. == ID: KANORICHEM
+3733: Sunraj Diamond == ID: 523425
+3734: Shreeoswal Seeds == ID: OSWALSEEDS
+3735: Likhami Consult. == ID: 539927
+3736: Ahasolar Technol == ID: 543941
+3737: Minolta Finance == ID: 532164
+3738: Alfavision Overs == ID: 531156
+3739: Lee & Nee Soft. == ID: 517415
+3740: Pearl Green Club == ID: 543540
+3741: SMIFS Cap. Mkt. == ID: 508905
+3742: Genomic Valley == ID: 539206
+3743: AVI Polymers == ID: 539288
+3744: SW Investments == ID: 503659
+3745: New India Assura == ID: NIACL
+3746: RLF == ID: 512618
+3747: Cistro Telelink == ID: 531775
+3748: V-Mart Retail == ID: VMART
+3749: Parle Industries == ID: 532911
+3750: Svam Software == ID: 523722
+3751: Rajkot Inv.Trust == ID: 539495
+3752: KBS India == ID: 530357
+3753: Yamini Invest == ID: 511012
+3754: Arman Holdings == ID: 538556
+3755: Alfred Herbert == ID: 505216
+3756: Mohit Industries == ID: MOHITIND
+3757: Oswal Agro Mills == ID: OSWALAGRO
+3758: Sonalis Consumer == ID: 543924
+3759: Vikalp Securitie == ID: 531334
+3760: Amit Internation == ID: 531300
+3761: Texmaco Infrast. == ID: TEXINFRA
+3762: NBI Indl. Fin. == ID: NBIFIN
+3763: Max Estates == ID: MAXESTATES
+3764: Oswal Green Tech == ID: OSWALGREEN
+3765: Sequent Scien. == ID: SEQUENT
+3766: Space Incubatric == ID: 541890
+3767: Wherrelz IT == ID: 543436
+3768: Prime Capital Ma == ID: 535514
+3769: Jayatma Enterp. == ID: 539005
+3770: Sharanam Infra == ID: 539584
+3771: Setubandhan Inf. == ID: SETUINFRA
+3772: Margo Finance == ID: 500206
+3773: Unichem Labs. == ID: UNICHEMLAB
+3774: SVS Ventures == ID: 543745
+3775: Integ. Proteins == ID: 519606
+3776: Devine Impex == ID: 531585
+3777: VCU Data Managem == ID: 536672
+3778: Mah. Corporation == ID: 505523
+3779: Thirumalai Chem. == ID: TIRUMALCHM
+3780: Sungold Media == ID: 541799
+3781: Sh. Krish. Infr. == ID: 542146
+3782: Ramchandra Leas. == ID: 538540
+3783: Franklin Leasing == ID: 539839
+3784: Vital Chemtech == ID: VITAL
+3785: Sundaram Multi. == ID: SUNDARAM
+3786: Ravikumar Distll == ID: RKDL
+3787: TeleCanor Global == ID: 530595
+3788: Walchan. Inds. == ID: WALCHANNAG
+3789: Disha Resources == ID: 531553
+3790: Panafic Industri == ID: 538860
+3791: Mukta Agricultur == ID: 535204
+3792: Lak. Prec. Screw == ID: LAKPRE
+3793: MILGREY FIN.&INV == ID: 511018
+3794: Hind.Appliances == ID: 531918
+3795: Evexia Lifecare == ID: 524444
+3796: Explicit Finance == ID: 530571
+3797: Shukra Jewellery == ID: 523790
+3798: Dai-ichi Karkari == ID: 526821
+3799: Sunshine Capital == ID: 539574
+3800: Aditya Bir. Fas. == ID: ABFRL
+3801: Ashram Online == ID: 526187
+3802: Sampann Utpadan == ID: SAMPANN
+3803: Jattashankar Ind == ID: 514318
+3804: Woodsvilla == ID: 526959
+3805: Citizen Infoline == ID: 538786
+3806: Tirupati Tyres == ID: 539040
+3807: Senthil Infotek == ID: 531980
+3808: SKIL Infrastr == ID: SKIL
+3809: Mac Charles(I) == ID: 507836
+3810: Gajanan Sec.Serv == ID: 538609
+3811: Salasar Exterior == ID: SECL
+3812: Jaihind Synth == ID: 514312
+3813: Julien Agro == ID: 536073
+3814: Kaizen Agro == ID: 538833
+3815: Vintage Secur. == ID: 531051
+3816: Worldwide Alumi. == ID: 526525
+3817: Superior Finleas == ID: 539835
+3818: Decillion Financ == ID: 539190
+3819: Loyal Textile == ID: LOYALTEX
+3820: Madhusudan Sec. == ID: 511000
+3821: Nirav Commercial == ID: 512425
+3822: Kapil Cotex == ID: 512036
+3823: Sirohia & Sons == ID: 538667
+3824: CLIO Infotech == ID: 530839
+3825: Surbhi Industrie == ID: 514260
+3826: Tahmar Enterp. == ID: 516032
+3827: V B Industries == ID: 539123
+3828: TV18 Broadcast == ID: TV18BRDCST
+3829: SJ Corp == ID: 504398
+3830: Elegant Floricul == ID: 526473
+3831: Shalimar Prod. == ID: 512499
+3832: S I Paper Mills == ID: 516108
+3833: Scarnose Inter. == ID: 543537
+3834: Pacheli Indust. == ID: 523862
+3835: Vikas Proppant == ID: VIKASPROP
+3836: Tree House Edu. == ID: TREEHOUSE
+3837: VKJ Infradevelop == ID: 536128
+3838: IND Renewable == ID: 536709
+3839: MRC Agrotech == ID: 540809
+3840: CRP Risk Mgt. == ID: 540903
+3841: Garbi Finvest == ID: 539492
+3842: Guj. Credit Corp == ID: 511441
+3843: Hindustan Media == ID: HMVL
+3844: Polyspin Exports == ID: 539354
+3845: Vision Corpn. == ID: 531668
+3846: Dynamic Industri == ID: 524818
+3847: Sharp Investment == ID: 538212
+3848: Siddhes. Garment == ID: 526877
+3849: MASK INVESTMENTS == ID: MASKINVEST
+3850: Computer Point == ID: 507833
+3851: Available Fin. == ID: 531310
+3852: Silverline Tech == ID: 500389
+3853: BLS Infotech == ID: 531175
+3854: Global Cap.Mkt. == ID: 530263
+3855: Asit C Mehta Fin == ID: 530723
+3856: Dishman Carbogen == ID: DCAL
+3857: Winsome Brew. == ID: 526471
+3858: Jainco Projects == ID: 526865
+3859: Vax Housing Fin. == ID: 531650
+3860: Wagend Infra == ID: 503675
+3861: Karnavati Financ == ID: 538928
+3862: Peoples Invest == ID: 501144
+3863: Tirth Plastic == ID: 526675
+3864: Geetanjali Cred. == ID: 539486
+3865: Delta Industrial == ID: 539596
+3866: R G F Capital == ID: 539669
+3867: GTN Textiles == ID: 532744
+3868: Tranway Technol. == ID: 542923
+3869: Visagar Finan. == ID: 531025
+3870: Nagpur Power == ID: 532362
+3871: NACL Industries == ID: NACLIND
+3872: Naperol Invest. == ID: 500298
+3873: Shemaroo Entert. == ID: SHEMAROO
+3874: Shree Hanuman Sg == ID: 537709
+3875: Prism Medico == ID: 512217
+3876: Looks Health == ID: 534422
+3877: Victoria Mills == ID: 503349
+3878: Ladam Affordab. == ID: 540026
+3879: Kapil Raj Financ == ID: 539679
+3880: Suncity Synth. == ID: 530795
+3881: Kotia Enterprise == ID: 539599
+3882: Ushanti Colour == ID: UCL
+3883: Thakkers Develp. == ID: 526654
+3884: Silver Oak (I) == ID: 531635
+3885: V R Films & Stud == ID: 542654
+3886: Interworld Digi. == ID: 532072
+3887: Kartik Invest. == ID: 501151
+3888: Jetking Infotrai == ID: 517063
+3889: Kemp & Co. == ID: 506530
+3890: VSF Projects == ID: 519331
+3891: Trimurthi == ID: 536565
+3892: Diamant Infra. == ID: 508860
+3893: Netwrk.18 Media == ID: NETWORK18
+3894: Madhav Marbles == ID: MADHAV
+3895: VL E-Governance == ID: VLEGOV
+3896: Mahan Industries == ID: 531515
+3897: GFL == ID: GFLLIMITED
+3898: Seya Industries == ID: SEYAIND
+3899: H T Media == ID: HTMEDIA
+3900: Simplex Infra == ID: SIMPLEXINF
+3901: Veranda Learning == ID: VERANDA
+3902: Johnson Pharma == ID: 532154
+3903: Nahar Poly == ID: NAHARPOLY
+3904: VIRAT LEASING == ID: 539167
+3905: Jackson Invest == ID: 538422
+3906: Kothari Ferment. == ID: 507474
+3907: Svaraj Trading == ID: 503624
+3908: Salem Erode Inv. == ID: 540181
+3909: Techindia Nirman == ID: TECHIN
+3910: Fortune Interntl == ID: 530213
+3911: Shiva Texyarn == ID: SHIVATEX
+3912: Systematix Sec. == ID: 531432
+3913: Shelter Infra == ID: 526839
+3914: Northlink Fiscal == ID: 539110
+3915: Archies == ID: ARCHIES
+3916: R O Jewels == ID: 543171
+3917: Stephanotis Fin. == ID: 512215
+3918: SVC Industries == ID: 524488
+3919: RSWM Ltd == ID: RSWM
+3920: Allcargo Gati == ID: ACLGATI
+3921: KLG Capital == ID: 530771
+3922: Olympic Oil Ind. == ID: 507609
+3923: Ajel == ID: 530713
+3924: Goenka Diamond == ID: GOENKA
+3925: P B A Infra. == ID: 532676
+3926: Darjeeling Ropew == ID: 539770
+3927: Manraj Hsg.Fin. == ID: 530537
+3928: USG Tech == ID: 532402
+3929: Nivaka Fashions == ID: 542206
+3930: Tavernier Res. == ID: 531190
+3931: Alexander Stamps == ID: 511463
+3932: Polo Hotels == ID: 526687
+3933: Pan India Corpor == ID: 511525
+3934: Eastern Treads == ID: 531346
+3935: Kkalpana Plastic == ID: 523652
+3936: Grandma Trading == ID: 504369
+3937: Agri-Tech India == ID: AGRITECH
+3938: Lucent Industrie == ID: 539682
+3939: A and M Jumbo == ID: AMJUMBO
+3940: Naksh Precious == ID: 539402
+3941: Shanti Guru Inds == ID: 534708
+3942: Square Four Pro. == ID: 526532
+3943: N2N Technologies == ID: 512279
+3944: Rajasthan Gases == ID: 526873
+3945: Prime Focus == ID: PFOCUS
+3946: Integ. Capital == ID: 539149
+3947: Astron Paper == ID: ASTRON
+3948: DIC India == ID: DICIND
+3949: Garware Marine == ID: 509563
+3950: Kuberan Global == ID: 543289
+3951: Swadeshi Inds == ID: 506863
+3952: Aviva Industries == ID: 512109
+3953: Sujala Trading & == ID: 539117
+3954: Aion-Tech Soluti == ID: GOLDTECH
+3955: India Cements == ID: INDIACEM
+3956: Shantai Indust. == ID: 512297
+3957: Dolphin Medical == ID: 526504
+3958: Wockhardt == ID: WOCKPHARMA
+3959: Omni Ax's == ID: 532340
+3960: Trio Merc. Trad. == ID: 534755
+3961: Visesh Infotec. == ID: VISESHINFO
+3962: Jamshri Realty == ID: 502901
+3963: Sir Shadi Lal == ID: 532879
+3964: Agio Paper == ID: 516020
+3965: Sinnar Bidi Udy. == ID: 509887
+3966: ASM Technologies == ID: 526433
+3967: Nouveau Global == ID: 531465
+3968: Voltaire Leasing == ID: 509038
+3969: Rich Universe == ID: 530271
+3970: Omega Interactiv == ID: 511644
+3971: Premier Cap Serv == ID: 511016
+3972: Yogi Ltd == ID: 511702
+3973: Sword-Edge Comm. == ID: 512359
+3974: Vaarad Ventures == ID: 532320
+3975: Jeevan Scienti. == ID: 538837
+3976: S & T Corporatio == ID: 514197
+3977: Tantia Constr. == ID: TCLCONS
+3978: Sanco Industries == ID: SANCO
+3979: Scintilla Comm == ID: 538857
+3980: Sh. Steel Wire == ID: 513488
+3981: ACE EduTremd Ltd == ID: 530093
+3982: Garnet Intl. == ID: 512493
+3983: Guj.Nat.Resour. == ID: 513536
+3984: Medi Caps == ID: 523144
+3985: Advance Meter. == ID: 534612
+3986: Sayaji Industr == ID: 540728
+3987: GKB Ophthalmics == ID: 533212
+3988: IGC Industries == ID: 539449
+3989: Kush Industries == ID: 514240
+3990: Prima Industries == ID: 531246
+3991: MPIL Corporation == ID: 500450
+3992: Lakshmi Mills == ID: 502958
+3993: Innovassynth Inv == ID: 533315
+3994: India Lease Dev. == ID: 500202
+3995: Amraworld Agrico == ID: 531991
+3996: G G Dandekar == ID: 505250
+3997: Vision Cinemas == ID: 526441
+3998: Ishaan Infrastru == ID: 540134
+3999: Gokak Textiles == ID: 532957
+4000: Oricon Enterpris == ID: ORICONENT
+4001: Padmalaya Tele. == ID: PADMALAYAT
+4002: Popular Estate == ID: 531870
+4003: Shricon Indus. == ID: 508961
+4004: Garware Synth == ID: 514400
+4005: Hemisphere Prop == ID: HEMIPROP
+4006: Warren Tea == ID: 508494
+4007: Indong Tea Co == ID: 543769
+4008: Winpro Industrie == ID: WINPRO
+4009: Oswal Leasing == ID: 509099
+4010: Progrex Ventures == ID: 531265
+4011: Samtex Fashion == ID: 521206
+4012: Katare Spinning == ID: 502933
+4013: Golden Carpets == ID: 531928
+4014: Makers Labs. == ID: 506919
+4015: Accedere == ID: 531533
+4016: Stellar Capital == ID: 536738
+4017: Tulasee Bio-Eth. == ID: 524514
+4018: LCC Infotech == ID: LCCINFOTEC
+4019: Munoth Commun. == ID: 511401
+4020: Oswal Yarns == ID: 514460
+4021: Valiant Laborato == ID: VALIANTLAB
+4022: Madhucon Project == ID: MADHUCON
+4023: Misquita Engg. == ID: 542801
+4024: A F Enterprises == ID: 538351
+4025: West Leisure == ID: 538382
+4026: Classic Filament == ID: 540310
+4027: JHS Sven.Lab. == ID: JHS
+4028: Samsrita Labs == ID: 539267
+4029: Rish.Digh.Steel == ID: 531539
+4030: Vijay Textiles == ID: 530151
+4031: Delhivery == ID: DELHIVERY
+4032: MFS Intercorp == ID: 513721
+4033: PC Jeweller == ID: PCJEWELLER
+4034: Salora Intl. == ID: 500370
+4035: Shalimar Agencie == ID: 539895
+4036: Ravinder Heights == ID: RVHL
+4037: Nakoda Group == ID: NGIL
+4038: Gangotri Textile == ID: GANGOTRI
+4039: Modulex Const. == ID: 504273
+4040: Equippp Social == ID: EQUIPPP
+4041: IEC Education == ID: 531840
+4042: Hind.Urban Infra == ID: 539984
+4043: Hit Kit Global == ID: 532359
+4044: Velan Hotels == ID: 526755
+4045: Rotographics (I) == ID: 539922
+4046: Landmarc Leisur. == ID: 532275
+4047: SSPDL Ltd == ID: 530821
+4048: Sundaram Clayton == ID: SUNCLAY
+4049: TGB Banquets == ID: TGBHOTELS
+4050: Bharatiya Glob. == ID: BGLOBAL
+4051: Chemplast Sanmar == ID: CHEMPLASTS
+4052: Sanwaria Consum. == ID: SANWARIA
+4053: Sai Capital == ID: 531931
+4054: Kavveri Telecom == ID: KAVVERITEL
+4055: Transgene Biotek == ID: 526139
+4056: Oscar Global == ID: 530173
+4057: KIOCL == ID: KIOCL
+4058: Taaza Intern. == ID: 537392
+4059: PVP Ventures == ID: PVP
+4060: Nilachal Refract == ID: 502294
+4061: Patspin India == ID: 514326
+4062: Jindal Leasefin == ID: 539947
+4063: Hathway Bhawani == ID: 509073
+4064: G V Films == ID: 523277
+4065: Shamrock Indl. == ID: 531240
+4066: UTL Industries == ID: 500426
+4067: ARSS Infra == ID: ARSSINFRA
+4068: Indiabulls Enter == ID: IEL
+4069: S V Global Mill == ID: 535621
+4070: Benara Bearings == ID: 541178
+4071: IFB Agro Inds. == ID: IFBAGRO
+4072: First Fintec == ID: 532379
+4073: Antarctica == ID: ANTGRAPHIC
+4074: Anjani Portland == ID: APCL
+4075: Milestone Furn. == ID: 541337
+4076: Primo Chemicals == ID: 506852
+4077: Catvision Ltd == ID: 531158
+4078: Ganesh Holdings == ID: 504397
+4079: B P Capital == ID: 536965
+4080: Palash Securi. == ID: PALASHSECU
+4081: Global Longlife == ID: 543520
+4082: KBC Global == ID: KBCGLOBAL
+4083: Norben Tea == ID: NORBTEAEXP
+4084: Cinevista == ID: CINEVISTA
+4085: Tulive Developer == ID: 505285
+4086: Pearl Polymers == ID: PEARLPOLY
+4087: Lords Chloro == ID: LORDSCHLO
+4088: Hasti Finance == ID: 531387
+4089: Virya Resources == ID: 512479
+4090: Bansisons Tea == ID: 519353
+4091: Dr Lalchand. Lab == ID: 541299
+4092: Tapi Fruit == ID: TAPIFRUIT
+4093: Amerise BioScie == ID: 531681
+4094: Ludlow Jute == ID: 526179
+4095: Colorchips New == ID: 540023
+4096: Genus Prime == ID: 532425
+4097: Virtual Global == ID: 534741
+4098: M M Rubber == ID: 509196
+4099: Mehta Securities == ID: 511738
+4100: Diggi Multitrade == ID: 540811
+4101: S I Cap. & Fin. == ID: 530907
+4102: Panth Infinity == ID: 539143
+4103: Sastasundar Ven. == ID: SASTASUNDR
+4104: GTN Industries == ID: 500170
+4105: Indokem == ID: 504092
+4106: Burnpur Cement == ID: BURNPUR
+4107: Coromandel Engg. == ID: 533167
+4108: Venlon Enterpris == ID: 524038
+4109: Decipher Labs == ID: 524752
+4110: Vikas Wsp == ID: VIKASWSP
+4111: Meghmani Organi. == ID: MOL
+4112: Tulsyan NEC == ID: 513629
+4113: BKM Industries == ID: BKMINDST
+4114: VIP Clothing == ID: VIPCLOTHNG
+4115: GCM Securit. == ID: 535431
+4116: Sical Logistics == ID: SICALLOG
+4117: Dharani Finance == ID: 511451
+4118: Fortis Malar == ID: 523696
+4119: Kamanwala Housin == ID: 511131
+4120: 7NR Retail Ltd == ID: 540615
+4121: Prag Bosimi Syn. == ID: 500192
+4122: CIL Nova Petro. == ID: 533407
+4123: Quint Digital == ID: 539515
+4124: Golkonda Alumin. == ID: 513309
+4125: STL Global == ID: SGL
+4126: Advance Syntex == ID: 539982
+4127: MPDL Ltd == ID: 532723
+4128: Marshall Machin. == ID: MARSHALL
+4129: Neogem India == ID: 526195
+4130: Elango Industrie == ID: 513452
+4131: Ironwood Educa == ID: 508918
+4132: Shiva Mills == ID: SHIVAMILLS
+4133: Blue Chip India == ID: BLUECHIP
+4134: Rajasthan Cylind == ID: 538707
+4135: Aravali Sec == ID: 512344
+4136: Royal India Corp == ID: 512047
+4137: Panacea Biotec == ID: PANACEABIO
+4138: Supra Trends == ID: 511539
+4139: Vodafone Idea == ID: IDEA
+4140: Bombay Talkies == ID: 511246
+4141: Eros Intl.Media == ID: EROSMEDIA
+4142: Sri Nacha. Cott. == ID: 521234
+4143: I Power Solution == ID: 512405
+4144: CMI == ID: CMICABLES
+4145: Ceeta Industries == ID: 514171
+4146: Skyline Millars == ID: 505650
+4147: Williamson Fin. == ID: 519214
+4148: ISF == ID: 526859
+4149: Eastcoast Steel == ID: 520081
+4150: Triliance Poly == ID: 509046
+4151: Gujarat Alkalies == ID: GUJALKALI
+4152: MSR India == ID: 508922
+4153: AksharChem (I) == ID: AKSHARCHEM
+4154: Stanrose Mafat. == ID: 506105
+4155: Emami Realty Ltd == ID: EMAMIREAL
+4156: Fruition Venture == ID: 538568
+4157: Shreyas Shipping == ID: TRANSWORLD
+4158: Aanchal Ispat == ID: 538812
+4159: LGB Forge == ID: 533007
+4160: Borosil Renew. == ID: BORORENEW
+4161: Poddar Housing == ID: PODDARHOUS
+4162: Capricorn System == ID: 512169
+4163: Brainbees Solut. == ID: FIRSTCRY
+4164: Krishna Vent. == ID: 504392
+4165: Nureca == ID: NURECA
+4166: Kiran Syntex == ID: 530443
+4167: Regis Industries == ID: 543208
+4168: DCM Financial == ID: DCMFINSERV
+4169: Kimia Bioscien. == ID: 530313
+4170: Vanta Bioscience == ID: 540729
+4171: NDTV == ID: NDTV
+4172: Kallam Textiles == ID: 530201
+4173: SVP Global == ID: SVPGLOB
+4174: Maris Spinners == ID: 531503
+4175: Dhenu Buildcon == ID: 501945
+4176: Tarapur Trans == ID: TARAPUR
+4177: Indo Rama Synth. == ID: INDORAMA
+4178: Radhe Develop. == ID: 531273
+4179: Photoquip India == ID: 526588
+4180: Alok Industries == ID: ALOKINDS
+4181: Ahimsa Industrie == ID: AHIMSA
+4182: BGIL Films & Tec == ID: 511664
+4183: Veejay Lak. Eng. == ID: 522267
+4184: Astec Lifescienc == ID: ASTEC
+4185: Kashyap TeleMed. == ID: 531960
+4186: Zodiac-JRD MKJ == ID: 512587
+4187: GCM Commodity == ID: 535917
+4188: Yash Mgmt & Sat. == ID: 511601
+4189: Phaarmasia == ID: 523620
+4190: LS Industries == ID: 514446
+4191: Restaurant Brand == ID: RBA
+4192: Cityman == ID: 521210
+4193: Hindoo. Mills == ID: 509895
+4194: Bohra Industries == ID: BOHRAIND
+4195: Link Pharma Chem == ID: 524748
+4196: Waterbase == ID: WATERBASE
+4197: Abhishek Infra. == ID: 539544
+4198: Agro Phos India == ID: AGROPHOS
+4199: Phyto Chem (I) == ID: 524808
+4200: Sylph Techno == ID: 511447
+4201: Ester Industries == ID: ESTER
+4202: Spel Semiconduct == ID: 517166
+4203: Lippi Systems == ID: 526604
+4204: Dhani Services == ID: DHANI
+4205: Prajay Engineers == ID: PRAENG
+4206: Parsvnath Devl. == ID: PARSVNATH
+4207: K G Denim == ID: 500239
+4208: Mahaveer Infoway == ID: 539383
+4209: Millen. Online == ID: 511187
+4210: Vasa Retail == ID: VASA
+4211: Flex Foods == ID: 523672
+4212: H D I L == ID: HDIL
+4213: Epuja Spiritech == ID: 532092
+4214: Sanghi Industrie == ID: SANGHIIND
+4215: Shah Alloys == ID: SHAHALLOYS
+4216: Command Polymers == ID: 543843
+4217: Subex == ID: SUBEXLTD
+4218: G K P Printing == ID: 542666
+4219: Global Offshore == ID: 501848
+4220: Cargosol Logist. == ID: 543621
+4221: Bang Overseas == ID: BANG
+4222: Reliable Ventur. == ID: 532124
+4223: Hind Aluminium == ID: 531979
+4224: Sterling Green == ID: 526500
+4225: Vivo Collaborat. == ID: VIVO
+4226: Polytex India == ID: 512481
+4227: Texel Industries == ID: 526638
+4228: Swadha Nature == ID: 531039
+4229: Lime Chemicals == ID: 507759
+4230: K-Lifestyle == ID: 514221
+4231: India Steel == ID: 513361
+4232: Tijaria Polypipe == ID: TIJARIA
+4233: Natl. Oxygen == ID: 507813
+4234: Hipolin == ID: 530853
+4235: Containerway Int == ID: 540597
+4236: Shreyas Interm. == ID: 526335
+4237: Rama Phosphates == ID: RAMAPHO
+4238: Madhur Inds == ID: 519279
+4239: Suumaya Indust. == ID: SUULD
+4240: Bombay Wire == ID: 504648
+4241: Baroda Extrusion == ID: 513502
+4242: Quantum Build == ID: 538596
+4243: Santosh Fin Fab == ID: 530035
+4244: Compuage Info. == ID: COMPINFO
+4245: Creative Eye == ID: CREATIVEYE
+4246: Jauss Polymers == ID: 526001
+4247: Andhra Cements == ID: ACL
+4248: Choksi Imaging == ID: 530427
+4249: Futuristic Sec. == ID: 523113
+4250: Sutlej Textiles == ID: SUTLEJTEX
+4251: Freshtrop Fruits == ID: 530077
+4252: Oriental Trimex == ID: ORIENTALTL
+4253: Sybly Industries == ID: 531499
+4254: Kanco Tea == ID: 541005
+4255: Lasa Supergeneri == ID: LASA
+4256: Rolta India == ID: ROLTA
+4257: Harmony Capital == ID: 530055
+4258: Bharat Agri Fert == ID: 531862
+4259: Soni Medicare == ID: 539378
+4260: Saptak Chem & == ID: 506906
+4261: Mehta Housg. Fin == ID: 511740
+4262: Niyogin Fintech == ID: 538772
+4263: Standard Inds. == ID: SIL
+4264: Vallabh Steels == ID: 513397
+4265: Inertia Steel == ID: 512025
+4266: Vivid Mercantile == ID: 542046
+4267: Mcleod Russel == ID: MCLEODRUSS
+4268: TCM == ID: 524156
+4269: Shyamkamal Inv == ID: 505515
+4270: 3i Infotech == ID: 3IINFOLTD
+4271: Visa Steel == ID: VISASTEEL
+4272: SC Agrotech == ID: 526081
+4273: Azad India == ID: 504731
+4274: Shri Vasuprada == ID: 538092
+4275: Shriram AMC == ID: 531359
+4276: Integra Switch == ID: 517423
+4277: Zota Health Care == ID: ZOTA
+4278: Johnson Con. Hit == ID: JCHAC
+4279: Williamson Magor == ID: WILLAMAGOR
+4280: Standard Battery == ID: 504180
+4281: Baron Infotech == ID: 532336
+4282: Khaitan Chemical == ID: KHAICHEM
+4283: Sun Retail == ID: 542025
+4284: Objectone Inform == ID: 535657
+4285: Indergiri Fin. == ID: 531505
+4286: Max India Ltd == ID: MAXIND
+4287: Secmark Consult. == ID: SECMARK
+4288: Shristi Infra == ID: 511411
+4289: Cont. Controls == ID: 531460
+4290: Nikki Glob.Fin. == ID: 531272
+4291: TCI Industries == ID: 532262
+4292: Jay Shree Tea == ID: JAYSREETEA
+4293: Ind Bank Housing == ID: 523465
+4294: Kanel Indust. == ID: 500236
+4295: Step Two Corp. == ID: 531509
+4296: Delta Manufact. == ID: DELTAMAGNT
+4297: Uniroyal Marine == ID: 526113
+4298: Universal Office == ID: 523519
+4299: Shiva Global == ID: 530433
+4300: M T N L == ID: MTNL
+4301: Zodiac Cloth. Co == ID: ZODIACLOTH
+4302: Gillanders Arbut == ID: GILLANDERS
+4303: Rasandik Engg. == ID: 522207
+4304: PBM Polytex == ID: 514087
+4305: MT Educare == ID: MTEDUCARE
+4306: Next Mediaworks == ID: NEXTMEDIA
+4307: ITI == ID: ITI
+4308: Norris Medicines == ID: 524414
+4309: Prem. Synthetic == ID: 509835
+4310: One 97 == ID: PAYTM
+4311: Indian Acrylics == ID: 514165
+4312: Hypersoft Tech. == ID: 539724
+4313: Padmanabh Inds. == ID: 526905
+4314: Chambal Brewer == ID: 512301
+4315: Umiya Tubes == ID: 539798
+4316: Solara Active == ID: SOLARA
+4317: NMDC Steel == ID: NSLNISP
+4318: Triton Corp. == ID: 523387
+4319: Vista Pharma. == ID: 524711
+4320: Raj Packaging == ID: 530111
+4321: Dec.Gold Mines == ID: 512068
+4322: Innocorp == ID: 531929
+4323: Rap Media == ID: 531583
+4324: Nirmitee Robotic == ID: 543194
+4325: SPS Intl. == ID: 530177
+4326: MPS Pharmaa == ID: 531686
+4327: Datiware Mari. == ID: 519413
+4328: Nag. Agri Tech. == ID: 531832
+4329: Starlit Power == ID: 538733
+4330: Fraser & Company == ID: 539032
+4331: SHRI NIWAS L& F. == ID: 538897
+4332: Bharat Immunolog == ID: 524663
+4333: Steelman Telecom == ID: 543622
+4334: Punjab Commun. == ID: 500346
+4335: Jaipan Industrie == ID: 505840
+4336: Intec Capital == ID: 526871
+4337: Gem Spinners == ID: 521133
+4338: Octaware Tech. == ID: 540416
+4339: Lynx Machinery == ID: 505320
+4340: Shree Ram Prote. == ID: SRPL
+4341: JCT == ID: 500223
+4342: Olympic Cards == ID: 534190
+4343: Yudiz Solutions == ID: YUDIZ
+4344: Tierra Agrotech == ID: 543531
+4345: Mardia Samyoung == ID: 513544
+4346: Aarvee Denims == ID: AARVEEDEN
+4347: Continental Seed == ID: CONTI
+4348: Fourth Gen. == ID: 532403
+4349: Spencer's Retail == ID: SPENCERS
+4350: Jointeca Educati == ID: 534659
+4351: Future Consumer == ID: FCONSUMER
+4352: Omkar Spl.Chem. == ID: OMKARCHEM
+4353: Ecoboard Inds. == ID: 523732
+4354: Future Enterp. == ID: FEL
+4355: Sturdy Industrie == ID: 530611
+4356: Bright Solar == ID: BRIGHT
+4357: Equinox India == ID: EMBDL
+4358: Sibar Auto Parts == ID: 520141
+4359: Noida Tollbridg. == ID: NOIDATOLL
+4360: Lloyds Luxuries == ID: LLOYDS
+4361: Minaxi Textiles == ID: 531456
+4362: Keerthi Indus == ID: 518011
+4363: Hemang Resources == ID: 531178
+4364: Mega Nirman == ID: 539767
+4365: Kiran Print Pack == ID: 531413
+4366: Indifra Ltd == ID: INDIFRA
+4367: T. Spiritual == ID: 532444
+4368: Bheema Cements == ID: 518017
+4369: Facor Alloys == ID: 532656
+4370: Ramgopal Polytex == ID: RAMGOPOLY
+4371: Diensten Tech == ID: DTL
+4372: S R Industries == ID: 513515
+4373: Aurum Proptech == ID: AURUM
+4374: Restile Ceramics == ID: 515085
+4375: Omansh Enterpri. == ID: 538537
+4376: Skyline Ventures == ID: 538919
+4377: Dhanlaxmi Fabric == ID: 521151
+4378: Virtualsoft Sys. == ID: 531126
+4379: Andrew Yule & Co == ID: ANDREWYU
+4380: Natraj Proteins == ID: 530119
+4381: Envair Electrody == ID: 500246
+4382: Tradewell Hold == ID: 531203
+4383: Shanti Overseas == ID: SHANTI
+4384: Lexus Granito == ID: LEXUS
+4385: Welcure Drugs == ID: 524661
+4386: Ampvolts == ID: 535719
+4387: Apt Packaging == ID: 506979
+4388: Hanman Fit == ID: 538731
+4389: Blu.Coast Hotel. == ID: BLUECOAST
+4390: Shalimar Paints == ID: SHALPAINTS
+4391: ANS Industries == ID: 531406
+4392: Bacil Pharma == ID: 524516
+4393: Cerebra Integr. == ID: CEREBRAINT
+4394: Net Avenue == ID: CBAZAAR
+4395: Ortel Commu. == ID: ORTEL
+4396: Inland Printers == ID: 530787
+4397: ABC Gas (Int.) == ID: 513119
+4398: JK Agri Genetics == ID: 536493
+4399: Nitco == ID: NITCO
+4400: Innovative Ideal == ID: 541983
+4401: Raunaq Intl. == ID: 537840
+4402: Jayshree Chem. == ID: 506520
+4403: Websol Energy == ID: WEBELSOLAR
+4404: Nova Iron &Steel == ID: 513566
+4405: Shashwat Furnis. == ID: 543519
+4406: South Asian Ent. == ID: 526477
+4407: Aerpace Indus == ID: 534733
+4408: Goodricke Group == ID: 500166
+4409: Ramasigns Indus. == ID: 515127
+4410: SEL Mfg. Co == ID: SELMC
+4411: Transpact Enter. == ID: 542765
+4412: BGR Energy Sys. == ID: BGRENERGY
+4413: Glittek Granites == ID: 513528
+4414: Relic Tech. == ID: 511712
+4415: Vama Industries == ID: 512175
+4416: Revati Organics == ID: 524504
+4417: Prismx Global == ID: 501314
+4418: SMVD Poly Pack == ID: SMVD
+4419: Rajvir Inds. == ID: RAJVIR
+4420: Chrome Silicon == ID: 513005
+4421: Arcee Industries == ID: 520121
+4422: Winsome Yarns == ID: WINSOME
+4423: NRB Indl Bearing == ID: NIBL
+4424: Gayatri Projects == ID: GAYAPROJ
+4425: Esha Media == ID: 531259
+4426: Richa Industries == ID: 532766
+4427: Manugraph India == ID: MANUGRAPH
+4428: Kisan Mouldings == ID: 530145
+4429: MFL India == ID: 526622
+4430: Reliance Home == ID: RHFL
+4431: BCL Enterprises == ID: 539621
+4432: Daikaffil Chem == ID: 530825
+4433: JPT Securities == ID: 530985
+4434: Vels Film == ID: VELS
+4435: Unitech == ID: UNITECH
+4436: Vardhman Concr. == ID: 531444
+4437: Moxsh Overseas == ID: MOXSH
+4438: Bloom Dekor == ID: 526225
+4439: Ahm. Steelcraft == ID: 522273
+4440: IL&FS Transport == ID: IL&FSTRANS
+4441: Goldcoin Health == ID: 538542
+4442: GE Power == ID: GEPIL
+4443: Aimco Pesticides == ID: 524288
+4444: Digjam == ID: DIGJAMLMTD
+4445: The Ravalgaon == ID: 507300
+4446: Sumeet Industrie == ID: SUMEETINDS
+4447: Prashant India == ID: 519014
+4448: Sharma E I Hosp. == ID: 524548
+4449: Prime Urban == ID: 521149
+4450: A B M Internatl. == ID: ABMINTLLTD
+4451: Krebs Biochem == ID: KREBSBIO
+4452: Zee Media == ID: ZEEMEDIA
+4453: Dhunseri Tea == ID: DTIL
+4454: Purohit Const. == ID: 538993
+4455: Xelpmoc Design == ID: XELPMOC
+4456: MIRC Electronics == ID: MIRCELECTR
+4457: A2Z Infra Engg. == ID: A2ZINFRA
+4458: Rishabh Sp. Yarn == ID: 514177
+4459: Universus Photo == ID: UNIVPHOTO
+4460: Orosil Smiths == ID: 531626
+4461: Sheshadri Indus. == ID: 539111
+4462: Vaxtex Cotfab == ID: VCL
+4463: Take Solutions == ID: TAKE
+4464: Tarai Foods == ID: 519285
+4465: MEP Infrast. == ID: MEP
+4466: Piccadily Sugar == ID: 507498
+4467: Kernex Microsys. == ID: KERNEX
+4468: Supreme Engg. == ID: SUPREMEENG
+4469: Panyam Cement == ID: 500322
+4470: Rajath Finance == ID: 507962
+4471: Omaxe == ID: OMAXE
+4472: Kesar Terminals == ID: 533289
+4473: SAB Events == ID: SABEVENTS
+4474: Oil Country == ID: OILCOUNTUB
+4475: Tiaan Consumer == ID: 540108
+4476: Landmark Prop. == ID: LPDC
+4477: Ace Engitech == ID: 530669
+4478: Capfin India == ID: 539198
+4479: Wardwizard Foods == ID: 539132
+4480: EKI Energy == ID: 543284
+4481: Charms Industrie == ID: 531327
+4482: Padam Cotton == ID: 531395
+4483: Brooks Lab. == ID: BROOKS
+4484: Suvidhaa Info. == ID: SUVIDHAA
+4485: Globus Power == ID: 526025
+4486: Brawn Biotech == ID: 530207
+4487: Morarjee Text. == ID: MORARJEE
+4488: Sr. Jayala. Auto == ID: 530037
+4489: Alan Scott Inds. == ID: 539115
+4490: Purple Finance == ID: 544191
+4491: Nihar Info Glob. == ID: 531083
+4492: Pan Electronics == ID: 517397
+4493: Heads UP Venture == ID: HEADSUP
+4494: Kakatiya Textile == ID: 521054
+4495: Midwest Gold == ID: 526570
+4496: Pharmaids Pharma == ID: 524572
+4497: Omkar Overseas == ID: 531496
+4498: Semac Consul == ID: SEMAC
+4499: HCL Infosystems == ID: HCL-INSYS
+4500: Flexituff Vent. == ID: FLEXITUFF
+4501: Hemadri Cements == ID: 502133
+4502: Sterling Powerg. == ID: 513575
+4503: Yash Trad.& Fin. == ID: 512345
+4504: Balkrishna Paper == ID: BALKRISHNA
+4505: J Taparia Proj == ID: 538539
+4506: Ola Electric == ID: OLAELEC
+4507: Blue Pearl Agri == ID: 514440
+4508: Maruti Sec. == ID: 531319
+4509: Aksh Optifibre == ID: AKSHOPTFBR
+4510: Ador Multi Prod. == ID: 523120
+4511: Ankit Met.Power == ID: ANKITMETAL
+4512: Eurotex Industri == ID: EUROTEXIND
+4513: Fervent Synerg. == ID: 533896
+4514: Sancode Tech. == ID: 543897
+4515: Sikozy Realtors == ID: 524642
+4516: Suven Life Scie. == ID: SUVEN
+4517: Integ. Hitech == ID: 532303
+4518: Hi-Klass Trading == ID: 542332
+4519: Praxis Home == ID: PRAXIS
+4520: Ortin Global == ID: ORTINGLOBE
+4521: Aadi Industries == ID: 530027
+4522: Spectra Industri == ID: 513687
+4523: Thirani Projects == ID: 538464
+4524: Oxygenta Pharma == ID: 524636
+4525: Kabra Drugs == ID: 524322
+4526: AI Champ.Inds. == ID: 532806
+4527: Gayatri BioOrga. == ID: 524564
+4528: VXL Instruments == ID: 517399
+4529: BEML Land Assets == ID: BLAL
+4530: Ramco Systems == ID: RAMCOSYS
+4531: Gogia Capital == ID: 531600
+4532: Simplex Papers == ID: 533019
+4533: RCI Industries == ID: 537254
+4534: Fone4 Communica. == ID: 543521
+4535: Kumbhat Fin. == ID: 526869
+4536: TIL == ID: TIL
+4537: SecureKloud Tech == ID: SECURKLOUD
+4538: Kaarya Facilit. == ID: 540756
+4539: Hemo Organic == ID: 524590
+4540: Quintegra Soln. == ID: QUINTEGRA
+4541: Kobo Biotech == ID: 531541
+4542: Waaree Tech. == ID: 539337
+4543: Rama Paper Mills == ID: 500357
+4544: Yunik Managing == ID: 533149
+4545: Genesis IBRC == ID: 514336
+4546: Valencia Nutrit. == ID: 542910
+4547: Bhagawati Oxygen == ID: 509449
+4548: Parmax Pharma == ID: 540359
+4549: Iykot Hitech == ID: 522245
+4550: TV Vision == ID: TVVISION
+4551: Svarnim Trade Ud == ID: 539911
+4552: Trinity League == ID: 531846
+4553: Lypsa Gems == ID: LYPSAGEMS
+4554: PS IT Infra == ID: 505502
+4555: Deccan Bearings == ID: 505703
+4556: Future Lifestyle == ID: FLFL
+4557: Incon Engineers == ID: 531594
+4558: RSC Internl. == ID: 530179
+4559: SGN Telecoms == ID: 531812
+4560: Transglobe Foods == ID: 519367
+4561: Silveroak Comm == ID: 512197
+4562: Starcom Info. == ID: 531616
+4563: Kaya Ltd == ID: KAYA
+4564: Gravity (India) == ID: 532015
+4565: Shree Securities == ID: 538975
+4566: Tasty Dairy == ID: 540955
+4567: Visagar Polytex == ID: VIVIDHA
+4568: Ontic Finserve == ID: 540386
+4569: Savani Financial == ID: 511577
+4570: Thakral Services == ID: 509015
+4571: Krishna Fil. Ind == ID: KRISNAFILA
+4572: Sagar Diamonds == ID: 540715
+4573: Risa Internatio. == ID: 530251
+4574: Beeyu Overseas == ID: 532645
+4575: SPARC == ID: SPARC
+4576: Jyothi Infra. == ID: 531537
+4577: Union Qual. Pla. == ID: 526799
+4578: C C C L == ID: CCCL
+4579: SRM Energy Ltd == ID: 523222
+4580: Mudunuru == ID: 538743
+4581: Nutricircle == ID: 530219
+4582: Ventura Textiles == ID: 516098
+4583: White Organic Re == ID: 542667
+4584: Heera Ispat == ID: 526967
+4585: Roselabs Finance == ID: 531324
+4586: Wardwizard Healt == ID: 512063
+4587: PFL Infotech == ID: 531769
+4588: Unitech Internat == ID: 531867
+4589: Regency Ceramics == ID: REGENCERAM
+4590: Abate As Indust == ID: 531658
+4591: Lexoraa Ind == ID: 531944
+4592: Paos Industries == ID: 530291
+4593: Essar Shipping == ID: ESSARSHPNG
+4594: Intl. Data Mgt. == ID: 517044
+4595: Nagarjuna Fert. == ID: NAGAFERT
+4596: Popees Care == ID: 530565
+4597: Shrenik == ID: SHRENIK
+4598: Kore Foods == ID: 500458
+4599: EMA India == ID: 522027
+4600: Yaari Digital == ID: YAARI
+4601: Univa Foods == ID: UNIVAFOODS
+4602: Eureka Industrie == ID: 521137
+4603: Siel Fin. Serv. == ID: 532217
+4604: Epsom Properties == ID: 531155
+4605: Magnus Retail == ID: 517320
+4606: Suumaya Corp. == ID: 543274
+4607: Trustwave == ID: 508963
+4608: Aneri Fincap == ID: 531252
+4609: Asian Petroprod. == ID: 524434
+4610: Siti Networks == ID: SITINET
+4611: V R Woodart == ID: 523888
+4612: PAE == ID: 517230
+4613: Mipco Seaml Ring == ID: 505797
+4614: Quantum Digital == ID: 530281
+4615: Modern Dairies == ID: 519287
+4616: Omega Ag Seeds == ID: 519479
+4617: Monind == ID: 532078
+4618: Suryo Foods == ID: 519604
+4619: IITL Projects == ID: 531968
+4620: Garodia Chemical == ID: 530161
+4621: Modipon == ID: 503776
+4622: Royal Cush. Vin. == ID: 526193
+4623: East India Drums == ID: 523874
+4624: Raymed Labs == ID: 531207
+4625: Switching Tech. == ID: 517201
+4626: GTL Infra. == ID: GTLINFRA
+4627: Carnation Inds. == ID: 530609
+4628: EL Forge == ID: 531144
+4629: Vas Infra. == ID: 531574
+4630: Guj. State Fin. == ID: 532160
+4631: Quadrant Tele. == ID: 511116
+4632: TCI Finance == ID: TCIFINANCE
+4633: Jayabharat Cred. == ID: 501311
+4634: Invigorated Bus. == ID: 511716
+4635: Pasupati Fincap == ID: 511734
+4636: Amalgamated Elec == ID: 501622
+4637: Premium Capital == ID: 511660
+4638: Sindu Valley == ID: 505504
+4639: Mediaone Global == ID: 503685
+4640: Tricom Fruit == ID: 531716
+4641: Alliance Integ. == ID: 534064
+4642: Impex Ferro Tech == ID: IMPEXFERRO
+4643: Yashraj Contain. == ID: 530063
+4644: Sudal Industries == ID: 506003
+4645: T N Telecom. == ID: TNTELE
+4646: Shyam Telecom == ID: SHYAMTEL
+4647: GTL == ID: GTL
+4648: Telogica == ID: 532975
+4649: Shree Precoated == ID: 533110
+4650: Mukat Pipes == ID: 523832
+4651: Prakash Steelage == ID: PRAKASHSTL
+4652: Tayo Rolls == ID: 504961
+4653: Deccan Polypacks == ID: 531989
+4654: Vardhman Polytex == ID: VARDMNPOLY
+4655: Mid India Inds. == ID: 500277
+4656: Sri Lak.Sar.Arni == ID: 521161
+4657: Manor Estates == ID: 526115
+4658: Modella Woollens == ID: 503772
+4659: Uniworth == ID: 514144
+4660: Meyer Apparel == ID: 531613
+4661: Priya == ID: 524580
+4662: E-Land Apparel == ID: 532820
+4663: Simplex Mills == ID: 533018
+4664: NB Footwear == ID: 523242
+4665: Welterman Intl. == ID: 526431
+4666: Coral Newsprints == ID: 530755
+4667: Jet Airways == ID: JETAIRWAYS
+4668: Galaxy Cloud == ID: 506186
+4669: Educomp Sol. == ID: EDUCOMP
+4670: Infomedia Press == ID: INFOMEDIA
+4671: Foundry Fuel == ID: 513579
+4672: MPL Plastics == ID: 526143
+4673: Rajeswari Infra. == ID: 526823
+4674: MPF Systems == ID: 532470
+4675: Rahul Merchand == ID: 531887
+4676: Rajas. Petro Syn == ID: RAJASPETRO
+4677: iStreet Network == ID: 524622
+4678: Tejassvi Aaharam == ID: 531628
+4679: Shree Mfg. Co. == ID: 503863
+4680: Channel Nine == ID: 535142
+4681: Standard Shoe == ID: 523351
+4682: Markobenz Ventur == ID: 514060
+4683: TPI India == ID: 500421
+4684: India Radiators == ID: 505100
+4685: TECIL Chemical == ID: TECILCHEM
+4686: Grand Foundry == ID: GFSTEELS
+4687: Natl. Plywood == ID: 516062
+4688: Miven Mach. Tool == ID: 522036
+4689: Adline Chem Lab == ID: 524604
+4690: B J Duplex Board == ID: 531647
+4691: Future Ent. DVR == ID: FELDVR
+4692: Jain Irrigat-DVR == ID: JISLDVREQS
+4693: Adhbhut Infra. == ID: 539189
+4694: CMM Infraproj == ID: CMMIPL
+4695: Aban Offshore == ID: ABAN
+4696: Alps Industries == ID: ALPSINDUS
+4697: Ansal Properties == ID: ANSALAPI
+4698: Arshiya == ID: ARSHIYA
+4699: Ashima == ID: ASHIMASYN
+4700: Binani Industrie == ID: BINANIIND
+4701: Cranes Software == ID: 512093
+4702: Diamond Power == ID: DIACABS
+4703: Dish TV India == ID: DISHTV
+4704: Golden Tobacco == ID: GOLDENTOBC
+4705: Haz.Multi Proj. == ID: 532467
+4706: HMT == ID: HMT
+4707: IL&FS Engg. == ID: IL&FSENGG
+4708: McNally Bharat == ID: MBECL
+4709: Muller & Phipps == ID: 501477
+4710: Nimbus Projects == ID: 511714
+4711: Satchmo Holdings == ID: 533202
+4712: Rama Petrochem == ID: 500358
+4713: Kridhan Infra == ID: KRIDHANINF
+4714: Reliance Communi == ID: RCOM
+4715: IMEC Services == ID: 513295
+4716: Sea TV Network == ID: 533268
+4717: Sri Adhik. Bros. == ID: SABTNL
+4718: S T C == ID: STCINDIA
+4719: Neueon Towers == ID: NTL
+4720: Supreme Infra. == ID: SUPREMEINF
+4721: Zenith Steel == ID: ZENITHSTL
+4722: Apollo Pipes == ID: APOLLOPIPE
+4723: Radhagobind Comm == ID: 539673
+4724: N K Industries == ID: NKIND
+4725: Premier == ID: PREMIER
+4726: Suditi Industrie == ID: 521113
+4727: Indag Rubber == ID: 509162
+4728: Eco Hotels == ID: 514402
+4729: BN Holdings == ID: 526125
+4730: FratelliVineyard == ID: 541741
+4731: Unistar Multim. == ID: 532035
+4732: Diksha Greens == ID: 542155
+4733: Sampre Nutrition == ID: 530617
+4734: Globalspace Tech == ID: 540654
+4735: Tarsons Products == ID: TARSONS
+4736: Lotus Chocolate == ID: 523475
+4737: Sprayking Ltd == ID: 540079
+4738: Plada Infotech S == ID: PLADAINFO
+4739: Remus Pharma. == ID: REMUS
+4740: Vrundavan Planta == ID: 544011
+4741: Mangalam Drugs == ID: MANGALAM
+4742: Vasudhagama Ent. == ID: 539291
+4743: Blue Cloud Soft. == ID: 539607
+4744: Varanium Cloud == ID: CLOUD
+4745: Gabriel Pet == ID: 544108
+4746: Greenhitech == ID: 544163
+4747: Asarfi Hospital == ID: 543943
+4748: Mandeep Auto == ID: MANDEEP
+4749: Shree Karni == ID: SHREEKARNI
+4750: City Pulse Multi == ID: 542727
+4751: GSM Foils == ID: GSMFOILS
+4752: IIRM Holdings == ID: 526530
+4753: SKP Bearing == ID: SKP
+4754: NDR INVIT Trust == ID: NDRINVIT
+4755: Srivari Spices & == ID: SSFL
+4756: Thaai == ID: TCL
+4757: Cinerad Communic == ID: 530457
+4758: Emmforce == ID: 544166
+4759: TGIF Agribusines == ID: 544175
+4760: Brandbucket Med. == ID: 543439
+4761: Ambo Agritec == ID: 543678
+4762: Royal == ID: 544143
+4763: Bharat Hig.InvIT == ID: BHINVIT
+4764: United Cotfab == ID: 544195
+4765: Borosil Scienti. == ID: BOROSCI
+4766: Mason == ID: MASON
+4767: Intellig Sup Tru == ID: 544005
+4768: Manglam Infra == ID: MIEL
+4769: Chetana == ID: CHETANA
+4770: Picturepost == ID: PPSL
+4771: Broach == ID: 544231
+4772: Trescon == ID: 532159
+4773: NHC Foods == ID: 517554
+4774: Thirdwave Fin. == ID: 531652
+4775: Aspira Pathlab == ID: 540788
+4776: Orissa Bengal == ID: OBCL
+4777: Globe Textiles == ID: GLOBE
+4778: Globe Commercial == ID: 540266
+4779: Ideal == ID: IDEALTECHO
+4780: Forcas == ID: FORCAS
+4781: Indian Phosphate == ID: IPHL
+4782: Mach Conferences == ID: 544248
+4783: Namo eWaste == ID: NAMOEWASTE
+4784: Tolins == ID: TOLINS
+4785: Pelatro == ID: PELATRO
+4786: Sanofi Consumer == ID: SANOFICONR
+4787: Vision Infra == ID: VIESL
+4788: Safa Systems == ID: 543461
+4789: Paramount Dye == ID: PARAMOUNT
+4790: Freshara Agro == ID: FRESHARA
